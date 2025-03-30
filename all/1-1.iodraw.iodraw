@@ -22,6 +22,9 @@
         <mxCell id="4UpuGCtKJowE_2Zf19FS-8" value="实体相关性利用不足" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="225" y="108" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4UpuGCtKJowE_2Zf19FS-9" value="动作空间过大" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
