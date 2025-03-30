@@ -710,7 +710,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Wfc1AWtO4YWk6_WgT3eU-193" value="实体&lt;br&gt;策略网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="375.64" y="347.66" width="60" height="30" as="geometry" />
+          <mxGeometry x="366" y="324.71000000000004" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Wfc1AWtO4YWk6_WgT3eU-194" value="概念&lt;br&gt;策略网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="377" y="569.7100000000002" width="60" height="30" as="geometry" />
