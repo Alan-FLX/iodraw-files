@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qjB6RDbSmLjVOZGPPzcC-1" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="470.44" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="vE1eUv6ufOp_0bHPNKAG-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="435" y="290" width="135" height="421" as="geometry" />
         </mxCell>
@@ -843,6 +840,9 @@
         </mxCell>
         <mxCell id="vE1eUv6ufOp_0bHPNKAG-30" value="奖励优化模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="692.29" y="370.17" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qjB6RDbSmLjVOZGPPzcC-1" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="470.44" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vE1eUv6ufOp_0bHPNKAG-31" value="推理模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="471.9" y="270" width="60" height="20" as="geometry" />
