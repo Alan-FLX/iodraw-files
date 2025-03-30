@@ -346,8 +346,8 @@
         <mxCell id="Wfc1AWtO4YWk6_WgT3eU-96" value="概念策略奖励" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="753.1400000000001" y="586.2099999999998" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Wfc1AWtO4YWk6_WgT3eU-100" value="奖励函数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="598.14" y="444.82" width="60" height="20" as="geometry" />
+        <mxCell id="Wfc1AWtO4YWk6_WgT3eU-100" value="奖励&lt;div&gt;函数&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="594.9499999999999" y="442.03" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Wfc1AWtO4YWk6_WgT3eU-102" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
