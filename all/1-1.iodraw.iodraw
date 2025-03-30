@@ -14,7 +14,10 @@
           <mxGeometry x="560" y="8" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4UpuGCtKJowE_2Zf19FS-6" value="层次化强化学习心梗知识图谱推理模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="185" y="58" width="230" height="30" as="geometry" />
+          <mxGeometry x="264" y="70" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4UpuGCtKJowE_2Zf19FS-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="275" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
