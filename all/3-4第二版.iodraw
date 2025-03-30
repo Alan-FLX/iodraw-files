@@ -728,7 +728,7 @@
           <mxGeometry x="633.24" y="390.73" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Wfc1AWtO4YWk6_WgT3eU-198" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="584.14" y="371.5800000000001" width="314.59" height="213.04" as="geometry" />
+          <mxGeometry x="581.14" y="371.58" width="275.86" height="238.42" as="geometry" />
         </mxCell>
         <mxCell id="vE1eUv6ufOp_0bHPNKAG-2" value="LSTM编码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="311.39" y="488.3800000000001" width="70" height="20" as="geometry" />
