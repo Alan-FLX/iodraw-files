@@ -17,7 +17,7 @@
           <mxGeometry x="264" y="70" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4UpuGCtKJowE_2Zf19FS-7" value="LLM增强的心梗知识图谱推理模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="279" y="300" width="200" height="30" as="geometry" />
+          <mxGeometry x="280" y="360" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4UpuGCtKJowE_2Zf19FS-9" value="动作空间过大" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="120" width="120" height="40" as="geometry" />
@@ -25,7 +25,7 @@
         <mxCell id="4UpuGCtKJowE_2Zf19FS-10" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;实体相关性利用不足&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="264" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4UpuGCtKJowE_2Zf19FS-11" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;层次化强化学习心梗知识图谱推理模型&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4UpuGCtKJowE_2Zf19FS-11" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;层次化强化学习心梗知识图谱推理模型HE-MIKGR&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="180" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
