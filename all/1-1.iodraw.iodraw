@@ -10,6 +10,9 @@
         <mxCell id="4UpuGCtKJowE_2Zf19FS-3" value="研究内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="415" y="28" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4UpuGCtKJowE_2Zf19FS-5" value="成果应用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="28" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
