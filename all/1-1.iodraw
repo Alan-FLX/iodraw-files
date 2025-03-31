@@ -300,7 +300,7 @@
         </UserObject>
         <UserObject label="实验参数设置" tags="背景" id="68">
           <mxCell style="vsdxID=129;fillColor=#FFFFFF;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontSize=16;fontFamily=Helvetica;" parent="1" vertex="1">
-            <mxGeometry x="256" y="495" width="176" height="76" as="geometry" />
+            <mxGeometry x="256" y="495" width="144" height="76" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tags="背景" id="71">
