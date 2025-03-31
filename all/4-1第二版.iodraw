@@ -209,12 +209,12 @@
         <mxCell id="1bmsoxMyOyMTOgDV-3Oa-40" value="MIKG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1207.5300000000002" y="499.71000000000004" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1bmsoxMyOyMTOgDV-3Oa-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.055;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="vBB606Umf4SSrBK1PSkk-34" edge="1">
+        <mxCell id="1bmsoxMyOyMTOgDV-3Oa-62" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1115.19" y="485" as="sourcePoint" />
+            <mxPoint x="-1110" y="485" as="sourcePoint" />
             <mxPoint x="-1075.3700000000001" y="356.17" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1100" y="485" />
+              <mxPoint x="-1095.3700000000001" y="485.17" />
               <mxPoint x="-1095.3700000000001" y="413.17" />
               <mxPoint x="-1095.3700000000001" y="356.17" />
             </Array>
