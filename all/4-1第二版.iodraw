@@ -493,10 +493,10 @@
         <mxCell id="QwS8vAI97AS_Jxm2Jku4-37" value="HR-MIKGR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#FF9999;" parent="QwS8vAI97AS_Jxm2Jku4-33" vertex="1">
           <mxGeometry x="4.800000000000068" y="51.079999999999984" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QwS8vAI97AS_Jxm2Jku4-38" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="QwS8vAI97AS_Jxm2Jku4-33" target="QwS8vAI97AS_Jxm2Jku4-32" edge="1">
+        <mxCell id="QwS8vAI97AS_Jxm2Jku4-38" value="" style="endArrow=classic;html=1;" parent="QwS8vAI97AS_Jxm2Jku4-33" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="88.54000000000019" y="25.179999999999836" as="sourcePoint" />
-            <mxPoint x="115.36000000000013" y="24.910000000000025" as="targetPoint" />
+            <mxPoint x="115.00000000000011" y="25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QwS8vAI97AS_Jxm2Jku4-39" value="" style="endArrow=none;html=1;" parent="QwS8vAI97AS_Jxm2Jku4-33" edge="1">
