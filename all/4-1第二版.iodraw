@@ -17,10 +17,10 @@
           <mxGeometry x="-633.5" y="456.9499999999999" width="65" height="19.92" as="geometry" />
         </mxCell>
         <mxCell id="QwS8vAI97AS_Jxm2Jku4-69" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;arcSize=50;strokeColor=none;fillColor=#B3B3B3;" parent="1" vertex="1">
-          <mxGeometry x="-633.5" y="417.8999999999999" width="65" height="19.92" as="geometry" />
+          <mxGeometry x="-633.5" y="417.9" width="43.5" height="19.92" as="geometry" />
         </mxCell>
         <mxCell id="QwS8vAI97AS_Jxm2Jku4-68" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;arcSize=50;strokeColor=none;fillColor=#B3B3B3;" parent="1" vertex="1">
-          <mxGeometry x="-635" y="376.80999999999995" width="65" height="19.92" as="geometry" />
+          <mxGeometry x="-635" y="376.81" width="45" height="19.92" as="geometry" />
         </mxCell>
         <mxCell id="QwS8vAI97AS_Jxm2Jku4-60" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;arcSize=50;strokeColor=none;fillColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="-635" y="334.43" width="45" height="19.92" as="geometry" />
@@ -612,7 +612,7 @@
           <mxGeometry x="-545" y="346.68" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QwS8vAI97AS_Jxm2Jku4-64" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;quot;helvetica&amp;quot; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;R(e&lt;/span&gt;&lt;sub style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;quot;helvetica&amp;quot; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px&quot;&gt;Ti&lt;/sub&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;quot;helvetica&amp;quot; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-628" y="413.95" width="58" height="20" as="geometry" />
+          <mxGeometry x="-554" y="366.68" width="58" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QwS8vAI97AS_Jxm2Jku4-65" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-613.09" y="357.03" width="20" height="20" as="geometry" />
