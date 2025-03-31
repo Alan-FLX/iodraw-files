@@ -486,8 +486,8 @@
             <mxGeometry relative="1" as="geometry">
               <mxPoint x="10" y="-1" as="offset" />
               <Array as="points" />
-              <mxPoint x="490" y="260" as="sourcePoint" />
-              <mxPoint x="490" y="282" as="targetPoint" />
+              <mxPoint x="489" y="258" as="sourcePoint" />
+              <mxPoint x="489" y="280" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
