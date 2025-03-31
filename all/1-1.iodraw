@@ -1,0 +1,34 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="8yTCHZP3gO6Pv9wZV2s7">
+    <mxGraphModel dx="982" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4UpuGCtKJowE_2Zf19FS-2" value="存在问题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="110" y="8" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4UpuGCtKJowE_2Zf19FS-3" value="研究内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="344" y="8" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4UpuGCtKJowE_2Zf19FS-5" value="成果应用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="560" y="8" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4UpuGCtKJowE_2Zf19FS-6" value="层次化强化学习心梗知识图谱推理模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="264" y="70" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4UpuGCtKJowE_2Zf19FS-7" value="LLM增强的心梗知识图谱推理模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="280" y="360" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4UpuGCtKJowE_2Zf19FS-9" value="动作空间过大" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4UpuGCtKJowE_2Zf19FS-10" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;实体相关性利用不足&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="264" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4UpuGCtKJowE_2Zf19FS-11" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;层次化强化学习心梗知识图谱推理模型HE-MIKGR&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="180" width="240" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
