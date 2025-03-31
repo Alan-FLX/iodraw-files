@@ -379,8 +379,8 @@
             <mxGeometry relative="1" as="geometry">
               <mxPoint as="offset" />
               <Array as="points" />
-              <mxPoint x="190" y="280" as="sourcePoint" />
-              <mxPoint x="220" y="279" as="targetPoint" />
+              <mxPoint x="180" y="280" as="sourcePoint" />
+              <mxPoint x="215" y="279" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
