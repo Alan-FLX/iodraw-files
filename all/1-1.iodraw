@@ -29,7 +29,10 @@
           <mxGeometry x="280" y="180" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6H8Q6oXrV3VUQbf8Fj3l-1" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;知识图谱&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;层次化模块&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="264" y="230" width="120" height="40" as="geometry" />
+          <mxGeometry x="264" y="220" width="86" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6H8Q6oXrV3VUQbf8Fj3l-2" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;知识图谱&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;层次化模块&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="230" width="86" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
