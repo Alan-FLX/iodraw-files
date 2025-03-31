@@ -167,7 +167,7 @@
         <mxCell id="1bmsoxMyOyMTOgDV-3Oa-17" value="指令提示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1212.53" y="372.08" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1bmsoxMyOyMTOgDV-3Oa-19" value="Llama3..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1bmsoxMyOyMTOgDV-3Oa-19" value="Llama3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-1240.18" y="413.87" width="100.18" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1bmsoxMyOyMTOgDV-3Oa-20" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
@@ -708,7 +708,7 @@
           <mxGeometry x="-921.55" y="568.2" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uT276lI_bwyHOnCs3BbW-3" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1122.62" y="419.70000000000005" width="30" height="30" as="geometry" />
+          <mxGeometry x="-1179.87" y="413.87000000000006" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
