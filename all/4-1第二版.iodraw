@@ -82,8 +82,8 @@
         <mxCell id="GzXtokihir9xdNntoqyG-91" value="t" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1087.09" y="610.1999999999999" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GzXtokihir9xdNntoqyG-92" value="实体\关系嵌入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1152.62" y="630.1999999999999" width="90" height="20" as="geometry" />
+        <mxCell id="GzXtokihir9xdNntoqyG-92" value="实体\关系&lt;div&gt;嵌入&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-1140" y="624.5699999999999" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-93" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeWidth=1;fillColor=#fff2cc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1235.8700000000001" y="688.6999999999999" width="17" height="17" as="geometry" />
