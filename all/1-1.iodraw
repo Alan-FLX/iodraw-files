@@ -407,14 +407,6 @@
         <mxCell id="92" style="fontSize=16;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="480" y="442" as="geometry" />
         </mxCell>
-        <UserObject label="" tags="连接线" id="93">
-          <mxCell style="vsdxID=39;edgeStyle=none;startArrow=none;endArrow=open;startSize=9;endSize=9;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontFamily=Helvetica;" parent="1" source="92" target="20" edge="1">
-            <mxGeometry relative="1" as="geometry">
-              <mxPoint x="10" y="-1" as="offset" />
-              <Array as="points" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
         <mxCell id="94" style="fontSize=16;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="480" y="250" as="geometry" />
         </mxCell>
@@ -487,6 +479,16 @@
         <mxCell id="HMi-MmQ1VNd6gzIzXlAR-106" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;未充分发挥&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;心梗知识图谱&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;推理能力&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;心梗知识图谱&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;推理效率不高&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="65" y="443" width="120" height="190" as="geometry" />
         </mxCell>
+        <UserObject label="" tags="连接线" id="HMi-MmQ1VNd6gzIzXlAR-109">
+          <mxCell style="vsdxID=41;edgeStyle=none;startArrow=none;endArrow=open;startSize=9;endSize=9;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontFamily=Helvetica;" edge="1" parent="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint x="10" y="-1" as="offset" />
+              <Array as="points" />
+              <mxPoint x="481" y="435" as="sourcePoint" />
+              <mxPoint x="481" y="457" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
