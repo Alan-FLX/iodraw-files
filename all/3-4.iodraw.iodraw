@@ -1204,7 +1204,7 @@
         <mxCell id="c9z6n5aXbns-N2uetD-i-202" value="转换函数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="614.26" y="296.92" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="c9z6n5aXbns-N2uetD-i-204" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="c9z6n5aXbns-N2uetD-i-204" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="844.22" y="265.84" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
