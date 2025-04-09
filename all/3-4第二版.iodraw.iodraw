@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram id="nmv2XRoQXHwYEfm_d_9S" name="第 1 页">
-    <mxGraphModel dx="1424" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="570" dy="304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -840,12 +840,6 @@
         </mxCell>
         <mxCell id="qjB6RDbSmLjVOZGPPzcC-7" value="输出：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="895" y="748.38" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MwSojHopaXP7dzB924C_-1" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;MIKG,&amp;nbsp;&lt;div&gt;(e&lt;sub&gt;s&lt;/sub&gt;,r&lt;sub&gt;q&lt;/sub&gt;,?)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="329.9999999999999" width="70" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MwSojHopaXP7dzB924C_-2" value="输入：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="758.38" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
