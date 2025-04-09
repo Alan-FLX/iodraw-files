@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1cUNKLz9rjtNzpxtQJ9v-259" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;fontSize=10;strokeColor=#23445d;arcSize=7;fillColor=none;dashed=1;" parent="1" vertex="1">
+        <mxCell id="1cUNKLz9rjtNzpxtQJ9v-259" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;fontSize=10;strokeColor=#23445d;arcSize=7;fillColor=none;dashed=1;fontColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="950" y="49.019999999999996" width="610" height="472" as="geometry" />
         </mxCell>
         <mxCell id="1cUNKLz9rjtNzpxtQJ9v-234" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBackgroundColor=none;strokeColor=#CCCCCC;fillColor=none;fontSize=10;fontColor=#000000;" parent="1" vertex="1">
@@ -62,15 +62,15 @@
         <mxCell id="1cUNKLz9rjtNzpxtQJ9v-25" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="668" y="96.49000000000002" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1cUNKLz9rjtNzpxtQJ9v-78" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=3.9105098855359;endSize=1.9916129032258065;width=2.3870967741935485;" parent="1" edge="1" source="c9z6n5aXbns-N2uetD-i-6">
+        <mxCell id="1cUNKLz9rjtNzpxtQJ9v-78" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=3.9105098855359;endSize=1.9916129032258065;width=2.3870967741935485;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610.24" y="105.34000000000003" as="sourcePoint" />
-            <mxPoint x="630.24" y="105.34000000000003" as="targetPoint" />
+            <mxPoint x="702.33" y="96.26000000000003" as="sourcePoint" />
+            <mxPoint x="722.33" y="96.26000000000003" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1cUNKLz9rjtNzpxtQJ9v-89" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="330.04" y="160" width="729.96" height="60" as="geometry" />
+          <mxGeometry x="330.04" y="160" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1cUNKLz9rjtNzpxtQJ9v-90" value="" style="group" parent="1cUNKLz9rjtNzpxtQJ9v-89" vertex="1" connectable="0">
           <mxGeometry x="-76.99662447257384" y="-19.13308913308917" width="248.39662447257385" height="55.64102564102566" as="geometry" />
@@ -242,9 +242,6 @@
             <mxPoint x="46.91999999999996" y="36.50999999999999" as="sourcePoint" />
             <mxPoint x="46.95999999999992" y="76.50999999999999" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="c9z6n5aXbns-N2uetD-i-6" value="$$c_{t}=\frac{1}{\left|\operatorname{Ins}\left(c_{t}\right)\right|} \sum_{e_{i} \in \operatorname{Ins}\left(c_{t}\right)} \mathrm{M} e_{i}$$" style="text;whiteSpace=wrap;" vertex="1" parent="1cUNKLz9rjtNzpxtQJ9v-89">
-          <mxGeometry x="169.95999999999998" y="-48.06999999999999" width="560" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1cUNKLz9rjtNzpxtQJ9v-91" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=3.9105098855359;endSize=1.9916129032258065;width=2.3870967741935485;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -845,12 +842,8 @@
             <mxPoint x="552.05" y="567.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c9z6n5aXbns-N2uetD-i-7" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=3.9105098855359;endSize=1.9916129032258065;width=2.3870967741935485;" edge="1" parent="1" target="c9z6n5aXbns-N2uetD-i-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610.24" y="105.34000000000003" as="sourcePoint" />
-            <mxPoint x="630.24" y="105.34000000000003" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="c9z6n5aXbns-N2uetD-i-6" value="$$c_{t}=\frac{1}{\left|\operatorname{Ins}\left(c_{t}\right)\right|} \sum_{e_{i} \in \operatorname{Ins}\left(c_{t}\right)} \mathrm{M} e_{i}$$" style="text;whiteSpace=wrap;fontColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="692.89" y="10.920000000000007" width="560" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
