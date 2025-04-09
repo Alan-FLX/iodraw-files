@@ -846,7 +846,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c9z6n5aXbns-N2uetD-i-6" value="$$c_{t}=\frac{1}{\left|\operatorname{Ins}\left(c_{t}\right)\right|} \sum_{e_{i} \in \operatorname{Ins}\left(c_{t}\right)} \mathrm{Me} e_{i}$$" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="655.65" y="-0.9799999999999898" width="560" height="50" as="geometry" />
+          <mxGeometry x="645.63" y="7.105427357601002e-15" width="560" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
