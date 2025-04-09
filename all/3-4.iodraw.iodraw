@@ -842,8 +842,8 @@
             <mxPoint x="552.05" y="567.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c9z6n5aXbns-N2uetD-i-6" value="$$c_{t}=\frac{1}{\left|\operatorname{Ins}\left(\textcolor{red}{c_{t}\right})\right|} \sum_{e_{i} \in \operatorname{Ins}\left(c_{t}\right)} \mathrm{M} e_{i}$$" style="text;whiteSpace=wrap;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="735.73" y="-25" width="161.78" height="50" as="geometry" />
+        <mxCell id="c9z6n5aXbns-N2uetD-i-6" value="$$c_{t}=\frac{1}{\left|\operatorname{Ins}\left(c_{t}\right)\right|} \sum_{e_{i} \in \operatorname{Ins}\left(c_{t}\right)} \mathrm{M} e_{i}$$" style="text;whiteSpace=wrap;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="772" y="-30" width="161.78" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
