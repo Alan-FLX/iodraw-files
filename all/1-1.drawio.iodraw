@@ -339,16 +339,6 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <UserObject label="" tags="连接线" id="HMi-MmQ1VNd6gzIzXlAR-109">
-          <mxCell style="vsdxID=41;edgeStyle=none;startArrow=none;endArrow=open;startSize=9;endSize=9;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontFamily=Helvetica;" parent="1" edge="1">
-            <mxGeometry relative="1" as="geometry">
-              <mxPoint x="10" y="-1" as="offset" />
-              <Array as="points" />
-              <mxPoint x="477" y="302" as="sourcePoint" />
-              <mxPoint x="477" y="324" as="targetPoint" />
-            </mxGeometry>
-          </mxCell>
-        </UserObject>
         <UserObject label="" tags="连接线" id="HMi-MmQ1VNd6gzIzXlAR-110">
           <mxCell style="vsdxID=41;edgeStyle=none;startArrow=none;endArrow=open;startSize=9;endSize=9;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontFamily=Helvetica;" parent="1" edge="1">
             <mxGeometry relative="1" as="geometry">
@@ -465,8 +455,8 @@
             <mxGeometry relative="1" as="geometry">
               <mxPoint x="10" y="-1" as="offset" />
               <Array as="points" />
-              <mxPoint x="487" y="301" as="sourcePoint" />
-              <mxPoint x="487" y="323" as="targetPoint" />
+              <mxPoint x="478" y="301" as="sourcePoint" />
+              <mxPoint x="478" y="323" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
