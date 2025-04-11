@@ -394,7 +394,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="" tags="连接线" id="HMi-MmQ1VNd6gzIzXlAR-105">
-          <mxCell style="vsdxID=147;edgeStyle=none;startArrow=none;endArrow=open;startSize=9;endSize=9;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;exitX=0.505;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=16;fontFamily=Helvetica;entryX=0.508;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="40" edge="1">
+          <mxCell style="vsdxID=147;edgeStyle=none;startArrow=none;endArrow=open;startSize=9;endSize=9;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;exitX=0.505;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=16;fontFamily=Helvetica;entryX=0.508;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tNyyyHcMMV432MT539Xh-101" target="40" edge="1">
             <mxGeometry relative="1" as="geometry">
               <mxPoint x="10" as="offset" />
               <Array as="points" />
@@ -489,6 +489,19 @@
         <mxCell id="HMi-MmQ1VNd6gzIzXlAR-124" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;心梗知识图谱&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; 推理系统&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="782" y="87" width="130" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="tNyyyHcMMV432MT539Xh-102" value="" style="vsdxID=147;edgeStyle=none;startArrow=none;endArrow=open;startSize=9;endSize=9;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;exitX=0.505;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=16;fontFamily=Helvetica;entryX=0.508;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="tNyyyHcMMV432MT539Xh-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" as="offset" />
+            <Array as="points" />
+            <mxPoint x="129.115" y="259.1" as="sourcePoint" />
+            <mxPoint x="603" y="277" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;div style=&quot;font-size: 16px;&quot;&gt;推理动作&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;空间过大&lt;/div&gt;" tags="背景" id="tNyyyHcMMV432MT539Xh-101">
+          <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=18;fillColor=#FFFFFF;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="1">
+            <mxGeometry x="67.5" y="232" width="115" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
