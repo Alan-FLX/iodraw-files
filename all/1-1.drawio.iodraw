@@ -425,7 +425,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="HMi-MmQ1VNd6gzIzXlAR-120" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 20px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;LLM增强的心梗知识图谱推理研究&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="315" y="560" width="330" height="50" as="geometry" />
+          <mxGeometry x="315" y="474" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HMi-MmQ1VNd6gzIzXlAR-121" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 20px;&quot;&gt;层次化强化学习心梗知识图谱推理&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="315" y="88" width="330" height="32" as="geometry" />
@@ -435,8 +435,8 @@
             <mxGeometry relative="1" as="geometry">
               <mxPoint x="10" y="-1" as="offset" />
               <Array as="points" />
-              <mxPoint x="480" y="547" as="sourcePoint" />
-              <mxPoint x="480" y="569" as="targetPoint" />
+              <mxPoint x="480" y="461" as="sourcePoint" />
+              <mxPoint x="480" y="483" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
