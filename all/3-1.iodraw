@@ -1390,8 +1390,8 @@
         <mxCell id="SLMKYXg3oIMYnzqgAszj-71" value="概&lt;div&gt;念&lt;/div&gt;&lt;div&gt;层&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="703.22" y="299.28" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SLMKYXg3oIMYnzqgAszj-72" value="$$ \mathrm{R}_{\mathrm{I}}\left(\mathrm{~s}_{\mathrm{T}}^{\mathrm{I}}\right) = \left\{\begin{array}{c}1, {e}_{{T}} = {e}_{\text {target }} \\\mathrm{f}\left(e_{s}, r_{q}, e_{T}\right), \mathrm{other} \end{array}\right.$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="772" y="177.20000000000002" width="1130" height="30" as="geometry" />
+        <mxCell id="SLMKYXg3oIMYnzqgAszj-72" value="$$&amp;nbsp;&lt;span style=&quot;text-align: left; text-wrap-mode: wrap;&quot;&gt;\textcolor{red}&lt;/span&gt;\mathrm{R}_{\mathrm{I}}\left(\mathrm{~s}_{\mathrm{T}}^{\mathrm{I}}\right) = \left\{\begin{array}{c}1, {e}_{{T}} = {e}_{\text {target }} \\\mathrm{f}\left(e_{s}, r_{q}, e_{T}\right), \mathrm{other} \end{array}\right.$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="737" y="177.20000000000002" width="1200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
