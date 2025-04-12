@@ -784,6 +784,9 @@
         <mxCell id="SLMKYXg3oIMYnzqgAszj-135" value="&amp;nbsp; MIKG&amp;nbsp;&amp;nbsp;&lt;div&gt;(e&lt;sub&gt;s&lt;/sub&gt;,r&lt;sub&gt;q&lt;/sub&gt;,?)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="803.9599999999999" width="70" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="SLMKYXg3oIMYnzqgAszj-136" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="231.3" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
