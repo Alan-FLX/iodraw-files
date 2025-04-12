@@ -1342,8 +1342,8 @@
             <mxPoint x="1291.37" y="357.87" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SLMKYXg3oIMYnzqgAszj-59" value="优化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1040.1" y="180.73000000000002" width="40" height="20" as="geometry" />
+        <mxCell id="SLMKYXg3oIMYnzqgAszj-59" value="更新" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1003.9999999999999" y="173.99" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SLMKYXg3oIMYnzqgAszj-60" value="e&lt;sub&gt;s&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1007.81" y="427.46000000000004" width="30" height="20" as="geometry" />
@@ -1394,7 +1394,7 @@
           <mxGeometry x="1044.81" y="247.01999999999998" width="560" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SLMKYXg3oIMYnzqgAszj-77" value="$$\nabla_{{ {\color{Red} \theta}{} } }  {\color{Red} \mathrm{J(\theta)}}   \approx \frac{1}{N} \sum_{j=1}^N \sum_{t=1}^T \gamma^{T-t} R(s_{j,T}^C) \cdot \nabla_{\theta} \log (c_{j,t} | s_{j,t}^C; \theta)$$" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1059.81" y="150" width="560" height="70" as="geometry" />
+          <mxGeometry x="1120.62" y="155.61" width="560" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
