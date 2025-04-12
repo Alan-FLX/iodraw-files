@@ -1361,7 +1361,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c9z6n5aXbns-N2uetD-i-259" value="动作空间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="854.3439738662569" y="281.6487967349482" width="60" height="20" as="geometry" />
+          <mxGeometry x="856.5339738662569" y="284.7487967349482" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c9z6n5aXbns-N2uetD-i-260" value="动作分布" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="855.3799999999999" y="399.11" width="60" height="20" as="geometry" />
