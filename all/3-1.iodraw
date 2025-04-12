@@ -1394,7 +1394,7 @@
           <mxGeometry x="1044.81" y="247.01999999999998" width="560" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SLMKYXg3oIMYnzqgAszj-75" value="$$\nabla_{{ {\color{Red} \theta}{\color{Red} \mathrm{J(\theta)} } } }&amp;nbsp; \approx \frac{1}{N} \sum_{j=1}^N \sum_{t=1}^T \gamma^{T-t} R(s_{j,T}^C) \cdot \nabla_{\theta} \log (c_{j,t} | s_{j,t}^C; \theta)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="961.81" y="165.86" width="1050" height="30" as="geometry" />
+          <mxGeometry x="692.8899999999999" y="170.73000000000002" width="1050" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
