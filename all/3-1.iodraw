@@ -1282,18 +1282,6 @@
         <mxCell id="c9z6n5aXbns-N2uetD-i-226" value="隐藏状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="845.7204688700999" y="164.387067236049" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="c9z6n5aXbns-N2uetD-i-228" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="837.3194926979246" y="238.10495740753106" width="30.745580322828598" height="29.647917083694757" as="geometry" />
-        </mxCell>
-        <mxCell id="c9z6n5aXbns-N2uetD-i-230" value="&lt;span&gt;h&lt;/span&gt;&lt;sub&gt;d&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="837.6926133743274" y="247.75518605013247" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="c9z6n5aXbns-N2uetD-i-231" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="844.7214911606457" y="248.62518605013236" as="sourcePoint" />
-            <mxPoint x="860.8629208301306" y="248.62518605013236" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="c9z6n5aXbns-N2uetD-i-233" value="观察" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="914.8999385088393" y="164.3872689664376" width="40" height="20" as="geometry" />
         </mxCell>
