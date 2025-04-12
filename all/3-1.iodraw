@@ -1343,7 +1343,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c9z6n5aXbns-N2uetD-i-259" value="动作空间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="850.173973866257" y="226.70879673494818" width="60" height="20" as="geometry" />
+          <mxGeometry x="886.453973866257" y="226.70879673494818" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c9z6n5aXbns-N2uetD-i-260" value="动作分布" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="858.1099999999999" y="384.09" width="60" height="20" as="geometry" />
@@ -1382,7 +1382,7 @@
           <mxGeometry x="897.2722598001537" y="271.5776501857167" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SLMKYXg3oIMYnzqgAszj-7" value="$$\theta&amp;nbsp;$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="789.69" y="314.28" width="80" height="30" as="geometry" />
+          <mxGeometry x="803.48" y="308.60999999999996" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
