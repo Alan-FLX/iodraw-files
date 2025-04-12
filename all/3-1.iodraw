@@ -1396,6 +1396,9 @@
         <mxCell id="SLMKYXg3oIMYnzqgAszj-77" value="$$\nabla_{{ {\color{Red} \theta}{} } }  {\color{Red} \mathrm{J(\theta)}}   \approx \frac{1}{N} \sum_{j=1}^N \sum_{t=1}^T \gamma^{T-t} R(s_{j,T}^C) \cdot \nabla_{\theta} \log (c_{j,t} | s_{j,t}^C; \theta)$$" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1120.62" y="155.61" width="560" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="SLMKYXg3oIMYnzqgAszj-78" value="$$\nabla_{{\color{Red} \phi} } {\color{Red} J(\phi)}  \approx \frac{1}{N} \sum_{j=1}^N \sum_{t=1}^T \gamma^{T-t} R(s_{j,T}^L) \cdot \nabla_{\phi} \log (i_{j,t} | s_{j,t}^I; \phi)$$" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="120" width="560" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
