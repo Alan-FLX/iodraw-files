@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram id="nmv2XRoQXHwYEfm_d_9S" name="第 1 页">
-    <mxGraphModel dx="678" dy="1531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="570" dy="1473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1305,9 +1305,6 @@
             <mxPoint x="844.7214911606457" y="248.62518605013236" as="sourcePoint" />
             <mxPoint x="860.8629208301306" y="248.62518605013236" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="c9z6n5aXbns-N2uetD-i-232" value="历史决策" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="833.2241813989239" y="269.1300680589844" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c9z6n5aXbns-N2uetD-i-233" value="观察" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="883.1899385088393" y="223.09726896643758" width="40" height="20" as="geometry" />
