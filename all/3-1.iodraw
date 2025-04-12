@@ -1384,8 +1384,8 @@
         <mxCell id="SLMKYXg3oIMYnzqgAszj-7" value="$$\theta&amp;nbsp;$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="803.48" y="308.60999999999996" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SLMKYXg3oIMYnzqgAszj-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="895" y="378" width="50" height="30" as="geometry" />
+        <mxCell id="SLMKYXg3oIMYnzqgAszj-9" value="$$a&lt;sub&gt;s&lt;/sub&gt;$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="942.06" y="369.56" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
