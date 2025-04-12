@@ -1388,10 +1388,10 @@
           <mxGeometry x="703.22" y="299.28" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SLMKYXg3oIMYnzqgAszj-72" value="$$ {\color{Red} \mathrm{R}_{\mathrm{I}}\left(\mathrm{~s}_{\mathrm{T}}^{\mathrm{I}}\right)}&amp;nbsp; = \left\{\begin{array}{c}1, {e}_{{T}} = {e}_{\text {target }} \\\mathrm{f}\left(e_{s}, r_{q}, e_{T}\right), \mathrm{other} \end{array}\right.$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="548.54" y="221.05999999999997" width="1200" height="30" as="geometry" />
+          <mxGeometry x="537.53" y="228.49999999999997" width="1200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SLMKYXg3oIMYnzqgAszj-73" value="$$ {\color{Red} \mathrm{R}_{\mathrm{c}}\left(\mathrm{~s}_{\mathrm{T}}^{\mathrm{c}}\right)}  = \left\{\begin{array}{c}\mathrm{R}_{\mathrm{I}}(\mathrm{~s}_{\mathrm{T}}^{\mathrm{I}}), {c}_{{T}} = {c}_{\text {target }} \\\mathrm{f}\left(e_{s}, r_{q}, e_{T}\right), \mathrm{other} \end{array}\right.$$" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1035" y="540" width="560" height="70" as="geometry" />
+          <mxGeometry x="1043.81" y="243.01999999999998" width="560" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
