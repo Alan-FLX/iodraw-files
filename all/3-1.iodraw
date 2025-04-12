@@ -1391,7 +1391,7 @@
           <mxGeometry x="532.25" y="226.07" width="1200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SLMKYXg3oIMYnzqgAszj-73" value="$$ {\color{Red} \mathrm{R}_{\mathrm{I}}\left(\mathrm{~s}_{\mathrm{T}}^{\mathrm{I}}\right)}  = \left\{\begin{array}{c}\mathrm{R}_{\mathrm{I}}(\mathrm{~s}_{\mathrm{T}}^{\mathrm{I}}), {c}_{{T}} = {c}_{\text {target }} \\\mathrm{f}\left(e_{s}, r_{q}, e_{T}\right), \mathrm{other} \end{array}\right.$$" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="570" y="420" width="560" height="70" as="geometry" />
+          <mxGeometry x="1039" y="229.16" width="560" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
