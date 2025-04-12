@@ -559,7 +559,7 @@
         <mxCell id="SLMKYXg3oIMYnzqgAszj-10" value="$$\pi(a_t,s_t)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-324.46000000000004" y="748.48" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SLMKYXg3oIMYnzqgAszj-11" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;fontSize=10;strokeColor=#23445d;arcSize=7;fillColor=none;dashed=1;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="SLMKYXg3oIMYnzqgAszj-11" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;fontSize=10;strokeColor=#6c8ebf;arcSize=7;fillColor=#dae8fc;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-383.96000000000004" y="570" width="143.96" height="237.65" as="geometry" />
         </mxCell>
         <mxCell id="SLMKYXg3oIMYnzqgAszj-71" value="概&lt;div&gt;念&lt;/div&gt;&lt;div&gt;层&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
