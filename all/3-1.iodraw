@@ -1399,9 +1399,6 @@
         <mxCell id="SLMKYXg3oIMYnzqgAszj-2" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;fontSize=10;strokeColor=#23445d;arcSize=7;fillColor=none;dashed=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="836" y="181.03" width="80" height="29.97" as="geometry" />
         </mxCell>
-        <mxCell id="SLMKYXg3oIMYnzqgAszj-3" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;fontSize=10;strokeColor=#23445d;arcSize=7;fillColor=none;dashed=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="846" y="191.03" width="80" height="29.97" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
