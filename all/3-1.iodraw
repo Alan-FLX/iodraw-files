@@ -1342,8 +1342,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="c9z6n5aXbns-N2uetD-i-259" value="动作空间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="884.703973866257" y="213.62879673494817" width="60" height="20" as="geometry" />
+        <mxCell id="c9z6n5aXbns-N2uetD-i-259" value="动&lt;div&gt;作&lt;/div&gt;&lt;div&gt;空&lt;/div&gt;&lt;div&gt;间&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="938.513973866257" y="218.10879673494816" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="c9z6n5aXbns-N2uetD-i-260" value="动作分布" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="858.1099999999999" y="384.09" width="60" height="20" as="geometry" />
