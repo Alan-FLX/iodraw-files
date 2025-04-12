@@ -1396,6 +1396,9 @@
         <mxCell id="c9z6n5aXbns-N2uetD-i-263" value="推理模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="854.9" y="133.11" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="SLMKYXg3oIMYnzqgAszj-2" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;fontSize=10;strokeColor=#23445d;arcSize=7;fillColor=none;dashed=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="529.91" y="180" width="239.95" height="103.54" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
