@@ -1390,8 +1390,8 @@
         <mxCell id="SLMKYXg3oIMYnzqgAszj-68" value="输出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1286.8600000000001" y="248.95000000000005" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SLMKYXg3oIMYnzqgAszj-69" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1205" y="118" width="50" height="30" as="geometry" />
+        <mxCell id="SLMKYXg3oIMYnzqgAszj-69" value="$$&lt;span style=&quot;background-color: initial;&quot;&gt;\pi \mathrm{R}_{\mathrm{I}}\left(\mathrm{~s}_{\mathrm{T}}^{\mathrm{I}}\right)=\left\{\begin{array}{c}&lt;/span&gt;&lt;div&gt;1, \cdots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \mathrm{e}_{\mathrm{T}}=\mathrm{e}_{\text {target }} \\&lt;/div&gt;&lt;div&gt;\mathrm{f}\left(e_{s}, r_{q}, e_{T}\right), \cdots \cdots \cdots{ }^{\circ} \mathrm{oth} \text {. }&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;\end{array}\right.&lt;/span&gt;$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="905" y="98" width="650" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
