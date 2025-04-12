@@ -1331,14 +1331,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c9z6n5aXbns-N2uetD-i-257" value="采样动作&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="921.2288393543428" y="334.95957563221464" width="70" height="30" as="geometry" />
+          <mxGeometry x="910.1688393543427" y="326.70957563221464" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c9z6n5aXbns-N2uetD-i-258" value="" style="endArrow=classic;html=1;curved=1;dashed=1;entryX=0.423;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="c9z6n5aXbns-N2uetD-i-257" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="878.137240584166" y="326.70573141166807" as="sourcePoint" />
             <mxPoint x="955.0011913912376" y="326.70573141166807" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="902.733704842429" y="317.3905471408555" />
+              <mxPoint x="910" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
