@@ -781,8 +781,8 @@
             <mxPoint x="781" y="925.8199999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SLMKYXg3oIMYnzqgAszj-135" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;MIKG,&amp;nbsp;&lt;div&gt;(e&lt;sub&gt;s&lt;/sub&gt;,r&lt;sub&gt;q&lt;/sub&gt;,?)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="779.9999999999999" width="70" height="60" as="geometry" />
+        <mxCell id="SLMKYXg3oIMYnzqgAszj-135" value="&amp;nbsp; 输入&amp;nbsp; &amp;nbsp;&lt;br&gt;MIKG,&amp;nbsp;&lt;div&gt;(e&lt;sub&gt;s&lt;/sub&gt;,r&lt;sub&gt;q&lt;/sub&gt;,?)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="798.9599999999999" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
