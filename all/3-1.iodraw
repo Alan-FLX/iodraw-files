@@ -1340,7 +1340,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SLMKYXg3oIMYnzqgAszj-59" value="梯度&lt;div&gt;更新&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1001.8099999999998" y="169.37" width="50" height="40" as="geometry" />
+          <mxGeometry x="1001.8099999999998" y="164.37" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SLMKYXg3oIMYnzqgAszj-60" value="e&lt;sub&gt;s&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1007.81" y="427.46000000000004" width="30" height="20" as="geometry" />
@@ -1391,10 +1391,10 @@
           <mxGeometry x="1044.81" y="247.01999999999998" width="560" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SLMKYXg3oIMYnzqgAszj-77" value="$$\nabla_{{ {\color{Red} \theta}{} } }  {\color{Red} \mathrm{J(\theta)}}   \approx \frac{1}{N} \sum_{j=1}^N \sum_{t=1}^T \gamma^{T-t} R(s_{j,T}^C) \cdot \nabla_{\theta} \log (c_{j,t} | s_{j,t}^C; \theta)$$" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1146.81" y="155.61" width="560" height="70" as="geometry" />
+          <mxGeometry x="1061.81" y="120.00000000000001" width="560" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SLMKYXg3oIMYnzqgAszj-78" value="$$\nabla_{{\color{Red} \phi} } {\color{Red} J(\phi)}  \approx \frac{1}{N} \sum_{j=1}^N \sum_{t=1}^T \gamma^{T-t} R(s_{j,T}^L) \cdot \nabla_{\phi} \log (i_{j,t} | s_{j,t}^I; \phi)$$" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="120" width="560" height="50" as="geometry" />
+          <mxGeometry x="1059.81" y="162.35" width="560" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
