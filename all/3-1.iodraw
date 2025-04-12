@@ -1286,7 +1286,7 @@
           <mxGeometry x="867.3760415065335" y="265.84081604056865" width="23.059185242121448" height="23.059185242121448" as="geometry" />
         </mxCell>
         <mxCell id="c9z6n5aXbns-N2uetD-i-240" value="&lt;span style=&quot;font-size: 25px&quot;&gt;x&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeWidth=12;" parent="1" vertex="1">
-          <mxGeometry x="989.9960415065336" y="239.37996930673268" width="30" height="20" as="geometry" />
+          <mxGeometry x="863.5160415065336" y="264.27996930673265" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c9z6n5aXbns-N2uetD-i-244" value="&lt;i&gt;o&lt;sub&gt;t&lt;/sub&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="912.0563335895465" y="183.6306154222548" width="30" height="30" as="geometry" />
@@ -1343,7 +1343,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c9z6n5aXbns-N2uetD-i-259" value="动作空间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="847.603973866257" y="224.49879673494817" width="60" height="20" as="geometry" />
+          <mxGeometry x="850.173973866257" y="226.70879673494818" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c9z6n5aXbns-N2uetD-i-260" value="动作分布" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="858.1099999999999" y="384.09" width="60" height="20" as="geometry" />
@@ -1380,6 +1380,9 @@
         </mxCell>
         <mxCell id="c9z6n5aXbns-N2uetD-i-243" value="A&lt;sub&gt;t&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="897.2722598001537" y="271.5776501857167" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SLMKYXg3oIMYnzqgAszj-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="815" y="308" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
