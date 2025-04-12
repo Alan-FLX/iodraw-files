@@ -1393,8 +1393,8 @@
         <mxCell id="SLMKYXg3oIMYnzqgAszj-73" value="$$ {\color{Red} \mathrm{R}_{\mathrm{c}}\left(\mathrm{~s}_{\mathrm{T}}^{\mathrm{c}}\right)}  = \left\{\begin{array}{c}\mathrm{R}_{\mathrm{I}}(\mathrm{~s}_{\mathrm{T}}^{\mathrm{I}}), {c}_{{T}} = {c}_{\text {target }} \\\mathrm{f}\left(e_{s}, r_{q}, e_{T}\right), \mathrm{other} \end{array}\right.$$" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1044.81" y="247.01999999999998" width="560" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="SLMKYXg3oIMYnzqgAszj-75" value="&lt;div&gt;\nabla_{{ {\color{Red} \theta}{\color{Red} \mathrm{J(\theta)} } } }&amp;nbsp; \approx \frac{1}{N} \sum_{j=1}^N \sum_{t=1}^T \gamma^{T-t} R(s_{j,T}^C) \cdot \nabla_{\theta} \log (c_{j,t} | s_{j,t}^C; \theta)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="976.81" y="160.86" width="1020" height="40" as="geometry" />
+        <mxCell id="SLMKYXg3oIMYnzqgAszj-75" value="$$&lt;span style=&quot;background-color: initial;&quot;&gt;\nabla_{{ {\color{Red} \theta}{\color{Red} \mathrm{J(\theta)} } } }&amp;nbsp; \approx \frac{1}{N} \sum_{j=1}^N \sum_{t=1}^T \gamma^{T-t} R(s_{j,T}^C) \cdot \nabla_{\theta} \log (c_{j,t} | s_{j,t}^C; \theta)&lt;/span&gt;&lt;br&gt;$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="971.81" y="160.86" width="1030" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
