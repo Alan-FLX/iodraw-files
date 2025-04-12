@@ -1283,10 +1283,10 @@
           <mxGeometry x="843.5200000000001" y="244.8" width="20" height="66.95" as="geometry" />
         </mxCell>
         <mxCell id="c9z6n5aXbns-N2uetD-i-239" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#808080;" parent="1" vertex="1">
-          <mxGeometry x="868.5160415065335" y="259.95081604056867" width="23.059185242121448" height="23.059185242121448" as="geometry" />
+          <mxGeometry x="867.3760415065335" y="265.84081604056865" width="23.059185242121448" height="23.059185242121448" as="geometry" />
         </mxCell>
         <mxCell id="c9z6n5aXbns-N2uetD-i-240" value="&lt;span style=&quot;font-size: 25px&quot;&gt;x&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeWidth=12;" parent="1" vertex="1">
-          <mxGeometry x="865.0460415065336" y="258.8699693067327" width="30" height="20" as="geometry" />
+          <mxGeometry x="989.9960415065336" y="239.37996930673268" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c9z6n5aXbns-N2uetD-i-244" value="&lt;i&gt;o&lt;sub&gt;t&lt;/sub&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="912.0563335895465" y="183.6306154222548" width="30" height="30" as="geometry" />
