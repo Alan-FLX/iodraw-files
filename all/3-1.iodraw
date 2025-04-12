@@ -1388,7 +1388,7 @@
           <mxGeometry x="537.53" y="228.49999999999997" width="1200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SLMKYXg3oIMYnzqgAszj-73" value="$$ {\color{Red} \mathrm{R}_{\mathrm{c}}\left(\mathrm{~s}_{\mathrm{T}}^{\mathrm{c}}\right)}  = \left\{\begin{array}{c}\mathrm{R}_{\mathrm{I}}(\mathrm{~s}_{\mathrm{T}}^{\mathrm{I}}), {c}_{{T}} = {c}_{\text {target }} \\\mathrm{f}\left(e_{s}, r_{q}, e_{T}\right), \mathrm{other} \end{array}\right.$$" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1044.81" y="247.01999999999998" width="560" height="70" as="geometry" />
+          <mxGeometry x="1043.81" y="248.49999999999997" width="560" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SLMKYXg3oIMYnzqgAszj-77" value="$$\nabla_{{ {\color{Red} \theta}{} } }  {\color{Red} \mathrm{J(\theta)}}   \approx \frac{1}{N} \sum_{j=1}^N \sum_{t=1}^T \gamma^{T-t} R(s_{j,T}^C) \cdot \nabla_{\theta} \log (c_{j,t} | s_{j,t}^C; \theta)$$" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1061.81" y="120.00000000000001" width="560" height="70" as="geometry" />
