@@ -49,13 +49,13 @@
         <mxCell id="JIt8-4AZ9XwqClu350nD-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EDEDED;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="490" y="340" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="JIt8-4AZ9XwqClu350nD-30" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+        <mxCell id="JIt8-4AZ9XwqClu350nD-30" value="" style="endArrow=none;html=1;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="489.9999999999999" y="520" as="sourcePoint" />
             <mxPoint x="489.9999999999999" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JIt8-4AZ9XwqClu350nD-31" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+        <mxCell id="JIt8-4AZ9XwqClu350nD-31" value="" style="endArrow=none;html=1;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="489.9999999999999" y="520" as="sourcePoint" />
             <mxPoint x="680" y="520" as="targetPoint" />
