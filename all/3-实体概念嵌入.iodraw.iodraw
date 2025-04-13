@@ -13,7 +13,7 @@
         <mxCell id="JIt8-4AZ9XwqClu350nD-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fillColor=#EDEDED;" parent="1" vertex="1">
           <mxGeometry x="370" y="430" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JIt8-4AZ9XwqClu350nD-9" value="&lt;span&gt;e&lt;sub&gt;s&lt;/sub&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#CCFFE6;" parent="1" vertex="1">
+        <mxCell id="JIt8-4AZ9XwqClu350nD-9" value="&lt;span&gt;&lt;i&gt;e&lt;sub&gt;s&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#CCFFE6;" parent="1" vertex="1">
           <mxGeometry x="330" y="380" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JIt8-4AZ9XwqClu350nD-21" value="r" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
@@ -37,7 +37,7 @@
         <mxCell id="JIt8-4AZ9XwqClu350nD-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EDEDED;strokeColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="340" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="JIt8-4AZ9XwqClu350nD-37" value="&lt;span&gt;e&lt;sub&gt;s&lt;/sub&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#CCFFE6;" parent="1" vertex="1">
+        <mxCell id="JIt8-4AZ9XwqClu350nD-37" value="&lt;span&gt;&lt;i&gt;e&lt;sub&gt;s&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#CCFFE6;" parent="1" vertex="1">
           <mxGeometry x="540" y="380" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JIt8-4AZ9XwqClu350nD-45" value="r" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
