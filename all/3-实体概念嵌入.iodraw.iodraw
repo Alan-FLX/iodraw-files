@@ -82,12 +82,12 @@
         <mxCell id="JIt8-4AZ9XwqClu350nD-52" value="&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;M&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="480.46" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JIt8-4AZ9XwqClu350nD-53" value="" style="endArrow=classic;html=1;dashed=1;curved=1;" parent="1" edge="1">
+        <mxCell id="JIt8-4AZ9XwqClu350nD-53" value="" style="endArrow=classic;html=1;dashed=1;curved=1;exitX=0.36;exitY=1.07;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="JIt8-4AZ9XwqClu350nD-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="345" as="sourcePoint" />
             <mxPoint x="350" y="395" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="470" y="385" />
+              <mxPoint x="480" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
