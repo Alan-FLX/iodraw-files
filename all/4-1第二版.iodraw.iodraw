@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram id="WX9ynRUTzUsAgAuKTITZ" name="第 1 页">
-    <mxGraphModel dx="3100" dy="330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="3719" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,9 +42,6 @@
         </mxCell>
         <mxCell id="vBB606Umf4SSrBK1PSkk-79" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="-1508.17" y="594.0699999999999" width="23" height="76.46" as="geometry" />
-        </mxCell>
-        <mxCell id="zBkmKfOG4LS4_3FPmDF2-7" value="输入：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-2035.17" y="691.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zBkmKfOG4LS4_3FPmDF2-8" value="(e&lt;sub&gt;s&lt;/sub&gt;,r&lt;sub&gt;q&lt;/sub&gt;,?)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-2040" y="714.0900000000001" width="60" height="20" as="geometry" />
@@ -605,6 +602,9 @@
         </mxCell>
         <mxCell id="yJAXXwK8WtsZBFwXX9hc-63" value="&lt;i&gt;e&lt;sub&gt;T&lt;/sub&gt;&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=13;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="-1198" y="677.82" width="38" height="15.48" as="geometry" />
+        </mxCell>
+        <mxCell id="yJAXXwK8WtsZBFwXX9hc-64" value="&lt;i&gt;e&lt;sub&gt;T&lt;/sub&gt;&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=13;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="-1188" y="687.82" width="38" height="15.48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
