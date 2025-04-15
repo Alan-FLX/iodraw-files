@@ -160,15 +160,6 @@
             <mxPoint x="-1393.6899999999998" y="825.2099999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zBkmKfOG4LS4_3FPmDF2-44" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1393.2100000000003" y="811.9599999999998" as="sourcePoint" />
-            <mxPoint x="-1366.24" y="811.68" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-1366.3500000000001" y="811.9599999999998" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1bmsoxMyOyMTOgDV-3Oa-17" value="指&lt;div&gt;令&lt;/div&gt;&lt;div&gt;提&lt;/div&gt;&lt;div&gt;示&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1780" y="594.9499999999998" width="40" height="70" as="geometry" />
         </mxCell>
@@ -653,6 +644,12 @@
         </mxCell>
         <mxCell id="yJAXXwK8WtsZBFwXX9hc-50" value="&lt;i&gt;Chain-of-Thought&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="-1445.1299999999999" y="744.43" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yJAXXwK8WtsZBFwXX9hc-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1474.8999999999999" y="642.4399999999999" as="sourcePoint" />
+            <mxPoint x="-1459.8999999999999" y="642.4399999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
