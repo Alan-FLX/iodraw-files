@@ -364,16 +364,6 @@
             <mxPoint x="-929.02" y="914.0899999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QwS8vAI97AS_Jxm2Jku4-78" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.44;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="QwS8vAI97AS_Jxm2Jku4-77" target="zBkmKfOG4LS4_3FPmDF2-28" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-731.1700000000001" y="940" as="sourcePoint" />
-            <mxPoint x="-1447.1000000000001" y="1190" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-933" y="1140" />
-              <mxPoint x="-1561.17" y="1140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QwS8vAI97AS_Jxm2Jku4-79" value="输出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-893.1700000000001" y="836.56" width="40" height="20" as="geometry" />
         </mxCell>
