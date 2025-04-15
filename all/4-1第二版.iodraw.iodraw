@@ -164,7 +164,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1bmsoxMyOyMTOgDV-3Oa-17" value="指令提示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1554.7" y="802.0799999999999" width="60" height="20" as="geometry" />
+          <mxGeometry x="-1602.05" y="764.9999999999999" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1bmsoxMyOyMTOgDV-3Oa-19" value="Llama3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-1562.17" y="844.6" width="79.28" height="30" as="geometry" />
