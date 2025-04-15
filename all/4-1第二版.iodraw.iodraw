@@ -191,7 +191,7 @@
           <mxGeometry x="-1707.7600000000002" y="596.8199999999999" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vBB606Umf4SSrBK1PSkk-15" value="&lt;i&gt;Chain-of-Thought&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1217.1000000000001" y="908.04" width="110" height="20" as="geometry" />
+          <mxGeometry x="-1282.0200000000002" y="874.65" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vBB606Umf4SSrBK1PSkk-18" value="&lt;span&gt;&lt;i&gt;e&lt;sub&gt;T&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="-1299.17" y="721.4300000000001" width="20" height="20" as="geometry" />
@@ -326,7 +326,7 @@
           <mxGeometry x="-1003.2" y="800.02" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QwS8vAI97AS_Jxm2Jku4-48" value="&lt;i&gt;Chain-of-Thought&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1420.79" y="682.3" width="110" height="20" as="geometry" />
+          <mxGeometry x="-1445.1299999999999" y="714.0899999999999" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QwS8vAI97AS_Jxm2Jku4-49" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1278.17" y="714.09" width="20" height="20" as="geometry" />
