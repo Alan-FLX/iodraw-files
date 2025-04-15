@@ -603,8 +603,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yJAXXwK8WtsZBFwXX9hc-63" value="e&lt;sub&gt;T&lt;/sub&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=13;fillColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="-1198" y="677.82" width="53" height="15.48" as="geometry" />
+        <mxCell id="yJAXXwK8WtsZBFwXX9hc-63" value="&lt;i&gt;e&lt;sub&gt;T&lt;/sub&gt;&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=13;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="-1198" y="677.82" width="38" height="15.48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
