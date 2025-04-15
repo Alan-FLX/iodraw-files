@@ -667,6 +667,12 @@
             <mxPoint x="-1024.17" y="739.81" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yJAXXwK8WtsZBFwXX9hc-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1300" y="570" width="83.44000000000017" height="34.99999999999994" as="geometry" />
+        </mxCell>
+        <mxCell id="yJAXXwK8WtsZBFwXX9hc-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="yJAXXwK8WtsZBFwXX9hc-1">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
