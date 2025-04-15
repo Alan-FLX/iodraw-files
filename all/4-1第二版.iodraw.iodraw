@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yJAXXwK8WtsZBFwXX9hc-64" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=13;fillColor=#CCCCCC;" vertex="1" parent="1">
-          <mxGeometry x="-1845" y="620.8" width="60" height="20" as="geometry" />
+          <mxGeometry x="-1839" y="617.4" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yJAXXwK8WtsZBFwXX9hc-61" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;arcSize=9;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1800" y="786.21" width="450" height="163.79" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="-1508.17" y="594.0699999999999" width="23" height="76.46" as="geometry" />
         </mxCell>
         <mxCell id="zBkmKfOG4LS4_3FPmDF2-8" value="(&lt;i&gt;e&lt;sub&gt;s&lt;/sub&gt;,r&lt;sub&gt;q&lt;/sub&gt;,?&lt;/i&gt;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="615.8000000000002" width="70" height="30" as="geometry" />
+          <mxGeometry x="-1844" y="612.4000000000002" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-118" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="1TMpC4cM3dwWUiS6rzAW-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
