@@ -423,8 +423,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QwS8vAI97AS_Jxm2Jku4-37" value="HR-MIKGR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#FF9999;" parent="1" vertex="1">
-          <mxGeometry x="-1344.1200000000001" y="935.0899999999999" width="80" height="20" as="geometry" />
+        <mxCell id="QwS8vAI97AS_Jxm2Jku4-37" value="HR-MIKGR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#FF9999;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="-1256.8300000000002" y="769.43" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QwS8vAI97AS_Jxm2Jku4-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1467.75" y="609.8199999999999" width="95.09" height="50" as="geometry" />
