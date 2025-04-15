@@ -199,9 +199,9 @@
         <mxCell id="vBB606Umf4SSrBK1PSkk-18" value="&lt;span&gt;&lt;i&gt;e&lt;sub&gt;T&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="-1263.16" y="728.61" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vBB606Umf4SSrBK1PSkk-19" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="vBB606Umf4SSrBK1PSkk-18" edge="1">
+        <mxCell id="vBB606Umf4SSrBK1PSkk-19" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="vBB606Umf4SSrBK1PSkk-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1446.85" y="755" as="sourcePoint" />
+            <mxPoint x="-1430" y="730" as="sourcePoint" />
             <mxPoint x="-1208.48" y="738.4399999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -329,7 +329,7 @@
           <mxGeometry x="-1003.2" y="800.02" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QwS8vAI97AS_Jxm2Jku4-48" value="&lt;i&gt;Chain-of-Thought&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1454.04" y="720" width="110" height="20" as="geometry" />
+          <mxGeometry x="-1420.79" y="682.3" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QwS8vAI97AS_Jxm2Jku4-49" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1242.16" y="721.27" width="20" height="20" as="geometry" />
@@ -718,7 +718,7 @@
           <mxGeometry x="-1515.1900000000003" y="724.7699999999996" width="15.69" height="13" as="geometry" />
         </mxCell>
         <mxCell id="yJAXXwK8WtsZBFwXX9hc-49" value="LLM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1510.13" y="716.27" width="50" height="30" as="geometry" />
+          <mxGeometry x="-1549.5" y="744.43" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
