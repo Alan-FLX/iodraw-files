@@ -166,8 +166,8 @@
         <mxCell id="1bmsoxMyOyMTOgDV-3Oa-17" value="指&lt;div&gt;令&lt;/div&gt;&lt;div&gt;提&lt;/div&gt;&lt;div&gt;示&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1592.05" y="739.9999999999999" width="40" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="1bmsoxMyOyMTOgDV-3Oa-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-1562.17" y="844.6" width="79.28" height="30" as="geometry" />
+        <mxCell id="1bmsoxMyOyMTOgDV-3Oa-19" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-1562.17" y="844.6" width="22.17" height="65.4" as="geometry" />
         </mxCell>
         <mxCell id="1bmsoxMyOyMTOgDV-3Oa-21" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
