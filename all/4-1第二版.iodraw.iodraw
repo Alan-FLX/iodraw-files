@@ -292,10 +292,10 @@
           <mxGeometry x="-1260" y="772.43" width="17" height="17" as="geometry" />
         </mxCell>
         <mxCell id="vBB606Umf4SSrBK1PSkk-78" value="r&lt;sub&gt;n&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeWidth=1;fillColor=#fff2cc;strokeColor=none;fontStyle=2" parent="1" vertex="1">
-          <mxGeometry x="-1237.72" y="839.0699999999999" width="17" height="17" as="geometry" />
+          <mxGeometry x="-1260" y="811.68" width="17" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="vBB606Umf4SSrBK1PSkk-80" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1215.1" y="849.0899999999999" width="30" height="20" as="geometry" />
+        <mxCell id="vBB606Umf4SSrBK1PSkk-80" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="-1263" y="789.43" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vBB606Umf4SSrBK1PSkk-83" value="推理&lt;br&gt;路径" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1332.8200000000002" y="832.17" width="40" height="30" as="geometry" />
