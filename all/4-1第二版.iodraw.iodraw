@@ -141,7 +141,7 @@
             <mxPoint x="-1575.92" y="926.01" as="sourcePoint" />
             <mxPoint x="-1369.92" y="876.01" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1400" y="930" />
+              <mxPoint x="-1369.92" y="926.01" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -426,12 +426,6 @@
         <mxCell id="QwS8vAI97AS_Jxm2Jku4-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1348.92" y="884.01" width="95.09" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QwS8vAI97AS_Jxm2Jku4-35" value="实体层" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#23445d;fontSize=10;arcSize=50;fillColor=#CCFFE6;" parent="1" vertex="1">
-          <mxGeometry x="-1346.38" y="892.04" width="72" height="12.5" as="geometry" />
-        </mxCell>
-        <mxCell id="QwS8vAI97AS_Jxm2Jku4-36" value="概念层" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#23445d;fontSize=10;arcSize=50;fillColor=#FFE599;" parent="1" vertex="1">
-          <mxGeometry x="-1346.38" y="913.4199999999998" width="72" height="12.5" as="geometry" />
-        </mxCell>
         <mxCell id="QwS8vAI97AS_Jxm2Jku4-37" value="HR-MIKGR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#FF9999;" parent="1" vertex="1">
           <mxGeometry x="-1344.1200000000001" y="935.0899999999999" width="80" height="20" as="geometry" />
         </mxCell>
@@ -439,12 +433,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1274.38" y="919.6300000000001" as="sourcePoint" />
             <mxPoint x="-1260.38" y="919.6800000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QwS8vAI97AS_Jxm2Jku4-40" value="" style="endArrow=none;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1260.38" y="920.01" as="sourcePoint" />
-            <mxPoint x="-1260.38" y="897.6400000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QwS8vAI97AS_Jxm2Jku4-41" value="" style="endArrow=none;html=1;" parent="1" edge="1">
