@@ -50,10 +50,10 @@
           <mxGeometry x="-786.0000000000001" y="702.3" width="130" height="170.6" as="geometry" />
         </mxCell>
         <mxCell id="zBkmKfOG4LS4_3FPmDF2-7" value="输入：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1845.17" y="814.16" width="60" height="30" as="geometry" />
+          <mxGeometry x="-2035.17" y="691.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zBkmKfOG4LS4_3FPmDF2-8" value="(e&lt;sub&gt;s&lt;/sub&gt;,r&lt;sub&gt;q&lt;/sub&gt;,?)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1850" y="837.0000000000001" width="60" height="20" as="geometry" />
+          <mxGeometry x="-2040" y="714.0900000000001" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-118" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="1TMpC4cM3dwWUiS6rzAW-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -443,12 +443,6 @@
               <mxPoint x="-1246.8200000000002" y="565" />
               <mxPoint x="-1169.8200000000002" y="565" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uT276lI_bwyHOnCs3BbW-8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1800.1000000000001" y="837.61" as="sourcePoint" />
-            <mxPoint x="-1770.1000000000001" y="837.61" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QwS8vAI97AS_Jxm2Jku4-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
