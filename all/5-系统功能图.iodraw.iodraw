@@ -1,1 +1,121 @@
-<mxfile host="www.iodraw.com" modified="2025-03-21T02:47:37.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" etag="uei9Dv7JryAE4N8E4rXQ" version="13.3.6" type="device"><diagram id="-CSTbIwDQDl5nhCinQ1I" name="第 1 页">5ZpBc6s2EMc/jY71IAkJdEQ2bg/tzJvJ4R3fUKMYphh5MImdfvpKIEwwSm234Vl2PJmJWJbF/P7LaoUBeL45/Fol2+wPmYoCIC89ALwACEEUEvVPW95aSwBpa1hXeWqcesNT/rcwRs9YX/JU7AaOtZRFnW+HxpUsS7GqB7akquR+6PYsi+FZt8lajAxPq6QYW7/naZ211hAFvf03ka+z7syQsnbPJumczZXssiSV+3cmHAM8r6Ss29HmMBeFhtdxaY9bfrD3+MUqUdaXHJDtsmWUf99vf18ffsxJkhbP6S8mymtSvJgLBjEBfAlCDGIKIgRYAOIAsCWICIhDEKldVPswDnisLdwDHGrnMAZR2Dh7jU8AOAacNwOuI7QY6reObSVfylTor+cBzPdZXounbbLSe/cqm5QtqzeF2oJqaL6oqGpx+JAAPHJVCSnkRtTVm3LpDqAm90wuImyk2ffKImps2TtVO7/EJNP6GLrnrQYG+RX4sQW/D7jCHDWDSP8Zy6JX5tYgu5R+6/CMOUL8Mzn606XxrVlD6hpschFsChjRUDXRBYhiUwa431giEPk3R3tE6QzawIJWgVw0aBlgTCelAqlwRtCdHPV910CGY5CnkHZ1Jf86TupwCEVN1lvttzmsdV8zey7kfpUlVT1LylLWSZ3L8ociwpMiX5fKsRDP6pp4kfwpim9yl2sHZa7aa+VbmZe1qOJXRXRnzlGZOGqTeZ9UmIPhDBeMdfAtMvhoKh26Nu7qykwHlmgs31U5Ptb6UyozHma9hTay0IZwMtqXtXMMRFhPc21Fidh90GbMNdrIWq1DH4TLQWtxbDZCNeYOskUYusbW1hkTPe+xuGmIF4Dh+2BLQ9fY2rplqhdruu8lmmc4d5Ekcg2krRMOdE3Vq17SJClxECQJXANJ/y0j1SylSqrnIEjmXEbaFhDWBwrLZgGh7nSoS6ixxE0noMbMQdgQOVdILasMDbBb5TLaLIAvWBu7Rxt7zjW3zFptoyaHddn1zfx1j7QJcYw2si/cIlWJg6ZccD293Sdt33OtkiBbu6uKtsrqZhCqlgJ99oOfadhS3zW2H3RpbbmgeuHAg7tgS5BzVcLSuJ1ye8TnbHQoBGLBjIyksD1pgx6ZSgpL6/cVpECeg1p80cfP2HdQC0vb+BW08EN/hk/6HMiOpjN6UDhDUymCLa3lqSKiTCP99obaKmUpbL9YiXT05sZZNu+umliuurNVolByvA7D2ziYM3zTkr4rScifBR7rPycyeCfT8U6+VCthgvRwr42LQm9G0TB0nVRrUY9CN7odufwPKS0/ODyUlJgq5NDrPx90t9dKeS4u+flSoi8u5X+9K8/EvcVdaVlNPpSUasqa5K48F/cGd6Xlt5rHktILp5HyTNwbSGl5DvFQUlI6iZJnwt5AyAseety1kNCDkyh5Lu5nSqk2+1erW/f+BXUc/wM=</diagram></mxfile>
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
+  <diagram id="-CSTbIwDQDl5nhCinQ1I" name="第 1 页">
+    <mxGraphModel dx="740" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hshFAiWwpLgx_C5adlfd-1" value="心梗知识图谱推理系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="166" y="230" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-3" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="300" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-4" value="心梗知识图谱推理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="300" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-5" value="心梗数据维护" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="300" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-7" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="300" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-8" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="276" y="70" width="40" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-10" value="心梗知识查询" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="163" y="370" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-11" value="心梗风险查询" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="199" y="370" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-12" value="意图识别" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="231" y="370" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-13" value="实体识别" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="268" y="370" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-14" value="注册" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="22" y="370" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-15" value="登录" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="57" y="370" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-16" value="注销" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="92" y="370" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-17" value="个人信息修改" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="128" y="370" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-18" value="更新心梗数据" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="303" y="370" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-19" value="禁用心梗数据" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="355" y="370" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-20" value="备份心梗数据" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="408" y="370" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-23" value="角色管理" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="464" y="370" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-25" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="525" y="370" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-26" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="65" y="297.5" width="40" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-27" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="205" y="297.5" width="40" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-28" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="345" y="297.5" width="40" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-29" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="484.38" y="319.38" width="40" height="61.25" as="geometry" />
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-30" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="224.70999999999998" y="300" as="sourcePoint" />
+            <mxPoint x="224.70999999999998" y="280.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-31" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="364.71000000000004" y="370" as="sourcePoint" />
+            <mxPoint x="364.71000000000004" y="350.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-32" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="364.71000000000004" y="300" as="sourcePoint" />
+            <mxPoint x="364.71000000000004" y="280.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-33" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240.71000000000004" y="370" as="sourcePoint" />
+            <mxPoint x="240.71000000000004" y="350.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-34" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="208.71000000000004" y="370" as="sourcePoint" />
+            <mxPoint x="208.71000000000004" y="350.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-35" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="66.71000000000004" y="370" as="sourcePoint" />
+            <mxPoint x="66.71000000000004" y="350.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hshFAiWwpLgx_C5adlfd-36" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="101.71000000000004" y="370" as="sourcePoint" />
+            <mxPoint x="101.71000000000004" y="350.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
