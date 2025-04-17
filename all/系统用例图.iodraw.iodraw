@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram id="wbbMvR1IyoRbmn8j7NEX" name="第 1 页">
-    <mxGraphModel dx="888" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1072" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,7 +96,7 @@
             <mxPoint x="-2.5000000000000124" y="4.329999999999996" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R_RCxpYTdKZZBo5pT_LP-32" value="推理结果展示" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="R_RCxpYTdKZZBo5pT_LP-32" value="问答结果展示" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="450" y="240" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R_RCxpYTdKZZBo5pT_LP-33" value="心梗数据更新" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
@@ -267,7 +267,7 @@
         <mxCell id="kEtUlPNoFKiuITjwpx8f-2" value="意图识别展示" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="620" y="240" width="96" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kEtUlPNoFKiuITjwpx8f-3" value="知识图谱&lt;br&gt;查询展示" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="kEtUlPNoFKiuITjwpx8f-3" value="推理节点&lt;div&gt;展示&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="590" y="290" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kEtUlPNoFKiuITjwpx8f-6" value="" style="endArrow=classic;html=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
