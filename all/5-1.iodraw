@@ -56,7 +56,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="91CoGn2IA0Irr11eUA4u-11" value="查询" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="91CoGn2IA0Irr11eUA4u-11" value="推理" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="485" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="91CoGn2IA0Irr11eUA4u-18" value="n" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="91CoGn2IA0Irr11eUA4u-16" target="91CoGn2IA0Irr11eUA4u-8" edge="1">
