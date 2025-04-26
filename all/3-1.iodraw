@@ -799,8 +799,8 @@
         <mxCell id="SLMKYXg3oIMYnzqgAszj-141" value="&lt;br&gt;&lt;div&gt;网络参数&lt;div&gt;&lt;i&gt;θ，Ф&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="56" y="654.7599999999998" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mjS1i3Rn9tzbC0LiMzv9-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;层次化模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-601.6099999999999" y="555" width="100" height="30" as="geometry" />
+        <mxCell id="mjS1i3Rn9tzbC0LiMzv9-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;输入&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-682.3299999999999" y="530" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
