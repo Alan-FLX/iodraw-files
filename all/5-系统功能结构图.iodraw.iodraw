@@ -310,7 +310,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TmHrL_6iofNKoqLcXLOc-44" value="用&lt;br&gt;户&lt;br&gt;管&lt;br&gt;理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TmHrL_6iofNKoqLcXLOc-44" value="日志&lt;br&gt;管&lt;br&gt;理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="308" width="20" height="100" as="geometry" />
         </mxCell>
       </root>
