@@ -45,8 +45,11 @@
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-85" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1652.3899999999999" y="823.01" as="sourcePoint" />
+            <mxPoint x="-1690" y="823" as="sourcePoint" />
             <mxPoint x="-1631.59" y="823.15" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1670" y="820" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-102" value="输入三元组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
