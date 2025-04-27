@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_yl-Fe1HHQH_Pjdw3vb_-1" value="心梗知识图谱推理系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="284" y="171" width="216" height="40" as="geometry" />
+          <mxGeometry x="284" y="180" width="216" height="31" as="geometry" />
         </mxCell>
         <mxCell id="_yl-Fe1HHQH_Pjdw3vb_-2" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="165" y="240" width="106" height="40" as="geometry" />
@@ -100,7 +100,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KAjxJzquc8JGpaGxhpa0-13" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="_yl-Fe1HHQH_Pjdw3vb_-3" edge="1">
+        <mxCell id="KAjxJzquc8JGpaGxhpa0-13" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="_yl-Fe1HHQH_Pjdw3vb_-3" edge="1" source="TmHrL_6iofNKoqLcXLOc-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="332.65" y="308" as="sourcePoint" />
             <mxPoint x="332.65" y="293" as="targetPoint" />
@@ -205,8 +205,15 @@
         <mxCell id="TmHrL_6iofNKoqLcXLOc-3" value="上传推理模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="394" y="240" width="106" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TmHrL_6iofNKoqLcXLOc-4" value="心梗知识图谱推理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="308" width="106" height="40" as="geometry" />
+        <mxCell id="TmHrL_6iofNKoqLcXLOc-5" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="TmHrL_6iofNKoqLcXLOc-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="332.65" y="308" as="sourcePoint" />
+            <mxPoint x="333" y="280" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TmHrL_6iofNKoqLcXLOc-4" value="推理模型选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279.75" y="290" width="106" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
