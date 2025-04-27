@@ -14,7 +14,7 @@
           <mxGeometry x="277.75" y="229" width="106" height="21" as="geometry" />
         </mxCell>
         <mxCell id="_yl-Fe1HHQH_Pjdw3vb_-4" value="心梗数据维护" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="240" width="106" height="30" as="geometry" />
+          <mxGeometry x="510" y="235" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_yl-Fe1HHQH_Pjdw3vb_-5" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="625.25" y="240" width="106" height="30" as="geometry" />
@@ -162,7 +162,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TmHrL_6iofNKoqLcXLOc-3" value="上传推理模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="230" width="106" height="30" as="geometry" />
+          <mxGeometry x="396" y="230" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TmHrL_6iofNKoqLcXLOc-4" value="推理模型选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="277.37" y="260" width="106" height="20" as="geometry" />
