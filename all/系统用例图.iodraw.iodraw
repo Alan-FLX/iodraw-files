@@ -304,7 +304,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cd3_Ofve9O7X6k9AmjxP-7" value="上传推理模型" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="670" y="500" width="90" height="40" as="geometry" />
+          <mxGeometry x="280" y="320" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cd3_Ofve9O7X6k9AmjxP-8" value="心梗知识图谱&lt;div&gt;推理&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="90" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
