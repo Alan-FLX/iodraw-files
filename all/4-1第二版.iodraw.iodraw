@@ -31,9 +31,6 @@
         <mxCell id="QwS8vAI97AS_Jxm2Jku4-68" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;arcSize=50;strokeColor=none;fillColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="-1255.44" y="676.02" width="45" height="19.92" as="geometry" />
         </mxCell>
-        <mxCell id="QwS8vAI97AS_Jxm2Jku4-60" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;arcSize=50;strokeColor=none;fillColor=#B3B3B3;" parent="1" vertex="1">
-          <mxGeometry x="-1255.44" y="633.6400000000001" width="45" height="19.92" as="geometry" />
-        </mxCell>
         <mxCell id="QwS8vAI97AS_Jxm2Jku4-59" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1242.81" y="656.24" width="18.28" height="18.28" as="geometry" />
         </mxCell>
@@ -532,6 +529,9 @@
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-79" value="置信度评分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1339.68" y="686.25" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-80" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-1302" y="742.3100000000001" width="62" height="23.79" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
