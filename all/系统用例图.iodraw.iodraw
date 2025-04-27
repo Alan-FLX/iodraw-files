@@ -275,7 +275,7 @@
             <mxPoint x="280" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cd3_Ofve9O7X6k9AmjxP-1" value="推理模型选择" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Cd3_Ofve9O7X6k9AmjxP-1" value="心梗知识图谱&lt;div&gt;推理&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="414" y="240" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
