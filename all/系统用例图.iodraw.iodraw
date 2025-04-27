@@ -306,7 +306,7 @@
         <mxCell id="Cd3_Ofve9O7X6k9AmjxP-7" value="上传推理模型" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="320" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Cd3_Ofve9O7X6k9AmjxP-8" value="LLM" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Cd3_Ofve9O7X6k9AmjxP-8" value="LLM推理模型" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="280" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cd3_Ofve9O7X6k9AmjxP-9" value="" style="endArrow=classic;html=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Cd3_Ofve9O7X6k9AmjxP-7" target="Cd3_Ofve9O7X6k9AmjxP-8">
@@ -322,6 +322,17 @@
         </mxCell>
         <mxCell id="Cd3_Ofve9O7X6k9AmjxP-11" value="MIKGR推理模型" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="330" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cd3_Ofve9O7X6k9AmjxP-12" value="" style="endArrow=classic;html=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="567" y="284" as="sourcePoint" />
+            <mxPoint x="670" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cd3_Ofve9O7X6k9AmjxP-13" value="&amp;lt;&amp;lt;包含&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Cd3_Ofve9O7X6k9AmjxP-12">
+          <mxGeometry x="0.1333" y="1" relative="1" as="geometry">
+            <mxPoint x="-5.740000000000013" y="-0.4000000000000048" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
