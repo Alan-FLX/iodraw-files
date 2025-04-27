@@ -7,7 +7,7 @@
         <mxCell id="-r13jG1Sc8KBOpodI8AD-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="70" width="455" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="-r13jG1Sc8KBOpodI8AD-2" value="下拉栏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-r13jG1Sc8KBOpodI8AD-2" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="110" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-r13jG1Sc8KBOpodI8AD-3" value="注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -20,7 +20,7 @@
           <mxGeometry x="250" y="90" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-r13jG1Sc8KBOpodI8AD-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="150" width="210" height="40" as="geometry" />
+          <mxGeometry x="300" y="370" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-r13jG1Sc8KBOpodI8AD-7" value="账号：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="155" width="60" height="30" as="geometry" />
