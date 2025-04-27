@@ -549,10 +549,13 @@
           <mxGeometry x="-2412.43" y="1006.98" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-109" value="LLM包括" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2450" y="1026.78" width="70" height="30" as="geometry" />
+          <mxGeometry x="-2445" y="1027.58" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-110" value="Llama3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2392.43" y="1027.58" width="60" height="30" as="geometry" />
+          <mxGeometry x="-2386.43" y="1027.58" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-111" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2305" y="1118" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
