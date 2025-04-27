@@ -68,7 +68,7 @@
           <mxGeometry x="-1720.14" y="980.6099999999998" width="17" height="17" as="geometry" />
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-96" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeWidth=1;strokeColor=none;fillColor=#90C0F0;" parent="1" vertex="1">
-          <mxGeometry x="-1703.14" y="980.6099999999998" width="17" height="17" as="geometry" />
+          <mxGeometry x="-1699.44" y="984.41" width="9.39" height="9.39" as="geometry" />
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-102" value="输入三元组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1730.65" y="896.2099999999998" width="80" height="20" as="geometry" />
