@@ -40,7 +40,7 @@
         <mxCell id="QwS8vAI97AS_Jxm2Jku4-58" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1240.37" y="673.98" width="18.28" height="18.28" as="geometry" />
         </mxCell>
-        <mxCell id="QwS8vAI97AS_Jxm2Jku4-26" value="LLM增强补全" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="QwS8vAI97AS_Jxm2Jku4-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-1564.59" y="864.81" width="96.09" height="18.79" as="geometry" />
         </mxCell>
         <mxCell id="vBB606Umf4SSrBK1PSkk-79" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FFF2CC;" parent="1" vertex="1">
@@ -583,6 +583,9 @@
             <mxPoint x="-1521" y="840" as="sourcePoint" />
             <mxPoint x="-1521.4" y="864.09" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-55" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1425" y="898" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
