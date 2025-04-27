@@ -64,11 +64,8 @@
         <mxCell id="GzXtokihir9xdNntoqyG-105" value="提示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1656.21" y="914.9999999999998" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GzXtokihir9xdNntoqyG-108" value="适配器" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;fillColor=#FFE599;" parent="1" vertex="1">
-          <mxGeometry x="-1536.21" y="880.0000000000001" width="60.31" height="19.8" as="geometry" />
-        </mxCell>
-        <mxCell id="GzXtokihir9xdNntoqyG-114" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;strokeColor=none;fillColor=#FFFDC7;" parent="1" vertex="1">
-          <mxGeometry x="-1521.2499999999998" y="810.3000000000001" width="33.67" height="20" as="geometry" />
+        <mxCell id="GzXtokihir9xdNntoqyG-108" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=default;fillColor=#FFE599;" parent="1" vertex="1">
+          <mxGeometry x="-1552.37" y="810.5100000000001" width="60.31" height="19.8" as="geometry" />
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-131" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -257,7 +254,7 @@
           <mxGeometry x="-1386.77" y="854.21" width="33.67" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1TMpC4cM3dwWUiS6rzAW-20" value="&lt;b&gt;心梗知识图谱补全模块&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1613.5700000000002" y="764.21" width="140" height="30" as="geometry" />
+          <mxGeometry x="-1615.9" y="753.99" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1TMpC4cM3dwWUiS6rzAW-22" value="&lt;b&gt;推理模块&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1485.17" y="499" width="70" height="30" as="geometry" />
