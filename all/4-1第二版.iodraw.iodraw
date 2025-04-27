@@ -546,7 +546,10 @@
           <mxGeometry x="-2419.6900000000005" y="1014.5799999999997" width="15.69" height="13" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-107" value="大语言模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2419" y="1009.1800000000001" width="80" height="30" as="geometry" />
+          <mxGeometry x="-2412.43" y="1006.98" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-109" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2315" y="1128" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
