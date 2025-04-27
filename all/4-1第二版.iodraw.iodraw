@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-84" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-1334.54" y="720.3000000000001" width="73.19" height="36.6" as="geometry" />
+        </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-83" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-1334.54" y="672.62" width="73.19" height="36.6" as="geometry" />
         </mxCell>
@@ -531,16 +534,13 @@
           <mxGeometry x="-1342.94" y="569.6800000000001" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-77" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; text-wrap-mode: wrap; font-family: helvetica;&quot;&gt;M(e&lt;/span&gt;&lt;sub style=&quot;background-color: initial; text-wrap-mode: wrap; font-family: helvetica;&quot;&gt;Ti&lt;/sub&gt;&lt;span style=&quot;background-color: initial; text-wrap-mode: wrap; font-family: helvetica;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1251.44" y="629.5099999999999" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1327.94" y="633.0999999999999" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-78" value="医学验证评分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1285" y="601.22" width="100" height="30" as="geometry" />
+          <mxGeometry x="-1347.94" y="618.62" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-79" value="置信度评分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1265" y="691.75" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-84" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1334.54" y="720.3000000000001" width="73.19" height="36.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
