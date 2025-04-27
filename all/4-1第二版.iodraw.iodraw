@@ -65,7 +65,7 @@
           <mxGeometry x="-1657.76" y="810.3" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-93" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeWidth=1;fillColor=#fff2cc;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1720.14" y="980.61" width="9.39" height="9.39" as="geometry" />
+          <mxGeometry x="-1717.39" y="980.61" width="9.39" height="9.39" as="geometry" />
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-102" value="输入三元组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1730.65" y="896.2099999999998" width="80" height="20" as="geometry" />
@@ -613,7 +613,7 @@
           <mxGeometry x="-1728.2800000000002" y="989.9999999999999" width="40.14" height="10.21" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeWidth=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1710" y="980.61" width="9.39" height="9.39" as="geometry" />
+          <mxGeometry x="-1707.76" y="980.61" width="9.39" height="9.39" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeWidth=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1698.0800000000002" y="980.61" width="9.39" height="9.39" as="geometry" />
