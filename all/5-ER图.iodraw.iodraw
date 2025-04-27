@@ -98,10 +98,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-24" value="研究人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="509.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="-180" y="504.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-25" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="504.5" width="80" height="40" as="geometry" />
+          <mxGeometry x="-100" y="499.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-26" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="mQjNDoR30oFGqd8uWkL9-25" source="mQjNDoR30oFGqd8uWkL9-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
