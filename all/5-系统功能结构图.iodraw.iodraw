@@ -195,10 +195,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TmHrL_6iofNKoqLcXLOc-22" value="L&lt;div&gt;L&lt;/div&gt;&lt;div&gt;M模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="298" width="20" height="100" as="geometry" />
+          <mxGeometry x="397.5" y="298" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TmHrL_6iofNKoqLcXLOc-23" value="M&lt;div&gt;I&lt;/div&gt;&lt;div&gt;K&lt;/div&gt;&lt;div&gt;G&lt;/div&gt;&lt;div&gt;R&lt;br&gt;&lt;div&gt;模型&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="465" y="298" width="20" height="100" as="geometry" />
+          <mxGeometry x="448.5" y="298" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TmHrL_6iofNKoqLcXLOc-24" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="632.7" y="260" width="91.1" height="38" as="geometry" />
