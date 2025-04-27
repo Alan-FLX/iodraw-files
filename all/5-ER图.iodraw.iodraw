@@ -66,7 +66,7 @@
         <mxCell id="mQjNDoR30oFGqd8uWkL9-15" value="领域专家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="510" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mQjNDoR30oFGqd8uWkL9-16" value="领域专家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQjNDoR30oFGqd8uWkL9-16" value="系统管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="584.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
