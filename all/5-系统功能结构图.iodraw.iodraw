@@ -162,7 +162,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TmHrL_6iofNKoqLcXLOc-3" value="上传推理模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="394" y="240" width="106" height="30" as="geometry" />
+          <mxGeometry x="395" y="230" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TmHrL_6iofNKoqLcXLOc-4" value="推理模型选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="277.37" y="260" width="106" height="20" as="geometry" />
@@ -269,7 +269,7 @@
           <mxGeometry x="470" y="290" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TmHrL_6iofNKoqLcXLOc-24" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="720" y="280" width="91.10000000000002" height="18" as="geometry" />
+          <mxGeometry x="735.9" y="270" width="91.10000000000002" height="18" as="geometry" />
         </mxCell>
         <mxCell id="TmHrL_6iofNKoqLcXLOc-25" value="" style="endArrow=none;html=1;strokeColor=#000000;" edge="1" parent="TmHrL_6iofNKoqLcXLOc-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
