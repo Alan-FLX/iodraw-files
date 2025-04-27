@@ -14,10 +14,10 @@
           <mxGeometry x="150" y="110" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-r13jG1Sc8KBOpodI8AD-3" value="选择模型下拉栏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="200" width="110" height="30" as="geometry" />
+          <mxGeometry x="150" y="240" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-r13jG1Sc8KBOpodI8AD-4" value="模型1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="230" width="110" height="30" as="geometry" />
+          <mxGeometry x="150" y="270" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-r13jG1Sc8KBOpodI8AD-5" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;心梗知识图谱推理系统&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="90" width="230" height="30" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="320" y="370" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-r13jG1Sc8KBOpodI8AD-12" value="模型2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="260" width="110" height="30" as="geometry" />
+          <mxGeometry x="150" y="300" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
