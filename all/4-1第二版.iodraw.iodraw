@@ -548,8 +548,11 @@
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-107" value="大语言模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2412.43" y="1006.98" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-109" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2315" y="1128" width="50" height="30" as="geometry" />
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-109" value="LLM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2440" y="1026.78" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-110" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2365" y="1118" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
