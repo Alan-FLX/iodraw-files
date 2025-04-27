@@ -539,10 +539,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-91" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1336.51" y="788.51" width="104.61" height="78.21" as="geometry" />
+          <mxGeometry x="-1337.3" y="794.1" width="104.61" height="78.21" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-94" value="若HR-MIKGR&lt;div&gt;评分最低&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1334.21" y="808.32" width="100" height="40" as="geometry" />
+          <mxGeometry x="-1335" y="813.9100000000001" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
