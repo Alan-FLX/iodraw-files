@@ -4,11 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-81" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1335.6" y="631.9399999999999" width="72.52" height="39.7" as="geometry" />
-        </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-80" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1336.27" y="580" width="73.19" height="36.6" as="geometry" />
+          <mxGeometry x="-1334.54" y="580" width="73.19" height="36.6" as="geometry" />
         </mxCell>
         <mxCell id="yJAXXwK8WtsZBFwXX9hc-64" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=13;fillColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="-1839" y="618.4" width="60" height="20" as="geometry" />
@@ -528,16 +525,16 @@
           <mxGeometry x="-1342.94" y="528.23" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-77" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; text-wrap-mode: wrap; font-family: helvetica;&quot;&gt;M(e&lt;/span&gt;&lt;sub style=&quot;background-color: initial; text-wrap-mode: wrap; font-family: helvetica;&quot;&gt;Ti&lt;/sub&gt;&lt;span style=&quot;background-color: initial; text-wrap-mode: wrap; font-family: helvetica;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1329.68" y="646.9599999999999" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1251.44" y="629.5099999999999" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-78" value="医学验证评分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1349.3400000000001" y="629.6800000000001" width="100" height="30" as="geometry" />
+          <mxGeometry x="-1265.19" y="612.3000000000001" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-79" value="置信度评分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1339.68" y="686.25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-82" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1326.27" y="590" width="73.19" height="36.6" as="geometry" />
+          <mxGeometry x="-1334.54" y="626.5" width="73.19" height="36.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
