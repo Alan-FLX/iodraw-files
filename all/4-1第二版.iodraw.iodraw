@@ -544,6 +544,12 @@
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-94" value="若HR-MIKGR&lt;div&gt;评分最低&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1335" y="813.9100000000001" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-98" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1284.1399999999999" y="780.81" as="sourcePoint" />
+            <mxPoint x="-1284.1399999999999" y="797.59" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
