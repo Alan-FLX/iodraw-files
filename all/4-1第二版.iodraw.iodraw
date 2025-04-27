@@ -528,7 +528,10 @@
           <mxGeometry x="-1558.5" y="859.3100000000001" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-56" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1770" y="602.58" width="55" height="53.9" as="geometry" />
+          <mxGeometry x="-1768" y="602.58" width="55" height="53.9" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-57" value="LLM&lt;div&gt;提示词&lt;/div&gt;&lt;div&gt;增强&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1810" y="643" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
