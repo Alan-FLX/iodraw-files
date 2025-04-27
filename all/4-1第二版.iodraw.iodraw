@@ -223,11 +223,11 @@
         <mxCell id="1TMpC4cM3dwWUiS6rzAW-14" value="Token" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;strokeColor=#004C99;fillColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="-1538.1200000000001" y="911.21" width="33.67" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1TMpC4cM3dwWUiS6rzAW-20" value="&lt;b&gt;心梗知识图谱补全模块&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1615.9" y="753.99" width="140" height="30" as="geometry" />
+        <mxCell id="1TMpC4cM3dwWUiS6rzAW-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;心梗知识图谱补全模块&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-1635.9" y="753.99" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1TMpC4cM3dwWUiS6rzAW-22" value="&lt;b&gt;LLM增强推理模块&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1501.28" y="538.23" width="120" height="30" as="geometry" />
+        <mxCell id="1TMpC4cM3dwWUiS6rzAW-22" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;LLM增强推理模块&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-1516.28" y="538.23" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uT276lI_bwyHOnCs3BbW-9" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
