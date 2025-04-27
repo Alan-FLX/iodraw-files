@@ -109,7 +109,7 @@
           <mxGeometry x="410" y="400" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-1" value="患病人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="380" width="60" height="30" as="geometry" />
+          <mxGeometry x="90" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-2" value="一般医护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="460" width="60" height="30" as="geometry" />
@@ -123,7 +123,7 @@
             <mxPoint x="200" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQjNDoR30oFGqd8uWkL9-7" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mQjNDoR30oFGqd8uWkL9-4">
+        <mxCell id="mQjNDoR30oFGqd8uWkL9-7" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mQjNDoR30oFGqd8uWkL9-4">
           <mxGeometry x="0.0467" y="-2" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
@@ -132,6 +132,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="505" as="sourcePoint" />
             <mxPoint x="130" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mQjNDoR30oFGqd8uWkL9-8" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mQjNDoR30oFGqd8uWkL9-6">
+          <mxGeometry x="0.1571" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
