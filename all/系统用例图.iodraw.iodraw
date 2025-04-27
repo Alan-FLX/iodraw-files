@@ -97,10 +97,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R_RCxpYTdKZZBo5pT_LP-30" value="图谱展示" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="450" y="210" width="96" height="40" as="geometry" />
+          <mxGeometry x="590.04" y="215" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R_RCxpYTdKZZBo5pT_LP-32" value="推理结果展示" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="450" y="260" width="96" height="40" as="geometry" />
+          <mxGeometry x="590.04" y="265" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R_RCxpYTdKZZBo5pT_LP-33" value="心梗数据更新" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="460" y="400" width="96" height="40" as="geometry" />
