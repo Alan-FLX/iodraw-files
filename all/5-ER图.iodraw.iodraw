@@ -126,7 +126,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-30" value="心梗推理模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="469.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="370" y="475" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQjNDoR30oFGqd8uWkL9-31" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333" y="370" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
