@@ -525,7 +525,10 @@
           <mxGeometry x="-1344.68" y="607.89" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-77" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; text-wrap-mode: wrap; font-family: helvetica;&quot;&gt;M(e&lt;/span&gt;&lt;sub style=&quot;background-color: initial; text-wrap-mode: wrap; font-family: helvetica;&quot;&gt;Ti&lt;/sub&gt;&lt;span style=&quot;background-color: initial; text-wrap-mode: wrap; font-family: helvetica;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1340" y="688" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1332.19" y="664.28" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-78" value="医学验证评分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1360" y="728" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
