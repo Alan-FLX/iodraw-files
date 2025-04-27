@@ -95,7 +95,7 @@
           <mxGeometry x="-1515.9" y="672.3" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zBkmKfOG4LS4_3FPmDF2-28" value="&lt;br&gt;(&lt;i&gt;e&lt;sub&gt;s&lt;/sub&gt;,r&lt;sub&gt;q&lt;/sub&gt;,e&lt;sub&gt;T&lt;/sub&gt;&lt;/i&gt;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1775.5000000000002" y="791.5799999999998" width="70" height="50" as="geometry" />
+          <mxGeometry x="-1747.2400000000002" y="798.2099999999998" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vBB606Umf4SSrBK1PSkk-87" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -152,7 +152,7 @@
           <mxGeometry x="-1446.5" y="893.21" width="33.67" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1TMpC4cM3dwWUiS6rzAW-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;心梗知识图谱补全模块&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1575.6000000000001" y="748.73" width="180" height="30" as="geometry" />
+          <mxGeometry x="-1610.0000000000002" y="751.58" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1TMpC4cM3dwWUiS6rzAW-22" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;LLM增强推理模块&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1549.06" y="538.23" width="150" height="30" as="geometry" />
