@@ -202,6 +202,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TmHrL_6iofNKoqLcXLOc-3" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="180" width="106" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
