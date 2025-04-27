@@ -278,6 +278,17 @@
         <mxCell id="Cd3_Ofve9O7X6k9AmjxP-1" value="心梗知识图谱&lt;div&gt;推理&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="240" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Cd3_Ofve9O7X6k9AmjxP-2" value="" style="endArrow=classic;html=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="260" as="sourcePoint" />
+            <mxPoint x="500" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cd3_Ofve9O7X6k9AmjxP-3" value="&amp;lt;&amp;lt;包含&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Cd3_Ofve9O7X6k9AmjxP-2">
+          <mxGeometry x="0.1333" y="1" relative="1" as="geometry">
+            <mxPoint x="-5.740000000000013" y="-0.4000000000000048" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
