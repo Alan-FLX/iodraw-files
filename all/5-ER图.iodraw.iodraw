@@ -117,15 +117,16 @@
         <mxCell id="mQjNDoR30oFGqd8uWkL9-3" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="430" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mQjNDoR30oFGqd8uWkL9-4" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="mQjNDoR30oFGqd8uWkL9-1">
+        <mxCell id="mQjNDoR30oFGqd8uWkL9-4" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="mQjNDoR30oFGqd8uWkL9-3" target="mQjNDoR30oFGqd8uWkL9-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="480" as="sourcePoint" />
             <mxPoint x="200" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQjNDoR30oFGqd8uWkL9-5" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mQjNDoR30oFGqd8uWkL9-4">
-          <mxGeometry x="-0.853" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="mQjNDoR30oFGqd8uWkL9-6" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="440" as="sourcePoint" />
+            <mxPoint x="100" y="405" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
