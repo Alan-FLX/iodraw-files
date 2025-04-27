@@ -524,11 +524,11 @@
             <mxPoint x="-1350" y="591" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-69" value="0.4 C(&lt;i&gt;e&lt;sub&gt;Ti&lt;/sub&gt;&lt;/i&gt;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-69" value="0.4&amp;nbsp; C(&lt;i&gt;e&lt;sub&gt;Ti&lt;/sub&gt;&lt;/i&gt;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1340" y="618" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-74" value="." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1320.52" y="613.4" width="30" height="30" as="geometry" />
+          <mxGeometry x="-1323.75" y="642.3" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
