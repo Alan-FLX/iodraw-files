@@ -67,7 +67,7 @@
           <mxGeometry y="549.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-16" value="系统&lt;div&gt;管理员&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="475" width="60" height="30" as="geometry" />
+          <mxGeometry x="190" y="474.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-18" value="资深医护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="549.5" width="60" height="30" as="geometry" />
@@ -126,10 +126,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-30" value="心梗推理模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="475" width="60" height="30" as="geometry" />
+          <mxGeometry x="400" y="474.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mQjNDoR30oFGqd8uWkL9-31" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333" y="370" width="80" height="40" as="geometry" />
+        <mxCell id="mQjNDoR30oFGqd8uWkL9-31" value="上传" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="469.5" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
