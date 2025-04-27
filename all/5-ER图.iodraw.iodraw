@@ -10,11 +10,11 @@
         <mxCell id="0rAFy3mSrWT-tYFesYWk-2" value="下拉栏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="140" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0rAFy3mSrWT-tYFesYWk-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="170" width="80" height="30" as="geometry" />
+        <mxCell id="0rAFy3mSrWT-tYFesYWk-3" value="注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="210" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0rAFy3mSrWT-tYFesYWk-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="200" width="80" height="30" as="geometry" />
+        <mxCell id="0rAFy3mSrWT-tYFesYWk-4" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="150" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
