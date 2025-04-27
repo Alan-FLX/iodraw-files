@@ -28,8 +28,11 @@
         <mxCell id="StPSLUflJ8jI-S0cocfh-15" value="禁用节点" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="275" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="StPSLUflJ8jI-S0cocfh-16" value="禁用节点" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="StPSLUflJ8jI-S0cocfh-16" value="数据备份" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="310" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="StPSLUflJ8jI-S0cocfh-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="227.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
