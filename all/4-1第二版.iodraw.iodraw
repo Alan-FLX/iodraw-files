@@ -580,10 +580,10 @@
           <mxGeometry x="-1671.92" y="614.68" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1788.28" y="734.21" width="68.28" height="25.79" as="geometry" />
+          <mxGeometry x="-1782.19" y="707.23" width="68.28" height="19.9" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-29" value="HR-MIKGR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1797.15" y="732.11" width="80" height="30" as="geometry" />
+          <mxGeometry x="-1788.2800000000002" y="702.1800000000001" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
