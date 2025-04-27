@@ -80,7 +80,7 @@
           <mxGeometry x="-1789.5300000000004" y="764.4299999999998" width="30.65" height="31.65" as="geometry" />
         </mxCell>
         <mxCell id="vBB606Umf4SSrBK1PSkk-18" value="&lt;span&gt;&lt;i&gt;e&lt;sub&gt;T3&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#00CC00;" parent="1" vertex="1">
-          <mxGeometry x="-1384.96" y="677.3000000000001" width="20" height="20" as="geometry" />
+          <mxGeometry x="-1383.96" y="676.96" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vBB606Umf4SSrBK1PSkk-24" value="&lt;b&gt;评分模块&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1265" y="581.2199999999999" width="70" height="30" as="geometry" />
@@ -513,6 +513,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1364.35" y="687.05" as="sourcePoint" />
             <mxPoint x="-1350" y="687" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-67" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1354.35" y="697.05" as="sourcePoint" />
+            <mxPoint x="-1340" y="697" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
