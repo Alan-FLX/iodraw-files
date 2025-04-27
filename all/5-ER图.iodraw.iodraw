@@ -67,7 +67,7 @@
           <mxGeometry y="549.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-16" value="系统&lt;div&gt;管理员&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="479.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="250" y="475" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-18" value="资深医护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="549.5" width="60" height="30" as="geometry" />
