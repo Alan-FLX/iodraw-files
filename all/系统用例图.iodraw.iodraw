@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram id="bQhbJ9iaE7Pl5tC-bAkx" name="第 1 页">
-    <mxGraphModel dx="595" dy="327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,7 +195,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R_RCxpYTdKZZBo5pT_LP-57" value="心梗图谱推理系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="50" width="110" height="20" as="geometry" />
+          <mxGeometry x="510" y="10" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R_RCxpYTdKZZBo5pT_LP-58" value="" style="endArrow=block;html=1;endFill=0;" parent="1" target="R_RCxpYTdKZZBo5pT_LP-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
