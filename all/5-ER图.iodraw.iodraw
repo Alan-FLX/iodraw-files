@@ -86,7 +86,7 @@
           <mxGeometry x="230" y="580" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-18" value="资深医护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="640" width="60" height="30" as="geometry" />
+          <mxGeometry y="650" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-19" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="580" width="80" height="40" as="geometry" />
@@ -102,7 +102,7 @@
             <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQjNDoR30oFGqd8uWkL9-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.521;entryY=0.116;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="mQjNDoR30oFGqd8uWkL9-19" target="mQjNDoR30oFGqd8uWkL9-18">
+        <mxCell id="mQjNDoR30oFGqd8uWkL9-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mQjNDoR30oFGqd8uWkL9-19" target="mQjNDoR30oFGqd8uWkL9-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-40" y="480" as="sourcePoint" />
             <mxPoint x="-40" y="440" as="targetPoint" />
@@ -110,7 +110,7 @@
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-23" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mQjNDoR30oFGqd8uWkL9-22">
           <mxGeometry x="0.092" y="2" relative="1" as="geometry">
-            <mxPoint y="-2" as="offset" />
+            <mxPoint x="-2" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-24" value="研究人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
