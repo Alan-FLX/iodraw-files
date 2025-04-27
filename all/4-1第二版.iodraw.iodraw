@@ -238,10 +238,10 @@
             <mxPoint x="-1229.85" y="734.31" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1TMpC4cM3dwWUiS6rzAW-13" value="Token" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;strokeColor=default;fillColor=#7EA6E0;" parent="1" vertex="1">
+        <mxCell id="1TMpC4cM3dwWUiS6rzAW-13" value="Token" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;strokeColor=#004C99;fillColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="-1551.2199999999998" y="906.51" width="33.67" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1TMpC4cM3dwWUiS6rzAW-14" value="Token" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;strokeColor=none;fillColor=#7EA6E0;" parent="1" vertex="1">
+        <mxCell id="1TMpC4cM3dwWUiS6rzAW-14" value="Token" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;strokeColor=default;fillColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="-1512.74" y="906.51" width="33.67" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1TMpC4cM3dwWUiS6rzAW-20" value="&lt;b&gt;心梗知识图谱补全模块&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
