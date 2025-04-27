@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-r13jG1Sc8KBOpodI8AD-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="50" width="455" height="370" as="geometry" />
+          <mxGeometry x="130" y="60" width="455" height="370" as="geometry" />
         </mxCell>
         <mxCell id="-r13jG1Sc8KBOpodI8AD-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="160" width="130" height="260" as="geometry" />
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="-r13jG1Sc8KBOpodI8AD-14" value="对话窗口2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-r13jG1Sc8KBOpodI8AD-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
