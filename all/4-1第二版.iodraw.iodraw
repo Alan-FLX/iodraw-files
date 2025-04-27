@@ -238,11 +238,8 @@
             <mxPoint x="-1229.85" y="734.31" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1TMpC4cM3dwWUiS6rzAW-13" value="Token" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;strokeColor=#004C99;fillColor=#7EA6E0;" parent="1" vertex="1">
+        <mxCell id="1TMpC4cM3dwWUiS6rzAW-13" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;strokeColor=#004C99;fillColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="-1551.2199999999998" y="906.51" width="33.67" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="1TMpC4cM3dwWUiS6rzAW-14" value="Token" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;strokeColor=default;fillColor=#7EA6E0;" parent="1" vertex="1">
-          <mxGeometry x="-1512.74" y="906.51" width="33.67" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1TMpC4cM3dwWUiS6rzAW-20" value="&lt;b&gt;心梗知识图谱补全模块&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-1615.9" y="753.99" width="140" height="30" as="geometry" />
@@ -550,6 +547,12 @@
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-43" value="前缀适配器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1556.1899999999998" y="807.2" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-44" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;strokeColor=#004C99;fillColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="-1541.2199999999998" y="916.51" width="33.67" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-45" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;strokeColor=#004C99;fillColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="-1531.2199999999998" y="926.51" width="33.67" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
