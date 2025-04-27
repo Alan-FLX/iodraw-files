@@ -8,10 +8,10 @@
           <mxGeometry x="284" y="180" width="216" height="31" as="geometry" />
         </mxCell>
         <mxCell id="_yl-Fe1HHQH_Pjdw3vb_-2" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="165" y="240" width="106" height="40" as="geometry" />
+          <mxGeometry x="165" y="240" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_yl-Fe1HHQH_Pjdw3vb_-3" value="心梗知识图谱推理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="279.75" y="240" width="106" height="40" as="geometry" />
+          <mxGeometry x="279.75" y="240" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_yl-Fe1HHQH_Pjdw3vb_-4" value="心梗数据维护" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="240" width="106" height="40" as="geometry" />
@@ -203,7 +203,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TmHrL_6iofNKoqLcXLOc-3" value="上传推理模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="394" y="240" width="106" height="40" as="geometry" />
+          <mxGeometry x="394" y="240" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TmHrL_6iofNKoqLcXLOc-5" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="TmHrL_6iofNKoqLcXLOc-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
