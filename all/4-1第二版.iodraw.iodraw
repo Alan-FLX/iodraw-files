@@ -65,7 +65,7 @@
           <mxGeometry x="-1656.21" y="914.9999999999998" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-108" value="适配器" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;fillColor=#FFE599;" parent="1" vertex="1">
-          <mxGeometry x="-1519.2" y="894.9100000000001" width="60.31" height="19.8" as="geometry" />
+          <mxGeometry x="-1536.21" y="880.0000000000001" width="60.31" height="19.8" as="geometry" />
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-114" value="Prefix" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;strokeColor=none;fillColor=#FFFDC7;" parent="1" vertex="1">
           <mxGeometry x="-1521.2499999999998" y="810.3000000000001" width="33.67" height="20" as="geometry" />
