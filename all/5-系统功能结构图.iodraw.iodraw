@@ -59,20 +59,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yl-Fe1HHQH_Pjdw3vb_-28" value="" style="endArrow=none;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="232.5" y="308" as="sourcePoint" />
-            <mxPoint x="232.5" y="294" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_yl-Fe1HHQH_Pjdw3vb_-29" value="" style="endArrow=none;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="202.48000000000002" y="308" as="sourcePoint" />
-            <mxPoint x="202.48000000000002" y="294" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_yl-Fe1HHQH_Pjdw3vb_-39" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="678.05" y="308" as="sourcePoint" />
@@ -104,20 +90,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="332.65" y="308" as="sourcePoint" />
             <mxPoint x="332.65" y="293" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KAjxJzquc8JGpaGxhpa0-15" value="" style="endArrow=none;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="172.40000000000003" y="307.99999999999994" as="sourcePoint" />
-            <mxPoint x="172.40000000000003" y="294" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KAjxJzquc8JGpaGxhpa0-16" value="" style="endArrow=none;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="263.40000000000003" y="307.99999999999994" as="sourcePoint" />
-            <mxPoint x="263.40000000000003" y="294" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
