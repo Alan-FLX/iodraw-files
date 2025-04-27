@@ -554,6 +554,12 @@
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-48" value="Token" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;strokeColor=#004C99;fillColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="-1501.2800000000002" y="911.21" width="33.67" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-49" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1610.93" y="921.01" as="sourcePoint" />
+            <mxPoint x="-1590.1300000000003" y="921.21" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
