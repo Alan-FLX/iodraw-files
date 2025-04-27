@@ -527,6 +527,11 @@
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-69" value="0.4&amp;nbsp; &amp;nbsp;C(&lt;i&gt;e&lt;sub&gt;Ti&lt;/sub&gt;&lt;/i&gt;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1340" y="618" width="80" height="30" as="geometry" />
         </mxCell>
+        <UserObject label="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;img width=&quot;4&quot; height=&quot;26&quot; src=&quot;file:///C:\Users\12494\AppData\Local\Temp\ksohtml8200\wps1.jpg&quot;&gt;&lt;/p&gt;" link="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;img width=&quot;4&quot; height=&quot;26&quot; src=&quot;file:///C:\Users\12494\AppData\Local\Temp\ksohtml8200\wps1.jpg&quot;&gt;&lt;/p&gt;" id="Ncdbk5bG-Yh8BQlxkp6i-72">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="-1310" y="680" width="40" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
