@@ -128,13 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zBkmKfOG4LS4_3FPmDF2-28" value="MIKG&lt;br&gt;(e&lt;sub&gt;s&lt;/sub&gt;,r&lt;sub&gt;q&lt;/sub&gt;,e&lt;sub&gt;T&lt;/sub&gt;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1815.0000000000002" y="851.2099999999998" width="70" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="vBB606Umf4SSrBK1PSkk-86" value="" style="endArrow=none;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1758.88" y="873.28" as="sourcePoint" />
-            <mxPoint x="-1743.01" y="873.2099999999998" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="-1815.0000000000002" y="789.2399999999998" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vBB606Umf4SSrBK1PSkk-87" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
