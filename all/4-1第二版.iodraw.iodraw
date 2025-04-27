@@ -80,10 +80,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-104" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;rounded=1;strokeWidth=1;fillColor=#FFFF99;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1635.54" y="890.2099999999998" width="60" height="53" as="geometry" />
+          <mxGeometry x="-1635.54" y="900" width="45.54" height="43.21" as="geometry" />
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-105" value="提示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1624.94" y="920.2099999999998" width="40" height="20" as="geometry" />
+          <mxGeometry x="-1631.92" y="923.2099999999998" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-108" value="适配器" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;fillColor=#FFE599;" parent="1" vertex="1">
           <mxGeometry x="-1519.2" y="894.9100000000001" width="60.31" height="19.8" as="geometry" />
