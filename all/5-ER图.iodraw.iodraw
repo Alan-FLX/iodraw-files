@@ -16,6 +16,9 @@
         <mxCell id="0rAFy3mSrWT-tYFesYWk-4" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="170" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0rAFy3mSrWT-tYFesYWk-5" value="心梗知识图谱推理系统" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
