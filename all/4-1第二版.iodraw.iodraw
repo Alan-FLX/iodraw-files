@@ -630,8 +630,8 @@
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="-1665.59" y="619.9499999999999" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-26" value="&lt;i style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: center; background-color: rgb(251, 251, 251);&quot;&gt;e&lt;sub style=&quot;forced-color-adjust: none;&quot;&gt;s&lt;/sub&gt;&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1661.88" y="615.52" width="50" height="40" as="geometry" />
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-27" value="&lt;i&gt;e&lt;sub&gt;s&lt;/sub&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1670" y="648" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
