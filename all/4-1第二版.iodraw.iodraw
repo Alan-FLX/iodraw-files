@@ -65,7 +65,7 @@
           <mxGeometry x="-1656.21" y="914.9999999999998" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-108" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#FFD966;fillColor=#FFE599;" parent="1" vertex="1">
-          <mxGeometry x="-1515.8999999999999" y="810.3" width="42.37" height="19.8" as="geometry" />
+          <mxGeometry x="-1541.53" y="810.3" width="42.37" height="19.8" as="geometry" />
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-131" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -556,6 +556,9 @@
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-42" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#FFD966;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="-1559.92" y="810.3000000000001" width="42.37" height="19.8" as="geometry" />
+        </mxCell>
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-43" value="前缀适配器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1500" y="808" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
