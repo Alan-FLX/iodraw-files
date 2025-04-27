@@ -155,6 +155,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mQjNDoR30oFGqd8uWkL9-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="mQjNDoR30oFGqd8uWkL9-37" target="mQjNDoR30oFGqd8uWkL9-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-37" value="推理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="500" width="80" height="40" as="geometry" />
         </mxCell>
