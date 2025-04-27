@@ -244,7 +244,10 @@
           <mxGeometry x="90" y="435" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-67" value="心梗数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="530" width="60" height="30" as="geometry" />
+          <mxGeometry x="210" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mQjNDoR30oFGqd8uWkL9-68" value="维护" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="525" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
