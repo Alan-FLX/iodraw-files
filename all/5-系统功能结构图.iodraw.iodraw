@@ -59,13 +59,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_yl-Fe1HHQH_Pjdw3vb_-39" value="" style="endArrow=none;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="678.05" y="308" as="sourcePoint" />
-            <mxPoint x="678.05" y="294" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KAjxJzquc8JGpaGxhpa0-2" value="" style="endArrow=none;html=1;strokeColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="219.21" y="220" as="sourcePoint" />
@@ -83,20 +76,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="332.65" y="308" as="sourcePoint" />
             <mxPoint x="332.65" y="293" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KAjxJzquc8JGpaGxhpa0-20" value="" style="endArrow=none;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="637.18" y="308" as="sourcePoint" />
-            <mxPoint x="637.18" y="294" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KAjxJzquc8JGpaGxhpa0-21" value="" style="endArrow=none;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="719.18" y="308" as="sourcePoint" />
-            <mxPoint x="719.18" y="294" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -330,6 +309,9 @@
             <mxPoint x="25.03999999999996" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TmHrL_6iofNKoqLcXLOc-44" value="用&lt;br&gt;户&lt;br&gt;管&lt;br&gt;理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="308" width="20" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
