@@ -22,8 +22,11 @@
         <mxCell id="StPSLUflJ8jI-S0cocfh-13" value="数据维护下拉栏" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="200" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="StPSLUflJ8jI-S0cocfh-14" value="数据维护下拉栏" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="StPSLUflJ8jI-S0cocfh-14" value="添加实体关系" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="240" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="StPSLUflJ8jI-S0cocfh-15" value="添加实体关系" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="250" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
