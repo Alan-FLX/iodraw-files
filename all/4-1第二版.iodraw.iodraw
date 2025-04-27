@@ -77,7 +77,7 @@
           <mxGeometry x="-1653.8799999999999" y="894.91" width="45.54" height="43.21" as="geometry" />
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-105" value="提示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-1581.23" y="943.2099999999998" width="40" height="20" as="geometry" />
+          <mxGeometry x="-1651.1100000000001" y="913.1099999999998" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-108" value="适配器" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;fillColor=#FFE599;" parent="1" vertex="1">
           <mxGeometry x="-1519.2" y="894.9100000000001" width="60.31" height="19.8" as="geometry" />
@@ -287,16 +287,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1229.85" y="714.31" as="sourcePoint" />
             <mxPoint x="-1229.85" y="734.31" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1TMpC4cM3dwWUiS6rzAW-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.021;entryY=0.402;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="GzXtokihir9xdNntoqyG-108" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1553.51" y="827.21" as="sourcePoint" />
-            <mxPoint x="-1525.92" y="903.01" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-1543.51" y="827.21" />
-              <mxPoint x="-1543.51" y="903.21" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1TMpC4cM3dwWUiS6rzAW-11" value="Prefix" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;strokeColor=none;fillColor=#FFFDC7;" parent="1" vertex="1">
