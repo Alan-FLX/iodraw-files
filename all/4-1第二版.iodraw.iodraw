@@ -527,9 +527,6 @@
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-69" value="0.4&amp;nbsp; &amp;nbsp;(&lt;i&gt;e&lt;sub&gt;Ti&lt;/sub&gt;&lt;/i&gt;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1335" y="618" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-71" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="-1320" y="673" width="20" height="20" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
