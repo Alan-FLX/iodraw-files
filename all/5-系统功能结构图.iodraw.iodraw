@@ -168,10 +168,10 @@
           <mxGeometry x="277.75" y="270" width="106" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TmHrL_6iofNKoqLcXLOc-6" value="推理路径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="312.25" y="300" width="20" height="100" as="geometry" />
+          <mxGeometry x="306" y="308" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TmHrL_6iofNKoqLcXLOc-7" value="意图识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="342.25" y="300" width="20" height="100" as="geometry" />
+          <mxGeometry x="336.25" y="309" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TmHrL_6iofNKoqLcXLOc-8" value="查询的知识图谱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="376.25" y="300" width="20" height="100" as="geometry" />
