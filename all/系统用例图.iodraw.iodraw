@@ -97,10 +97,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R_RCxpYTdKZZBo5pT_LP-30" value="推理路径展示" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="550" y="200" width="96" height="40" as="geometry" />
+          <mxGeometry x="600" y="180" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R_RCxpYTdKZZBo5pT_LP-32" value="意图识别展示" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="613" y="230" width="96" height="40" as="geometry" />
+          <mxGeometry x="600" y="230" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R_RCxpYTdKZZBo5pT_LP-33" value="心梗数据更新" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="450" y="390" width="96" height="40" as="geometry" />
@@ -290,7 +290,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cd3_Ofve9O7X6k9AmjxP-4" value="查询的知识图谱信息" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="280" width="96" height="40" as="geometry" />
+          <mxGeometry x="600" y="280" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cd3_Ofve9O7X6k9AmjxP-5" value="" style="endArrow=classic;html=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Cd3_Ofve9O7X6k9AmjxP-1" target="Cd3_Ofve9O7X6k9AmjxP-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
