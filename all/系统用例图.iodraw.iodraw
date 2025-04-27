@@ -345,7 +345,7 @@
             <mxPoint x="-5.740000000000013" y="-0.4000000000000048" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cd3_Ofve9O7X6k9AmjxP-19" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Cd3_Ofve9O7X6k9AmjxP-19" value="日志管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="600" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cd3_Ofve9O7X6k9AmjxP-20" value="" style="endArrow=classic;html=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="R_RCxpYTdKZZBo5pT_LP-19" target="Cd3_Ofve9O7X6k9AmjxP-19">
