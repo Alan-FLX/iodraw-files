@@ -197,7 +197,7 @@
         <mxCell id="R_RCxpYTdKZZBo5pT_LP-57" value="心梗图谱推理系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="50" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="R_RCxpYTdKZZBo5pT_LP-58" value="" style="endArrow=classic;html=1;" parent="1" target="R_RCxpYTdKZZBo5pT_LP-6" edge="1">
+        <mxCell id="R_RCxpYTdKZZBo5pT_LP-58" value="" style="endArrow=block;html=1;endFill=0;" parent="1" target="R_RCxpYTdKZZBo5pT_LP-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="349.66" as="sourcePoint" />
             <mxPoint x="130" y="349.66" as="targetPoint" />
@@ -209,7 +209,7 @@
             <mxPoint x="230" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R_RCxpYTdKZZBo5pT_LP-60" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+        <mxCell id="R_RCxpYTdKZZBo5pT_LP-60" value="" style="endArrow=block;html=1;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="229.66000000000008" as="sourcePoint" />
             <mxPoint x="140" y="229.93200000000002" as="targetPoint" />
