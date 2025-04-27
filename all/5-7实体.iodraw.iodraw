@@ -20,13 +20,16 @@
           <mxGeometry x="330" y="190" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="StPSLUflJ8jI-S0cocfh-13" value="数据维护下拉栏" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="200" width="120" height="35" as="geometry" />
+          <mxGeometry x="140" y="205" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="StPSLUflJ8jI-S0cocfh-14" value="添加实体关系" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="240" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="StPSLUflJ8jI-S0cocfh-15" value="禁用节点" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="282.5" width="120" height="35" as="geometry" />
+          <mxGeometry x="140" y="275" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="StPSLUflJ8jI-S0cocfh-16" value="禁用节点" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="310" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
