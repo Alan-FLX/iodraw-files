@@ -178,7 +178,7 @@
         <mxCell id="mQjNDoR30oFGqd8uWkL9-46" value="意图识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mQjNDoR30oFGqd8uWkL9-47" value="意图识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mQjNDoR30oFGqd8uWkL9-47" value="知识图谱信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="270" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
