@@ -332,7 +332,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-38" value="结构嵌入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;direction=west;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="-2148.37" y="1109.45" width="62" height="23.79" as="geometry" />
+          <mxGeometry x="-2022.35" y="962.25" width="62" height="23.79" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-39" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;实体\关系&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;嵌入&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;direction=west;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="-2089.9700000000003" y="1147.1599999999999" width="62" height="34.08" as="geometry" />
