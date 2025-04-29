@@ -312,12 +312,12 @@
           <mxGeometry x="318.5" y="224.75" width="330" height="32" as="geometry" />
         </mxCell>
         <UserObject label="" tags="连接线" id="HMi-MmQ1VNd6gzIzXlAR-122">
-          <mxCell style="vsdxID=41;edgeStyle=none;startArrow=none;endArrow=classic;startSize=9;endSize=9;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontFamily=Helvetica;endFill=1;textShadow=0;exitX=0.491;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="DQ8x65RsSf9vJ3lwSRoO-114">
+          <mxCell style="vsdxID=41;edgeStyle=none;startArrow=none;endArrow=classic;startSize=9;endSize=9;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=none;rounded=0;fontSize=16;fontFamily=Helvetica;endFill=1;textShadow=0;exitX=0.491;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="DQ8x65RsSf9vJ3lwSRoO-114">
             <mxGeometry relative="1" as="geometry">
               <mxPoint x="10" y="-1" as="offset" />
               <Array as="points" />
               <mxPoint x="476.5" y="642.25" as="sourcePoint" />
-              <mxPoint x="476.5" y="664.25" as="targetPoint" />
+              <mxPoint x="460" y="610" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
