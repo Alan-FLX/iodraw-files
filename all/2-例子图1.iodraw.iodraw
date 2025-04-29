@@ -48,7 +48,7 @@
             <mxPoint x="420" y="249.76" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7KMlhh5GlBIv9E5pLz70-19" value="locate" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7KMlhh5GlBIv9E5pLz70-18" vertex="1" connectable="0">
+        <mxCell id="7KMlhh5GlBIv9E5pLz70-19" value="locate&lt;div&gt;（位置）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="7KMlhh5GlBIv9E5pLz70-18" vertex="1" connectable="0">
           <mxGeometry x="-0.2462" relative="1" as="geometry">
             <mxPoint x="-3" y="-15" as="offset" />
           </mxGeometry>
