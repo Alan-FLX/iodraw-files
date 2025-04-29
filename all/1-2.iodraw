@@ -317,7 +317,7 @@
           <mxGeometry x="319" y="94" width="330" height="32" as="geometry" />
         </mxCell>
         <UserObject label="" tags="连接线" id="HMi-MmQ1VNd6gzIzXlAR-122">
-          <mxCell style="vsdxID=41;edgeStyle=none;startArrow=none;endArrow=classic;startSize=9;endSize=9;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontFamily=Helvetica;endFill=1;textShadow=0;exitX=0.491;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="DQ8x65RsSf9vJ3lwSRoO-112">
+          <mxCell style="vsdxID=41;edgeStyle=none;startArrow=none;endArrow=classic;startSize=9;endSize=9;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontFamily=Helvetica;endFill=1;textShadow=0;exitX=0.491;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="DQ8x65RsSf9vJ3lwSRoO-114">
             <mxGeometry relative="1" as="geometry">
               <mxPoint x="10" y="-1" as="offset" />
               <Array as="points" />
@@ -487,16 +487,8 @@
         <mxCell id="DQ8x65RsSf9vJ3lwSRoO-111" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;LLM增强MIKGR问题描述&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="373" y="572.25" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DQ8x65RsSf9vJ3lwSRoO-115" value="" style="vsdxID=41;edgeStyle=none;startArrow=none;endArrow=classic;startSize=9;endSize=9;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=none;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontFamily=Helvetica;endFill=1;textShadow=0;exitX=0.491;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DQ8x65RsSf9vJ3lwSRoO-114" target="DQ8x65RsSf9vJ3lwSRoO-112">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="10" y="-1" as="offset" />
-            <Array as="points" />
-            <mxPoint x="476" y="468" as="sourcePoint" />
-            <mxPoint x="477" y="533.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DQ8x65RsSf9vJ3lwSRoO-112" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;推理模型改进&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="408" y="480" width="120" height="30" as="geometry" />
+          <mxGeometry x="417" y="480" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
