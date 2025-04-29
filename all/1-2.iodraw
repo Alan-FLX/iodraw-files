@@ -441,12 +441,6 @@
             <mxGeometry x="271" y="215.5" width="190" height="45" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="DQ8x65RsSf9vJ3lwSRoO-100" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.004;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.999;exitY=0.514;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="13" target="DQ8x65RsSf9vJ3lwSRoO-99">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="182.5" y="192" as="sourcePoint" />
-            <mxPoint x="232.5" y="142" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <UserObject label="" tags="连接线" id="DQ8x65RsSf9vJ3lwSRoO-102">
           <mxCell style="vsdxID=126;edgeStyle=none;startArrow=none;endArrow=classic;startSize=9;endSize=9;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;fontSize=16;fontFamily=Helvetica;endFill=1;entryX=0.003;entryY=0.505;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.004;exitY=0.539;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tNyyyHcMMV432MT539Xh-101">
             <mxGeometry relative="1" as="geometry">
@@ -454,6 +448,16 @@
               <Array as="points" />
               <mxPoint x="181" y="291" as="sourcePoint" />
               <mxPoint x="271" y="290" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="连接线" id="DQ8x65RsSf9vJ3lwSRoO-103">
+          <mxCell style="vsdxID=126;edgeStyle=none;startArrow=none;endArrow=classic;startSize=9;endSize=9;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;fontSize=16;fontFamily=Helvetica;endFill=1;entryX=0.003;entryY=0.505;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.004;exitY=0.539;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint as="offset" />
+              <Array as="points" />
+              <mxPoint x="183" y="237.82999999999998" as="sourcePoint" />
+              <mxPoint x="271" y="237.82999999999998" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
