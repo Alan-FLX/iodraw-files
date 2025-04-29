@@ -529,12 +529,12 @@
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-113" value="Qwen2.5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2389.6900000000005" y="1058.51" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7p0ieuYtxLlYuCizY3a8-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.004;exitY=0.383;exitDx=0;exitDy=0;exitPerimeter=0;endSize=9;" edge="1" parent="1" source="QwS8vAI97AS_Jxm2Jku4-26" target="7p0ieuYtxLlYuCizY3a8-3">
+        <mxCell id="7p0ieuYtxLlYuCizY3a8-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.004;exitY=0.383;exitDx=0;exitDy=0;exitPerimeter=0;endSize=6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2331.58" y="1004.67" as="sourcePoint" />
-            <mxPoint x="-2290" y="970" as="targetPoint" />
+            <mxPoint x="-2274.68564" y="1046.5065699999998" as="sourcePoint" />
+            <mxPoint x="-2300.530729166667" y="1003.6400000000001" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2300" y="1020" />
+              <mxPoint x="-2300.76" y="1046.24" />
             </Array>
           </mxGeometry>
         </mxCell>
