@@ -142,8 +142,8 @@
         <mxCell id="1TMpC4cM3dwWUiS6rzAW-14" value="Token" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;strokeColor=#004C99;fillColor=#7EA6E0;" parent="1" vertex="1">
           <mxGeometry x="-2243.1" y="1059.3700000000001" width="33.67" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1TMpC4cM3dwWUiS6rzAW-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;心梗知识图谱补全模块&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-2206" y="932.25" width="180" height="30" as="geometry" />
+        <mxCell id="1TMpC4cM3dwWUiS6rzAW-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;心梗知识图谱补全模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-2218.37" y="923.34" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1TMpC4cM3dwWUiS6rzAW-22" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;LLM增强推理模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-2158.1" y="730" width="150" height="30" as="geometry" />
@@ -497,7 +497,7 @@
           <mxGeometry x="-2429" y="730" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-102" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;输出&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-1836" y="730" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1840" y="730" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-103" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1979.96" y="1015.97" width="30" height="30" as="geometry" />
