@@ -52,8 +52,8 @@
         <mxCell id="GzXtokihir9xdNntoqyG-102" value="输入三元组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="-2187.26" y="1238.2099999999998" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GzXtokihir9xdNntoqyG-104" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;rounded=1;strokeWidth=1;fillColor=#FFFF99;strokeColor=none;direction=west;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="-2129.7099999999996" y="1039.84" width="45.54" height="43.21" as="geometry" />
+        <mxCell id="GzXtokihir9xdNntoqyG-104" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;rounded=1;strokeWidth=1;fillColor=#FFFF99;strokeColor=none;direction=north;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="-2128.5449999999996" y="1038.675" width="43.21" height="45.54" as="geometry" />
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-105" value="提示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="-2129.27" y="1059.9299999999998" width="40" height="20" as="geometry" />
