@@ -17,7 +17,7 @@
           <mxGeometry x="130" y="-5" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7KMlhh5GlBIv9E5pLz70-6" value="Symptom" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF6666;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="80" y="70" width="60" height="60" as="geometry" />
+          <mxGeometry x="70" y="70" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7KMlhh5GlBIv9E5pLz70-7" value="Protein&lt;div&gt;（蛋白质）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="30" y="220" width="70" height="70" as="geometry" />
@@ -138,7 +138,7 @@
             <mxPoint x="168.78679656440352" y="110.00320343559636" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7KMlhh5GlBIv9E5pLz70-42" value="cause&lt;div&gt;（导致）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=52;labelBackgroundColor=none;" parent="7KMlhh5GlBIv9E5pLz70-41" vertex="1" connectable="0">
+        <mxCell id="7KMlhh5GlBIv9E5pLz70-42" value="cause&lt;div&gt;（导致）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=45;labelBackgroundColor=none;" parent="7KMlhh5GlBIv9E5pLz70-41" vertex="1" connectable="0">
           <mxGeometry x="-0.2462" relative="1" as="geometry">
             <mxPoint x="7" y="-19" as="offset" />
           </mxGeometry>
