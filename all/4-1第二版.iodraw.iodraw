@@ -99,10 +99,10 @@
         </mxCell>
         <mxCell id="vBB606Umf4SSrBK1PSkk-87" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1999.8238095238094" y="972.3699999999998" as="sourcePoint" />
-            <mxPoint x="-1999.9438095238093" y="1072.5699999999997" as="targetPoint" />
+            <mxPoint x="-1997.8238095238094" y="972.3699999999998" as="sourcePoint" />
+            <mxPoint x="-1997.9438095238093" y="1072.5699999999997" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-2000.0038095238097" y="1025.5699999999997" />
+              <mxPoint x="-1998.0038095238097" y="1025.5699999999997" />
             </Array>
           </mxGeometry>
         </mxCell>
