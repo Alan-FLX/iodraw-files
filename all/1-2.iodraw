@@ -502,6 +502,9 @@
         <mxCell id="DQ8x65RsSf9vJ3lwSRoO-119" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;LLM增强的心梗知识图谱推理&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="596.5" y="142" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DQ8x65RsSf9vJ3lwSRoO-120" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="8" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
