@@ -81,9 +81,9 @@
             <mxPoint x="320.9799999999999" y="175.06" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7KMlhh5GlBIv9E5pLz70-25" value="efficacy" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-65;labelBackgroundColor=none;" parent="7KMlhh5GlBIv9E5pLz70-24" vertex="1" connectable="0">
+        <mxCell id="7KMlhh5GlBIv9E5pLz70-25" value="efficacy&lt;div&gt;（治疗）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-65;labelBackgroundColor=none;" parent="7KMlhh5GlBIv9E5pLz70-24" vertex="1" connectable="0">
           <mxGeometry x="-0.2462" relative="1" as="geometry">
-            <mxPoint x="2.33" y="-8" as="offset" />
+            <mxPoint x="-9" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7KMlhh5GlBIv9E5pLz70-26" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#B3B3B3;strokeColor=none;width=4.666666666666667;endSize=4.556666666666667;endWidth=6.444444444444444;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="7KMlhh5GlBIv9E5pLz70-3" target="7KMlhh5GlBIv9E5pLz70-2" edge="1">
