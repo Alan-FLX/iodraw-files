@@ -52,7 +52,7 @@
         <mxCell id="GzXtokihir9xdNntoqyG-102" value="输入三元组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-2187.26" y="1238.2099999999998" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GzXtokihir9xdNntoqyG-104" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;rounded=1;strokeWidth=1;fillColor=#FFFF99;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="GzXtokihir9xdNntoqyG-104" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;rounded=1;strokeWidth=1;fillColor=#FFFF99;strokeColor=none;direction=west;" parent="1" vertex="1">
           <mxGeometry x="-2105.0299999999997" y="1236.9099999999999" width="45.54" height="43.21" as="geometry" />
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-105" value="提示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
@@ -271,22 +271,22 @@
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-11" value="结构嵌入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-2176.66" y="1158.2099999999998" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-16" value="" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-16" value="" style="group;direction=west;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-2170.38" y="1257" width="43.88" height="16.21" as="geometry" />
         </mxCell>
-        <mxCell id="GzXtokihir9xdNntoqyG-93" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeWidth=1;fillColor=#CCFFCC;strokeColor=none;" parent="Ncdbk5bG-Yh8BQlxkp6i-16" vertex="1">
+        <mxCell id="GzXtokihir9xdNntoqyG-93" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeWidth=1;fillColor=#CCFFCC;strokeColor=none;direction=west;" parent="Ncdbk5bG-Yh8BQlxkp6i-16" vertex="1">
           <mxGeometry x="0.994613333333094" y="0.6509402546522488" width="13.734440000000001" height="13.734440000000001" as="geometry" />
         </mxCell>
-        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-13" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FFDDB0;" parent="Ncdbk5bG-Yh8BQlxkp6i-16" vertex="1">
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-13" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FFDDB0;direction=west;" parent="Ncdbk5bG-Yh8BQlxkp6i-16" vertex="1">
           <mxGeometry width="43.88" height="16.209999999999944" as="geometry" />
         </mxCell>
-        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeWidth=1;fillColor=#B3B3B3;strokeColor=none;" parent="Ncdbk5bG-Yh8BQlxkp6i-16" vertex="1">
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeWidth=1;fillColor=#B3B3B3;strokeColor=none;direction=west;" parent="Ncdbk5bG-Yh8BQlxkp6i-16" vertex="1">
           <mxGeometry x="15.06870666666635" y="0.6509402546522488" width="13.734440000000001" height="13.734440000000001" as="geometry" />
         </mxCell>
-        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeWidth=1;fillColor=#fff2cc;strokeColor=none;" parent="Ncdbk5bG-Yh8BQlxkp6i-16" vertex="1">
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeWidth=1;fillColor=#fff2cc;strokeColor=none;direction=west;" parent="Ncdbk5bG-Yh8BQlxkp6i-16" vertex="1">
           <mxGeometry x="0.9900933333333342" y="0.6509402546522551" width="13.734440000000001" height="13.734440000000001" as="geometry" />
         </mxCell>
-        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeWidth=1;fillColor=#CCFFCC;strokeColor=none;" parent="Ncdbk5bG-Yh8BQlxkp6i-16" vertex="1">
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeWidth=1;fillColor=#CCFFCC;strokeColor=none;direction=west;" parent="Ncdbk5bG-Yh8BQlxkp6i-16" vertex="1">
           <mxGeometry x="29.798706666666476" y="0.6509402546522551" width="13.734440000000001" height="13.734440000000001" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-17" value="B&lt;div&gt;I&lt;/div&gt;&lt;div&gt;O标注&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -334,10 +334,10 @@
             <mxPoint x="-2089.9700000000003" y="1164.28" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-38" value="结构嵌入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-38" value="结构嵌入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;direction=west;" parent="1" vertex="1">
           <mxGeometry x="-2170.38" y="1152.3" width="62" height="23.79" as="geometry" />
         </mxCell>
-        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-39" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;实体\关系&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;嵌入&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-39" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;实体\关系&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;嵌入&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;direction=west;" parent="1" vertex="1">
           <mxGeometry x="-2089.9700000000003" y="1147.1599999999999" width="62" height="34.08" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-40" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
