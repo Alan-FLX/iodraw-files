@@ -53,10 +53,10 @@
           <mxGeometry x="-2187.26" y="1238.2099999999998" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-104" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;rounded=1;strokeWidth=1;fillColor=#FFFF99;strokeColor=none;direction=west;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="-2105.0299999999997" y="1236.9099999999999" width="45.54" height="43.21" as="geometry" />
+          <mxGeometry x="-2129.7099999999996" y="1039.84" width="45.54" height="43.21" as="geometry" />
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-105" value="提示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="-2104.59" y="1256.9999999999998" width="40" height="20" as="geometry" />
+          <mxGeometry x="-2129.27" y="1059.9299999999998" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-108" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#FFD966;fillColor=#FFE599;" parent="1" vertex="1">
           <mxGeometry x="-2229.5" y="954.67" width="52.37" height="29.7" as="geometry" />
