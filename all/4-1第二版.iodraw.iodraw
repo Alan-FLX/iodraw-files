@@ -332,7 +332,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-38" value="结构嵌入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;direction=west;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="-2040" y="960.5799999999999" width="62" height="23.79" as="geometry" />
+          <mxGeometry x="-2071.9" y="958.4699999999999" width="62" height="23.79" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-39" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;实体\关系&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;嵌入&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;direction=west;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="-2155.6000000000004" y="955.3599999999998" width="62" height="34.08" as="geometry" />
@@ -379,9 +379,9 @@
             <mxPoint x="-2219.5" y="1041.76" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.44;exitY=1.003;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.415;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Ncdbk5bG-Yh8BQlxkp6i-43" target="Ncdbk5bG-Yh8BQlxkp6i-55" edge="1">
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.415;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="Ncdbk5bG-Yh8BQlxkp6i-55" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2225.98" y="988.16" as="sourcePoint" />
+            <mxPoint x="-2226" y="990" as="sourcePoint" />
             <mxPoint x="-2226.38" y="1012.2499999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
