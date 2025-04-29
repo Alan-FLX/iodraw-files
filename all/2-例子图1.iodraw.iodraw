@@ -70,9 +70,9 @@
             <mxPoint x="393" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7KMlhh5GlBIv9E5pLz70-23" value="prove" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-40;labelBackgroundColor=none;" parent="7KMlhh5GlBIv9E5pLz70-22" vertex="1" connectable="0">
+        <mxCell id="7KMlhh5GlBIv9E5pLz70-23" value="prove&lt;div&gt;（证明）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-40;labelBackgroundColor=none;" parent="7KMlhh5GlBIv9E5pLz70-22" vertex="1" connectable="0">
           <mxGeometry x="-0.2462" relative="1" as="geometry">
-            <mxPoint x="-3.96" y="1" as="offset" />
+            <mxPoint x="-15" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7KMlhh5GlBIv9E5pLz70-24" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#B3B3B3;strokeColor=none;width=4.666666666666667;endSize=4.556666666666667;endWidth=6.444444444444444;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" target="7KMlhh5GlBIv9E5pLz70-3" edge="1">
