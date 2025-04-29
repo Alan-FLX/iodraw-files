@@ -268,9 +268,6 @@
             <mxPoint x="-2366.65" y="810.5199999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-11" value="结构嵌入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="-2176.66" y="1158.2099999999998" width="60" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-16" value="" style="group;direction=west;flipV=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-2170.38" y="1257" width="43.88" height="16.21" as="geometry" />
         </mxCell>
@@ -335,7 +332,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-38" value="结构嵌入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;direction=west;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="-2170.38" y="1152.3" width="62" height="23.79" as="geometry" />
+          <mxGeometry x="-2148.37" y="1109.45" width="62" height="23.79" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-39" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;实体\关系&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;嵌入&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;direction=west;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="-2089.9700000000003" y="1147.1599999999999" width="62" height="34.08" as="geometry" />
