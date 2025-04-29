@@ -45,8 +45,8 @@
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-85" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2170.59" y="1165.4761904761908" as="sourcePoint" />
-            <mxPoint x="-2210" y="1165.326190476191" as="targetPoint" />
+            <mxPoint x="-1932.5100000000002" y="1014.6361904761908" as="sourcePoint" />
+            <mxPoint x="-1971.92" y="1014.4861904761909" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-102" value="输入三元组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;flipV=1;" parent="1" vertex="1">
@@ -488,7 +488,7 @@
           <mxGeometry x="-1932.51" y="979.37" width="104.61" height="70.63" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-94" value="若HR-MIKGR&lt;div&gt;评分最低&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1930.21" y="999.1800000000001" width="100" height="40" as="geometry" />
+          <mxGeometry x="-1930.2" y="994.6800000000001" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-98" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
