@@ -496,8 +496,11 @@
         <mxCell id="DQ8x65RsSf9vJ3lwSRoO-117" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;心梗知识图谱&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;数据&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="139" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DQ8x65RsSf9vJ3lwSRoO-118" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;心梗知识图谱&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;数据&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DQ8x65RsSf9vJ3lwSRoO-118" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;心梗知识图谱推理的定义&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="368.5" y="139" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DQ8x65RsSf9vJ3lwSRoO-119" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;心梗知识图谱推理的定义&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="378.5" y="149" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
