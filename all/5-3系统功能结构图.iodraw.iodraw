@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_yl-Fe1HHQH_Pjdw3vb_-1" value="心梗知识图谱推理系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="305.62" y="180" width="216" height="31" as="geometry" />
+          <mxGeometry x="306" y="180" width="216" height="31" as="geometry" />
         </mxCell>
         <mxCell id="_yl-Fe1HHQH_Pjdw3vb_-2" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="152.45" y="229" width="106" height="30" as="geometry" />
