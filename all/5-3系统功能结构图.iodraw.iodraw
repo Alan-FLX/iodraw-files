@@ -304,6 +304,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tdRyaG0Le6KpvTcWyLAD-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="TmHrL_6iofNKoqLcXLOc-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10.189999999999998" y="18.968433939343186" as="sourcePoint" />
+            <mxPoint x="40.19" y="18.970000000000027" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TmHrL_6iofNKoqLcXLOc-44" value="日志&lt;br&gt;管&lt;br&gt;理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="651.25" y="298" width="20" height="100" as="geometry" />
         </mxCell>
@@ -318,12 +324,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="275" y="220" as="sourcePoint" />
             <mxPoint x="616" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tdRyaG0Le6KpvTcWyLAD-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="279.99843393934316" as="sourcePoint" />
-            <mxPoint x="480" y="280.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
