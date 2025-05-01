@@ -22,7 +22,7 @@
         <mxCell id="7KMlhh5GlBIv9E5pLz70-7" value="Protein&lt;div&gt;（蛋白质）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="30" y="220" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7KMlhh5GlBIv9E5pLz70-8" value="SNP&lt;div&gt;（&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt; background-color: initial;&quot;&gt;单核酸多态性&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#9933FF;" parent="1" vertex="1">
+        <mxCell id="7KMlhh5GlBIv9E5pLz70-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#9933FF;" parent="1" vertex="1">
           <mxGeometry x="520" y="220" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7KMlhh5GlBIv9E5pLz70-9" value="Paper&lt;div&gt;（文献）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F19C99;strokeColor=none;" parent="1" vertex="1">
@@ -162,6 +162,9 @@
         </mxCell>
         <mxCell id="HdfEfC1cjjDE-7r_UQV_-3" value="transport&lt;div&gt;（转运）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="113" y="274" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bLJZ7rB9fqGTO_5oTvOO-1" value="SNP&lt;div&gt;（单核酸多态性）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="313" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
