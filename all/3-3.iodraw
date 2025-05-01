@@ -19,8 +19,8 @@
         <mxCell id="vNWdnQuPva7KBdb1rCxe-8" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="364" y="220" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vNWdnQuPva7KBdb1rCxe-9" value="&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;Coronary &lt;br&gt;Embolism&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="384" y="225" width="60" height="30" as="geometry" />
+        <mxCell id="vNWdnQuPva7KBdb1rCxe-9" value="&lt;span style=&quot;font-family: &amp;quot;times new roman&amp;quot;&quot;&gt;Coronary &lt;br&gt;Embolism&lt;/span&gt;&lt;div&gt;&lt;font face=&quot;times new roman&quot;&gt;（冠状动脉栓塞）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vNWdnQuPva7KBdb1rCxe-10" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="vNWdnQuPva7KBdb1rCxe-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
