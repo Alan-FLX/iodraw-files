@@ -46,6 +46,15 @@
         <mxCell id="uAOJMzI6CEylVuF1uoiP-14" value="cause&lt;div&gt;（导致）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="308.5" y="90" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="uAOJMzI6CEylVuF1uoiP-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="448.5" y="161.66" as="sourcePoint" />
+            <mxPoint x="508.5" y="161.83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uAOJMzI6CEylVuF1uoiP-16" value="Guanabenz" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="388.5" y="153" width="70" height="38" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
