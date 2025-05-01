@@ -10,6 +10,9 @@
         <mxCell id="uAOJMzI6CEylVuF1uoiP-3" value="complication&lt;div&gt;（并发症）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="210" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="uAOJMzI6CEylVuF1uoiP-5" value="complication&lt;div&gt;（并发症）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
