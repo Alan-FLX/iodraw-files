@@ -52,8 +52,8 @@
             <mxPoint x="508.5" y="161.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uAOJMzI6CEylVuF1uoiP-16" value="Guanabenz" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="388.5" y="153" width="70" height="38" as="geometry" />
+        <mxCell id="uAOJMzI6CEylVuF1uoiP-16" value="Hypertension&lt;div&gt;（高血压）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="143" width="70" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
