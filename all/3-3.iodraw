@@ -7,7 +7,7 @@
         <mxCell id="vNWdnQuPva7KBdb1rCxe-2" value="&lt;span style=&quot;color: rgb(64, 64, 64); text-align: left;&quot;&gt;Coronary Atherosclerosis&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(64, 64, 64); text-align: left;&quot;&gt;（冠状动脉硬化）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="270" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vNWdnQuPva7KBdb1rCxe-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px&quot;&gt;M&lt;/font&gt;&lt;/span&gt;&lt;span&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px&quot;&gt;yocardial &lt;/font&gt;&lt;/span&gt;&lt;span&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px&quot;&gt;I&lt;/font&gt;&lt;/span&gt;&lt;span&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px&quot;&gt;nfarction&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;（心肌梗塞）&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vNWdnQuPva7KBdb1rCxe-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="250" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vNWdnQuPva7KBdb1rCxe-6" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px&quot;&gt;H&lt;/font&gt;&lt;/span&gt;&lt;span&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px&quot;&gt;ypertension&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -51,6 +51,9 @@
         </mxCell>
         <mxCell id="vNWdnQuPva7KBdb1rCxe-17" value="recessive" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="270" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1JLELUS8LAPFcwwk6nNe-2" value="Myocardial&lt;div&gt;Infarction&lt;/div&gt;&lt;div&gt;（心肌梗塞）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="343" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
