@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vNWdnQuPva7KBdb1rCxe-16" value="dominant" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="270" width="60" height="20" as="geometry" />
+          <mxGeometry x="130" y="220" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vNWdnQuPva7KBdb1rCxe-17" value="recessive" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="270" width="70" height="20" as="geometry" />
