@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uAOJMzI6CEylVuF1uoiP-2" value="Myocardial&lt;div&gt;Infarction&lt;/div&gt;&lt;div&gt;（心肌梗塞）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="150" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uAOJMzI6CEylVuF1uoiP-3" value="complication&lt;div&gt;（并发症）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="220" width="120" height="40" as="geometry" />
+          <mxGeometry x="70" y="210" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
