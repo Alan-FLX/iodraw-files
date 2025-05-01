@@ -163,8 +163,8 @@
         <mxCell id="HdfEfC1cjjDE-7r_UQV_-3" value="transport&lt;div&gt;（转运）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="113" y="274" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bLJZ7rB9fqGTO_5oTvOO-1" value="SNP&lt;div&gt;（单核酸&lt;span style=&quot;background-color: initial;&quot;&gt;多态性）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="495" y="235" width="120" height="40" as="geometry" />
+        <mxCell id="bLJZ7rB9fqGTO_5oTvOO-1" value="SNP&lt;div&gt;（单核酸&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;多态性）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="225" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
