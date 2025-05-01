@@ -43,7 +43,7 @@
         <mxCell id="vNWdnQuPva7KBdb1rCxe-16" value="dominant&lt;div&gt;（致病因素）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="102" y="243" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vNWdnQuPva7KBdb1rCxe-17" value="recessive&lt;div&gt;（隐式致病因素）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+        <mxCell id="vNWdnQuPva7KBdb1rCxe-17" value="recessive&lt;div&gt;（潜在致病因素）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="254" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1JLELUS8LAPFcwwk6nNe-2" value="Myocardial&lt;div&gt;Infarction&lt;/div&gt;&lt;div&gt;（心肌梗塞）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
