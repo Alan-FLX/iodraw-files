@@ -67,8 +67,8 @@
         <mxCell id="1JLELUS8LAPFcwwk6nNe-8" value="recessive&lt;div&gt;（潜在致病因素）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=27;" vertex="1" parent="1">
           <mxGeometry x="272" y="305" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1JLELUS8LAPFcwwk6nNe-10" value="recessive&lt;div&gt;（潜在致病因素）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=27;" vertex="1" parent="1">
-          <mxGeometry x="282" y="255" width="120" height="40" as="geometry" />
+        <mxCell id="1JLELUS8LAPFcwwk6nNe-10" value="recessive&lt;div&gt;（潜在致病因素）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="243" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
