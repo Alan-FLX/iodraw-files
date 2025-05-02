@@ -31,7 +31,7 @@
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-12" value="Ticagrelor&lt;br&gt;（替格瑞洛）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="466" y="101.25" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8z-_Q77Zaob8vuUEi-bL-16" value="" style="endArrow=classic;html=1;entryX=0.011;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="8z-_Q77Zaob8vuUEi-bL-5" edge="1">
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-16" value="" style="endArrow=classic;html=1;entryX=0.011;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.008;exitY=0.479;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="8z-_Q77Zaob8vuUEi-bL-5" edge="1" source="HizeB-CA8JM8lpvJj1j9-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="150" as="sourcePoint" />
             <mxPoint x="220" y="100" as="targetPoint" />
@@ -70,8 +70,8 @@
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-33" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="168" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8z-_Q77Zaob8vuUEi-bL-34" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="126.25" width="20" height="20" as="geometry" />
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-34" value="理想路径" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="205" y="121.25" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-36" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.006;exitY=0.426;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
