@@ -35,7 +35,7 @@
           <mxGeometry x="-2366" y="771.8499999999999" width="100" height="78.82" as="geometry" />
         </mxCell>
         <mxCell id="QwS8vAI97AS_Jxm2Jku4-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-2274.31" y="1013.07" width="134.31" height="18.79" as="geometry" />
+          <mxGeometry x="-2274.31" y="1013.07" width="114.31" height="18.79" as="geometry" />
         </mxCell>
         <mxCell id="vBB606Umf4SSrBK1PSkk-79" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=none;strokeColor=#FFF2CC;" parent="1" vertex="1">
           <mxGeometry x="-2104.17" y="774.7399999999999" width="23" height="76.46" as="geometry" />
@@ -368,7 +368,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-55" value="LLM增强KG补全" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2167.33" y="991.4399999999999" width="110" height="30" as="geometry" />
+          <mxGeometry x="-2265.6" y="1007.4699999999999" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-56" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2364" y="783.25" width="55" height="53.9" as="geometry" />
