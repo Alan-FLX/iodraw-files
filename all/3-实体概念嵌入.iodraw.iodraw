@@ -43,7 +43,7 @@
         <mxCell id="JIt8-4AZ9XwqClu350nD-45" value="r" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="410" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JIt8-4AZ9XwqClu350nD-47" value="&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;概念嵌入空间&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+        <mxCell id="JIt8-4AZ9XwqClu350nD-47" value="&lt;span style=&quot;font-size: 15px&quot;&gt;概念嵌入空间&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="522.6800000000001" y="315" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JIt8-4AZ9XwqClu350nD-49" value="&lt;font style=&quot;font-size: 10px&quot;&gt;cause&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
