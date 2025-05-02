@@ -50,7 +50,7 @@
           <mxGeometry x="400" y="185" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-25" value="risk&lt;div&gt;（风险）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="148" width="70" height="40" as="geometry" />
+          <mxGeometry x="327" y="171" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-27" value="Hypertension&lt;br&gt;（高血压）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="195" width="90" height="30" as="geometry" />
@@ -84,8 +84,8 @@
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-38" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="270" as="sourcePoint" />
-            <mxPoint x="420" y="270" as="targetPoint" />
+            <mxPoint x="340" y="207.52" as="sourcePoint" />
+            <mxPoint x="390" y="207.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-40" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
@@ -102,6 +102,12 @@
         </mxCell>
         <mxCell id="HizeB-CA8JM8lpvJj1j9-3" value="efficacy&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=15;" parent="1" vertex="1">
           <mxGeometry x="378" y="101.25" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a6VFIPP_vpCV5Fp7lsQw-1" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="217.52" as="sourcePoint" />
+            <mxPoint x="400" y="217.52" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
