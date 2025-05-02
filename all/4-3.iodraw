@@ -253,8 +253,8 @@
             <mxPoint x="-1822" y="942.97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yJAXXwK8WtsZBFwXX9hc-63" value="&lt;i&gt;e&lt;sub&gt;T&lt;/sub&gt;&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=13;fillColor=#CCCCCC;fontColor=#333333;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-1825.4100000000005" y="932.2500000000001" width="38" height="15.48" as="geometry" />
+        <mxCell id="yJAXXwK8WtsZBFwXX9hc-63" value="&lt;i&gt;e&lt;sub&gt;T&lt;/sub&gt;&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=8.41000000000031;fillColor=#CCCCCC;fontColor=#333333;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-1824.41" y="935.25" width="24.41" height="15.48" as="geometry" />
         </mxCell>
         <mxCell id="yJAXXwK8WtsZBFwXX9hc-66" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
