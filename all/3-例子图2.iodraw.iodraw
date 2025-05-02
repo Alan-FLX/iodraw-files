@@ -14,7 +14,7 @@
           <mxGeometry x="220" y="80" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-5" value="ACS&lt;br&gt;Management&lt;br&gt;（ACS指南）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="20" width="90" height="50" as="geometry" />
+          <mxGeometry x="207" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-6" value="efficacy&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=322;" parent="1" vertex="1">
           <mxGeometry x="145" y="97" width="70" height="40" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="320" y="30" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-12" value="Ticagrelor&lt;br&gt;（替格瑞洛）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="110.25" width="90" height="30" as="geometry" />
+          <mxGeometry x="510" y="115.25" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-16" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.008;exitY=0.479;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="HizeB-CA8JM8lpvJj1j9-2" target="8z-_Q77Zaob8vuUEi-bL-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -95,6 +95,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="170" as="sourcePoint" />
             <mxPoint x="390" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a6VFIPP_vpCV5Fp7lsQw-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8z-_Q77Zaob8vuUEi-bL-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="115" as="sourcePoint" />
+            <mxPoint x="415" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
