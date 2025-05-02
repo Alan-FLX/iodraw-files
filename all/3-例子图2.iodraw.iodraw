@@ -19,8 +19,8 @@
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-6" value="efficacy&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=320;" parent="1" vertex="1">
           <mxGeometry x="145" y="97" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8z-_Q77Zaob8vuUEi-bL-8" value="efficacy&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-15;" parent="1" vertex="1">
-          <mxGeometry x="320" y="30" width="70" height="40" as="geometry" />
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-8" value="efficacy&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=339;" parent="1" vertex="1">
+          <mxGeometry x="320" y="50" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-12" value="Ticagrelor&lt;br&gt;（替格瑞洛）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="110.25" width="90" height="30" as="geometry" />
@@ -70,7 +70,7 @@
         <mxCell id="HizeB-CA8JM8lpvJj1j9-2" value="Myocardial&lt;br&gt;Infarction&lt;br&gt;（心肌梗塞）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="130" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HizeB-CA8JM8lpvJj1j9-3" value="efficacy&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=15;" parent="1" vertex="1">
+        <mxCell id="HizeB-CA8JM8lpvJj1j9-3" value="efficacy&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=13;" parent="1" vertex="1">
           <mxGeometry x="320" y="110.25" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a6VFIPP_vpCV5Fp7lsQw-1" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
