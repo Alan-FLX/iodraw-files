@@ -439,7 +439,7 @@
             <mxPoint x="-1946" y="771.67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-69" value="一致性评分&amp;nbsp;&lt;div&gt;C(&lt;i&gt;e&lt;sub&gt;ti&lt;/sub&gt;&lt;/i&gt;)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-69" value="一致性评分&amp;nbsp;&lt;div&gt;H(&lt;i&gt;e&lt;sub&gt;ti&lt;/sub&gt;&lt;/i&gt;)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1926" y="760.2" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-77" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; text-wrap-mode: wrap; font-family: helvetica;&quot;&gt;M(&lt;/span&gt;&lt;i&gt;e&lt;sub&gt;ti&lt;/sub&gt;&lt;/i&gt;&lt;span style=&quot;background-color: initial; text-wrap-mode: wrap; font-family: helvetica;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
