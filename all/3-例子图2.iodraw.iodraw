@@ -56,7 +56,7 @@
           <mxGeometry x="385" y="195" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-28" value="Amlodipine&lt;br&gt;（氨氯地平）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
-          <mxGeometry x="390" y="230" width="80" height="40" as="geometry" />
+          <mxGeometry x="580" y="188" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-30" value="efficacy&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="498" y="168" width="70" height="40" as="geometry" />
@@ -88,15 +88,6 @@
             <mxPoint x="390" y="207.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8z-_Q77Zaob8vuUEi-bL-40" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="209.71000000000006" as="sourcePoint" />
-            <mxPoint x="573" y="210" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="520" y="209.71" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HizeB-CA8JM8lpvJj1j9-2" value="Myocardial&lt;br&gt;Infarction&lt;br&gt;（心肌梗塞）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="130" width="90" height="50" as="geometry" />
         </mxCell>
@@ -105,8 +96,8 @@
         </mxCell>
         <mxCell id="a6VFIPP_vpCV5Fp7lsQw-1" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="280" as="sourcePoint" />
-            <mxPoint x="520" y="280" as="targetPoint" />
+            <mxPoint x="470" y="209.66" as="sourcePoint" />
+            <mxPoint x="520" y="209.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
