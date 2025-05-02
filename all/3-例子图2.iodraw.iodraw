@@ -19,8 +19,8 @@
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-5" value="ACS&lt;br&gt;Management&lt;br&gt;（ACS指南）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="275" y="76.25" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8z-_Q77Zaob8vuUEi-bL-6" value="Recommend&lt;br&gt;Treatment guidelines&lt;br&gt;（治疗建议方案）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-25;" parent="1" vertex="1">
-          <mxGeometry x="150" y="76.25" width="130" height="50" as="geometry" />
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-6" value="efficacy&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-25;" parent="1" vertex="1">
+          <mxGeometry x="180" y="81.25" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-8" value="Antiplatelet&lt;br&gt;Agents&lt;br&gt;（抗血小板药）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-15;" parent="1" vertex="1">
           <mxGeometry x="364" y="26.25" width="100" height="50" as="geometry" />
