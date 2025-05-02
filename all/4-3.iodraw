@@ -313,8 +313,8 @@
             <mxPoint x="-2187.8600000000006" y="973.8761904761907" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-38" value="结构嵌入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;direction=west;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="-2083.63" y="961.8499999999999" width="62" height="23.79" as="geometry" />
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-38" value="结构&lt;div&gt;嵌入&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;direction=west;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="-2083.63" y="961.85" width="62" height="28.15" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-39" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;实体\关系&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;嵌入&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;direction=west;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="-2167.3300000000004" y="958.7399999999998" width="62" height="34.08" as="geometry" />
