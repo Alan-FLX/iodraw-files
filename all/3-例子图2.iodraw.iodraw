@@ -17,10 +17,10 @@
           <mxGeometry x="250" y="80" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-6" value="efficacy&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-25;" parent="1" vertex="1">
-          <mxGeometry x="153" y="105.25" width="70" height="40" as="geometry" />
+          <mxGeometry x="160" y="100.25" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-8" value="efficacy&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-15;" parent="1" vertex="1">
-          <mxGeometry x="379" y="31.25" width="70" height="40" as="geometry" />
+          <mxGeometry x="350" y="30" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-12" value="Ticagrelor&lt;br&gt;（替格瑞洛）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="110.25" width="90" height="30" as="geometry" />
