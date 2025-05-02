@@ -367,8 +367,8 @@
             <mxPoint x="-2226.38" y="1012.2499999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-55" value="LLM增强补全" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2263.48" y="1008.4699999999999" width="90" height="30" as="geometry" />
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-55" value="LLM增强KG补全" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-2273.48" y="1008.4699999999999" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-56" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2364" y="783.25" width="55" height="53.9" as="geometry" />
