@@ -17,7 +17,7 @@
           <mxGeometry x="220" y="80" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-6" value="efficacy&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=322;" parent="1" vertex="1">
-          <mxGeometry x="146" y="94" width="70" height="40" as="geometry" />
+          <mxGeometry x="145" y="97" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-8" value="efficacy&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-15;" parent="1" vertex="1">
           <mxGeometry x="320" y="30" width="70" height="40" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="405" y="50" width="70" height="34.75" as="geometry" />
         </mxCell>
         <mxCell id="a6VFIPP_vpCV5Fp7lsQw-4" value="冗余路径" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="200" width="70" height="30" as="geometry" />
+          <mxGeometry x="90" y="198" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a6VFIPP_vpCV5Fp7lsQw-6" value="理想路径" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="70" height="30" as="geometry" />
