@@ -464,7 +464,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-91" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1938.05" y="982.15" width="108.05" height="57.85" as="geometry" />
+          <mxGeometry x="-1938.05" y="982.15" width="98.05" height="57.85" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-94" value="评分高于&lt;div&gt;HR-MIKGR的&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1936" y="987.7500000000001" width="100" height="40" as="geometry" />
