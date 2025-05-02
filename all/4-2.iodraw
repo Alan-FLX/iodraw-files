@@ -310,8 +310,8 @@
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-29" value="HR-MIKGR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Ncdbk5bG-Yh8BQlxkp6i-30" vertex="1">
           <mxGeometry width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-31" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-2071.9" y="756.19" width="80" height="30" as="geometry" />
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-31" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-1970" y="700" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;strokeColor=none;" parent="Ncdbk5bG-Yh8BQlxkp6i-31" vertex="1">
           <mxGeometry x="6.0900000000001455" y="5.0499999999999545" width="68.28" height="19.9" as="geometry" />
