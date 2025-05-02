@@ -530,7 +530,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ptxZcQZI0Bm-1ItjcjuQ-8" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1835" y="968" width="30" height="30" as="geometry" />
+          <mxGeometry x="-1974.6" y="1000.83" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ptxZcQZI0Bm-1ItjcjuQ-9" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1855.41" y="961.44" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
