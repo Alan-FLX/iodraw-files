@@ -22,8 +22,8 @@
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-6" value="efficacy&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-25;" parent="1" vertex="1">
           <mxGeometry x="180" y="81.25" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8z-_Q77Zaob8vuUEi-bL-8" value="Antiplatelet&lt;br&gt;Agents&lt;br&gt;（抗血小板药）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-15;" parent="1" vertex="1">
-          <mxGeometry x="364" y="26.25" width="100" height="50" as="geometry" />
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-8" value="efficacy&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-15;" parent="1" vertex="1">
+          <mxGeometry x="379" y="31.25" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-10" value="Aspirin&lt;br&gt;（阿司匹林）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="466" y="50" width="90" height="30" as="geometry" />
@@ -103,8 +103,8 @@
         <mxCell id="HizeB-CA8JM8lpvJj1j9-2" value="Myocardial&lt;br&gt;Infarction&lt;br&gt;（心肌梗塞）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="130" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HizeB-CA8JM8lpvJj1j9-3" value="Antiplatelet&lt;br&gt;Agents&lt;br&gt;（抗血小板药）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=15;" parent="1" vertex="1">
-          <mxGeometry x="364" y="106.25" width="100" height="50" as="geometry" />
+        <mxCell id="HizeB-CA8JM8lpvJj1j9-3" value="efficacy&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=15;" parent="1" vertex="1">
+          <mxGeometry x="379" y="111.25" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
