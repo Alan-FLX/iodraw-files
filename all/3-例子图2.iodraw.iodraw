@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram id="qbdfn2SmB3JVSrPCFXH9" name="第 1 页">
-    <mxGraphModel dx="719" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-12" value="Ticagrelor&lt;br&gt;（替格瑞洛）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="466" y="101.25" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8z-_Q77Zaob8vuUEi-bL-16" value="" style="endArrow=classic;html=1;entryX=0.011;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.008;exitY=0.479;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="8z-_Q77Zaob8vuUEi-bL-5" edge="1" source="HizeB-CA8JM8lpvJj1j9-2">
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-16" value="" style="endArrow=classic;html=1;entryX=0.011;entryY=0.519;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.008;exitY=0.479;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="HizeB-CA8JM8lpvJj1j9-2" target="8z-_Q77Zaob8vuUEi-bL-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="150" as="sourcePoint" />
             <mxPoint x="220" y="100" as="targetPoint" />
