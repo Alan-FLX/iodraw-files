@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram id="qbdfn2SmB3JVSrPCFXH9" name="第 1 页">
-    <mxGraphModel dx="529" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="252" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,19 +47,19 @@
           <mxGeometry x="240" y="180" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-23" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
-          <mxGeometry x="427" y="180" width="90" height="50" as="geometry" />
+          <mxGeometry x="400" y="185" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-25" value="risk&lt;div&gt;（风险）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="163" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-27" value="Hypertension&lt;br&gt;（高血压）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="427" y="190" width="90" height="30" as="geometry" />
+          <mxGeometry x="400" y="195" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-28" value="Amlodipine&lt;br&gt;（氨氯地平）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
-          <mxGeometry x="600" y="180" width="90" height="50" as="geometry" />
+          <mxGeometry x="573" y="185" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-30" value="efficacy&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="525" y="163" width="70" height="40" as="geometry" />
+          <mxGeometry x="498" y="168" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-32" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="8z-_Q77Zaob8vuUEi-bL-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -93,10 +93,10 @@
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-40" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="517" y="204.71000000000006" as="sourcePoint" />
-            <mxPoint x="600" y="205" as="targetPoint" />
+            <mxPoint x="490" y="209.71000000000006" as="sourcePoint" />
+            <mxPoint x="573" y="210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="547" y="204.71" />
+              <mxPoint x="520" y="209.71" />
             </Array>
           </mxGeometry>
         </mxCell>
