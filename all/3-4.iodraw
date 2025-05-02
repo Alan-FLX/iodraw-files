@@ -562,9 +562,6 @@
         <mxCell id="SLMKYXg3oIMYnzqgAszj-10" value="$$\pi(a_t,s_t)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-324.46000000000004" y="748.48" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SLMKYXg3oIMYnzqgAszj-71" value="概&lt;span style=&quot;background-color: initial;&quot;&gt;念&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;层&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-493.94999999999993" y="710.9299999999998" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="SLMKYXg3oIMYnzqgAszj-79" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;dashed=1;arcSize=6;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-230" y="570" width="268.86" height="237.65" as="geometry" />
         </mxCell>
@@ -807,6 +804,9 @@
         </mxCell>
         <mxCell id="Bno3JywFoZTWJ0fjWg2N-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-680.33" y="689.81" width="239.33" height="9.78" as="geometry" />
+        </mxCell>
+        <mxCell id="SLMKYXg3oIMYnzqgAszj-71" value="概&lt;span style=&quot;background-color: initial;&quot;&gt;念&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;层&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-590.1199999999999" y="686.1499999999999" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
