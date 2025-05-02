@@ -50,7 +50,7 @@
           <mxGeometry x="400" y="185" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-25" value="risk&lt;div&gt;（风险）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="175" width="70" height="40" as="geometry" />
+          <mxGeometry x="330" y="148" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-27" value="Hypertension&lt;br&gt;（高血压）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="195" width="90" height="30" as="geometry" />
@@ -84,11 +84,8 @@
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-38" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="208" as="sourcePoint" />
-            <mxPoint x="390" y="210" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="370" y="208" />
-            </Array>
+            <mxPoint x="370" y="270" as="sourcePoint" />
+            <mxPoint x="420" y="272" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-40" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
