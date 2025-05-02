@@ -391,8 +391,8 @@
             <mxPoint x="-610.37" y="724.4999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c9z6n5aXbns-N2uetD-i-209" value="实体&lt;br&gt;策略网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-442.99999999999994" y="619.8100000000002" width="60" height="30" as="geometry" />
+        <mxCell id="c9z6n5aXbns-N2uetD-i-209" value="实体&lt;br&gt;策略&lt;div&gt;网络&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-437.99999999999994" y="604.8100000000002" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c9z6n5aXbns-N2uetD-i-210" value="概念&lt;br&gt;策略网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-443.12" y="740.44" width="60" height="30" as="geometry" />
