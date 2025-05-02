@@ -38,7 +38,7 @@
           <mxGeometry x="220" y="180" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-22" value="Coronary Artery&lt;br&gt;Diease&lt;br&gt;（冠状动脉疾病）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="257" y="240" width="110" height="50" as="geometry" />
+          <mxGeometry x="210" y="180" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-23" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="360" y="188" width="80" height="40" as="geometry" />
@@ -55,7 +55,7 @@
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-30" value="efficacy&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="173" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8z-_Q77Zaob8vuUEi-bL-32" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.091;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="8z-_Q77Zaob8vuUEi-bL-1" target="8z-_Q77Zaob8vuUEi-bL-22" edge="1">
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-32" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8z-_Q77Zaob8vuUEi-bL-1" target="8z-_Q77Zaob8vuUEi-bL-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="160" as="sourcePoint" />
             <mxPoint x="250" y="210" as="targetPoint" />
