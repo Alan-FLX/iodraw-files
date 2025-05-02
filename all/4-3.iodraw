@@ -535,10 +535,13 @@
         <mxCell id="ptxZcQZI0Bm-1ItjcjuQ-9" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1855.41" y="961.44" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ptxZcQZI0Bm-1ItjcjuQ-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ptxZcQZI0Bm-1ItjcjuQ-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QwS8vAI97AS_Jxm2Jku4-26" target="1bmsoxMyOyMTOgDV-3Oa-39">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2308.93" y="1015.84" as="sourcePoint" />
             <mxPoint x="-2258.93" y="965.84" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2283" y="1006" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
