@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
   <diagram id="CE4eSbhVThZry2VKLtPo" name="第 1 页">
-    <mxGraphModel dx="622" dy="341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="888" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,7 @@
           <mxGeometry x="110" y="220" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1JLELUS8LAPFcwwk6nNe-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;隐式关系：&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="284" y="340" width="100" height="30" as="geometry" />
+          <mxGeometry x="294" y="180" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1JLELUS8LAPFcwwk6nNe-8" value="recessive&lt;div&gt;（潜在致病因素）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=17;" parent="1" vertex="1">
           <mxGeometry x="284" y="300" width="120" height="40" as="geometry" />
