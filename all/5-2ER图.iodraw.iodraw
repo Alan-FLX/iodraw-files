@@ -82,13 +82,10 @@
         <mxCell id="mQjNDoR30oFGqd8uWkL9-18" value="资深医护" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="650" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mQjNDoR30oFGqd8uWkL9-19" value="包含" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="580" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mQjNDoR30oFGqd8uWkL9-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="mQjNDoR30oFGqd8uWkL9-15" target="mQjNDoR30oFGqd8uWkL9-19" edge="1">
+        <mxCell id="mQjNDoR30oFGqd8uWkL9-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="mQjNDoR30oFGqd8uWkL9-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="545" as="sourcePoint" />
-            <mxPoint x="-40" y="520" as="targetPoint" />
+            <mxPoint x="30" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-21" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mQjNDoR30oFGqd8uWkL9-20" vertex="1" connectable="0">
@@ -96,9 +93,9 @@
             <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQjNDoR30oFGqd8uWkL9-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="mQjNDoR30oFGqd8uWkL9-19" target="mQjNDoR30oFGqd8uWkL9-18" edge="1">
+        <mxCell id="mQjNDoR30oFGqd8uWkL9-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="mQjNDoR30oFGqd8uWkL9-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-40" y="480" as="sourcePoint" />
+            <mxPoint x="30" y="620" as="sourcePoint" />
             <mxPoint x="-40" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -272,6 +269,9 @@
         </mxCell>
         <mxCell id="CSJFDouHniBz7Lhme10Q-4" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="532.5" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="CSJFDouHniBz7Lhme10Q-5" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="585" width="60" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
