@@ -185,16 +185,6 @@
             <mxPoint x="-2" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQjNDoR30oFGqd8uWkL9-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" target="mQjNDoR30oFGqd8uWkL9-47" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270.0000000000002" y="298" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mQjNDoR30oFGqd8uWkL9-53" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mQjNDoR30oFGqd8uWkL9-52" vertex="1" connectable="0">
-          <mxGeometry x="0.0822" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-45" value="推理路径" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="283" width="60" height="30" as="geometry" />
         </mxCell>
@@ -202,7 +192,7 @@
           <mxGeometry x="200" y="228" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-47" value="相关知识图谱信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="308" width="60" height="30" as="geometry" />
+          <mxGeometry x="300" y="310.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="mQjNDoR30oFGqd8uWkL9-46" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -315,6 +305,9 @@
         </mxCell>
         <mxCell id="CSJFDouHniBz7Lhme10Q-16" value="推理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="415" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="CSJFDouHniBz7Lhme10Q-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CSJFDouHniBz7Lhme10Q-18" target="mQjNDoR30oFGqd8uWkL9-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CSJFDouHniBz7Lhme10Q-18" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="313" width="60" height="25" as="geometry" />
