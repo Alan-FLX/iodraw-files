@@ -187,16 +187,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQjNDoR30oFGqd8uWkL9-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" target="mQjNDoR30oFGqd8uWkL9-40" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230.00000000000023" y="318" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mQjNDoR30oFGqd8uWkL9-55" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mQjNDoR30oFGqd8uWkL9-54" vertex="1" connectable="0">
-          <mxGeometry x="0.288" y="-1" relative="1" as="geometry">
-            <mxPoint x="61" y="-5" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-45" value="推理路径" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="283" width="60" height="30" as="geometry" />
         </mxCell>
@@ -319,7 +309,7 @@
           <mxGeometry x="200" y="415" width="60" height="25" as="geometry" />
         </mxCell>
         <mxCell id="CSJFDouHniBz7Lhme10Q-18" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="380" width="60" height="25" as="geometry" />
+          <mxGeometry x="200" y="313" width="60" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
