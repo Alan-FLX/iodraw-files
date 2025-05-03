@@ -68,7 +68,7 @@
         <mxCell id="mQjNDoR30oFGqd8uWkL9-15" value="领域专家" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="530" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mQjNDoR30oFGqd8uWkL9-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="mQjNDoR30oFGqd8uWkL9-16" edge="1">
+        <mxCell id="mQjNDoR30oFGqd8uWkL9-32" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="mQjNDoR30oFGqd8uWkL9-16" target="CSJFDouHniBz7Lhme10Q-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="555" as="targetPoint" />
           </mxGeometry>
@@ -134,7 +134,7 @@
         <mxCell id="mQjNDoR30oFGqd8uWkL9-30" value="心梗推理模型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="465" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mQjNDoR30oFGqd8uWkL9-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.491;exitY=-0.091;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="CSJFDouHniBz7Lhme10Q-8" target="mQjNDoR30oFGqd8uWkL9-30" edge="1">
+        <mxCell id="mQjNDoR30oFGqd8uWkL9-34" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.491;exitY=-0.091;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="CSJFDouHniBz7Lhme10Q-8" target="mQjNDoR30oFGqd8uWkL9-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="515" as="sourcePoint" />
           </mxGeometry>
