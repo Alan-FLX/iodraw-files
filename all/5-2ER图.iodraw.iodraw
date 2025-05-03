@@ -237,9 +237,9 @@
         <mxCell id="CSJFDouHniBz7Lhme10Q-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="mQjNDoR30oFGqd8uWkL9-67" target="CSJFDouHniBz7Lhme10Q-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CSJFDouHniBz7Lhme10Q-14" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CSJFDouHniBz7Lhme10Q-12">
+        <mxCell id="CSJFDouHniBz7Lhme10Q-14" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CSJFDouHniBz7Lhme10Q-12">
           <mxGeometry x="0.0695" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-67" value="心梗数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
