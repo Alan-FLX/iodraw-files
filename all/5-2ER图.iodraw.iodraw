@@ -151,17 +151,17 @@
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-39" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mQjNDoR30oFGqd8uWkL9-38" vertex="1" connectable="0">
           <mxGeometry x="0.0586" y="1" relative="1" as="geometry">
-            <mxPoint y="-2" as="offset" />
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQjNDoR30oFGqd8uWkL9-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" target="mQjNDoR30oFGqd8uWkL9-40" edge="1">
+        <mxCell id="mQjNDoR30oFGqd8uWkL9-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="CSJFDouHniBz7Lhme10Q-16" target="mQjNDoR30oFGqd8uWkL9-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230.02857142857147" y="398.01428571428573" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-42" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mQjNDoR30oFGqd8uWkL9-41" vertex="1" connectable="0">
           <mxGeometry x="0.0517" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
+            <mxPoint x="-1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-40" value="推理结果" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
