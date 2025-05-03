@@ -68,8 +68,10 @@
         <mxCell id="mQjNDoR30oFGqd8uWkL9-15" value="领域专家" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="530" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mQjNDoR30oFGqd8uWkL9-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="mQjNDoR30oFGqd8uWkL9-16" target="mQjNDoR30oFGqd8uWkL9-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mQjNDoR30oFGqd8uWkL9-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="mQjNDoR30oFGqd8uWkL9-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="555" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-33" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mQjNDoR30oFGqd8uWkL9-32" vertex="1" connectable="0">
           <mxGeometry x="0.1103" y="1" relative="1" as="geometry">
@@ -132,16 +134,15 @@
         <mxCell id="mQjNDoR30oFGqd8uWkL9-30" value="心梗推理模型" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="465" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mQjNDoR30oFGqd8uWkL9-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="mQjNDoR30oFGqd8uWkL9-31" target="mQjNDoR30oFGqd8uWkL9-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mQjNDoR30oFGqd8uWkL9-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" target="mQjNDoR30oFGqd8uWkL9-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="515" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-35" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mQjNDoR30oFGqd8uWkL9-34" vertex="1" connectable="0">
           <mxGeometry x="0.2474" y="1" relative="1" as="geometry">
             <mxPoint x="-1" y="-8" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="mQjNDoR30oFGqd8uWkL9-31" value="上传" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="515" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="mQjNDoR30oFGqd8uWkL9-37" target="mQjNDoR30oFGqd8uWkL9-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -278,6 +279,9 @@
         </mxCell>
         <mxCell id="CSJFDouHniBz7Lhme10Q-6" value="维护" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="540" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="CSJFDouHniBz7Lhme10Q-8" value="维护" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="515" width="60" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
