@@ -175,14 +175,14 @@
         <mxCell id="mQjNDoR30oFGqd8uWkL9-40" value="推理结果" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mQjNDoR30oFGqd8uWkL9-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" target="mQjNDoR30oFGqd8uWkL9-45" edge="1">
+        <mxCell id="mQjNDoR30oFGqd8uWkL9-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="CSJFDouHniBz7Lhme10Q-18" target="mQjNDoR30oFGqd8uWkL9-45" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190.00000000000023" y="298" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-51" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mQjNDoR30oFGqd8uWkL9-50" vertex="1" connectable="0">
           <mxGeometry x="0.0685" y="2" relative="1" as="geometry">
-            <mxPoint x="-2" y="2" as="offset" />
+            <mxPoint x="1" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-45" value="推理路径" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
