@@ -186,7 +186,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-45" value="推理路径" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="283" width="60" height="30" as="geometry" />
+          <mxGeometry x="100" y="310.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mQjNDoR30oFGqd8uWkL9-46" value="意图识别" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="228" width="60" height="30" as="geometry" />
@@ -311,7 +311,7 @@
         </mxCell>
         <mxCell id="CSJFDouHniBz7Lhme10Q-22" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CSJFDouHniBz7Lhme10Q-21">
           <mxGeometry x="0.5889" y="-1" relative="1" as="geometry">
-            <mxPoint y="-2" as="offset" />
+            <mxPoint x="2" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CSJFDouHniBz7Lhme10Q-18" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
