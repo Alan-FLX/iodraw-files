@@ -312,8 +312,11 @@
         <mxCell id="CSJFDouHniBz7Lhme10Q-11" value="支撑" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="610.5" width="60" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="CSJFDouHniBz7Lhme10Q-16" value="上传" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CSJFDouHniBz7Lhme10Q-16" value="推理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="415" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="CSJFDouHniBz7Lhme10Q-18" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="522.5" width="60" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
