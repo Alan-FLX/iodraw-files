@@ -320,7 +320,7 @@
         </mxCell>
         <UserObject label="&lt;div style=&quot;font-size: 16px;&quot;&gt;实体关系&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;识别不准确&lt;/div&gt;" tags="背景" id="tNyyyHcMMV432MT539Xh-107">
           <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=18;fillColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontSize=16;fontFamily=Helvetica;strokeColor=#000000;" parent="1" vertex="1">
-            <mxGeometry x="67.5" y="751.5" width="115" height="45" as="geometry" />
+            <mxGeometry x="67.5" y="751.5" width="115" height="58.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 16px;&quot;&gt;心梗知识图谱&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;不完整&lt;/div&gt;" tags="背景" id="tNyyyHcMMV432MT539Xh-108">
@@ -624,12 +624,12 @@
           </mxCell>
         </UserObject>
         <UserObject label="" tags="连接线" id="KNLmkhirs2c-jLor0afs-104">
-          <mxCell style="vsdxID=126;edgeStyle=none;startArrow=none;endArrow=classic;startSize=9;endSize=9;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;fontSize=16;fontFamily=Helvetica;endFill=1;entryX=0.003;entryY=0.505;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.006;exitY=0.894;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tNyyyHcMMV432MT539Xh-107">
+          <mxCell style="vsdxID=126;edgeStyle=none;startArrow=none;endArrow=classic;startSize=9;endSize=9;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;fontSize=16;fontFamily=Helvetica;endFill=1;exitX=1.006;exitY=0.894;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tNyyyHcMMV432MT539Xh-107">
             <mxGeometry relative="1" as="geometry">
               <mxPoint as="offset" />
               <Array as="points" />
               <mxPoint x="182.5" y="812.0300000000001" as="sourcePoint" />
-              <mxPoint x="270.5" y="811.7800000000001" as="targetPoint" />
+              <mxPoint x="271" y="810" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
