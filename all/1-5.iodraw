@@ -618,8 +618,18 @@
             <mxGeometry relative="1" as="geometry">
               <mxPoint as="offset" />
               <Array as="points" />
-              <mxPoint x="192.5" y="769.6600000000001" as="sourcePoint" />
-              <mxPoint x="280.5" y="769.4100000000001" as="targetPoint" />
+              <mxPoint x="182.5" y="783.0600000000001" as="sourcePoint" />
+              <mxPoint x="270.5" y="782.8100000000001" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" tags="连接线" id="KNLmkhirs2c-jLor0afs-104">
+          <mxCell style="vsdxID=126;edgeStyle=none;startArrow=none;endArrow=classic;startSize=9;endSize=9;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;verticalAlign=middle;html=1;labelBackgroundColor=#ffffff;rounded=0;fontSize=16;fontFamily=Helvetica;endFill=1;entryX=0.003;entryY=0.505;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.004;exitY=0.539;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+            <mxGeometry relative="1" as="geometry">
+              <mxPoint as="offset" />
+              <Array as="points" />
+              <mxPoint x="192.5" y="793.0600000000001" as="sourcePoint" />
+              <mxPoint x="280.5" y="792.8100000000001" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
