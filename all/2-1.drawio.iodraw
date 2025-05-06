@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="_MDsq1OuYhPzZTudfdgq">
-    <mxGraphModel dx="1348" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="458" dy="259" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,16 +8,16 @@
           <mxGeometry x="214.13" y="80" width="185.87" height="290" as="geometry" />
         </mxCell>
         <mxCell id="exXu3bsFI13jE3MQu_nV-2" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.13971448625837055;fontFamily=宋体;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="99" y="76" width="100" height="120" as="geometry" />
+          <mxGeometry x="99" y="82" width="100" height="120" as="geometry" />
         </mxCell>
         <mxCell id="exXu3bsFI13jE3MQu_nV-3" value="中文电子病历文本" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="109" y="86" width="80" height="30" as="geometry" />
+          <mxGeometry x="109" y="92" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="exXu3bsFI13jE3MQu_nV-4" value="CCKS2019" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="109" y="126" width="80" height="20" as="geometry" />
+          <mxGeometry x="109" y="132" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="exXu3bsFI13jE3MQu_nV-5" value="CMeEE-V2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="109" y="156" width="80" height="20" as="geometry" />
+          <mxGeometry x="109" y="162" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="exXu3bsFI13jE3MQu_nV-8" value="&lt;span style=&quot;text-align: start; font-size: 16px;&quot;&gt;融合部首结构特征与数据增强的中文电子病历命名实体识别&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=16;fillColor=#dae8fc;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="225" y="96" width="165" height="60" as="geometry" />
