@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram id="qbdfn2SmB3JVSrPCFXH9" name="第 1 页">
-    <mxGraphModel dx="1042" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,8 +67,8 @@
             <mxPoint x="360" y="207.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HizeB-CA8JM8lpvJj1j9-2" value="Myocardial&lt;br&gt;Infarction&lt;br&gt;（心肌梗塞）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="130" width="90" height="50" as="geometry" />
+        <mxCell id="HizeB-CA8JM8lpvJj1j9-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;Myocardial&lt;br&gt;Infarction&lt;br&gt;（心肌梗塞）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="65" y="125" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HizeB-CA8JM8lpvJj1j9-3" value="efficacy&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=13;" parent="1" vertex="1">
           <mxGeometry x="320" y="110.25" width="70" height="40" as="geometry" />
