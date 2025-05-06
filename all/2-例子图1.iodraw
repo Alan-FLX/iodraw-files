@@ -105,7 +105,7 @@
         </mxCell>
         <mxCell id="7KMlhh5GlBIv9E5pLz70-29" value="binding&lt;div&gt;（结合）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontFamily=Times New Roman;" parent="7KMlhh5GlBIv9E5pLz70-28" vertex="1" connectable="0">
           <mxGeometry x="-0.2462" relative="1" as="geometry">
-            <mxPoint x="-6" y="-1" as="offset" />
+            <mxPoint x="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7KMlhh5GlBIv9E5pLz70-33" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#B3B3B3;width=4.666666666666667;endSize=4.556666666666667;endWidth=6.444444444444444;strokeColor=none;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="7KMlhh5GlBIv9E5pLz70-1" target="7KMlhh5GlBIv9E5pLz70-7" edge="1">
