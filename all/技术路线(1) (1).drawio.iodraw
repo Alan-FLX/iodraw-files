@@ -387,6 +387,9 @@
         <mxCell id="W5Zj2uWblGP84R-hCOLV-104" value="&lt;span style=&quot;font-family: 宋体; font-size: medium; text-align: start; text-wrap-mode: wrap;&quot;&gt;融合数据增强与部首结构特征的&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: medium; text-align: start; text-wrap-mode: wrap;&quot;&gt;中文电子病历命名实体识别模型DAFF-NER&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="187" y="227" width="310" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="W5Zj2uWblGP84R-hCOLV-105" value="&lt;span style=&quot;font-family: 宋体; font-size: medium; text-align: start; text-wrap-mode: wrap;&quot;&gt;融合数据增强与部首结构特征的&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: 宋体; font-size: medium; text-align: start; text-wrap-mode: wrap;&quot;&gt;中文电子病历命名实体识别模型DAFF-NER&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="225" width="310" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
