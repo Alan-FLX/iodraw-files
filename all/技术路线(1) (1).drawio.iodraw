@@ -320,7 +320,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W5Zj2uWblGP84R-hCOLV-114" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;中文电子病历研究基础&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="381" y="84" width="180" height="30" as="geometry" />
+          <mxGeometry x="397" y="87" width="180" height="30" as="geometry" />
         </mxCell>
         <UserObject label="" tags="背景" id="W5Zj2uWblGP84R-hCOLV-116">
           <mxCell style="vsdxID=8;fillColor=#FFFFFF;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontFamily=宋体;" vertex="1" parent="1">
@@ -332,7 +332,7 @@
         </mxCell>
         <UserObject label="" tags="背景" id="W5Zj2uWblGP84R-hCOLV-118">
           <mxCell style="vsdxID=8;fillColor=#FFFFFF;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontFamily=宋体;" vertex="1" parent="1">
-            <mxGeometry x="546" y="107" width="160" height="53" as="geometry" />
+            <mxGeometry x="567.5" y="107" width="160" height="53" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="W5Zj2uWblGP84R-hCOLV-119" value="&lt;font face=&quot;宋体&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 16px;&quot;&gt;中文电子病历&lt;/font&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;forced-color-adjust: none; font-size: 16px;&quot;&gt;实体关系抽取&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
