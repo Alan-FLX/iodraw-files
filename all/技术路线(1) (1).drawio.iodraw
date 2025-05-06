@@ -461,8 +461,8 @@
             <mxPoint x="479.5" y="599" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W5Zj2uWblGP84R-hCOLV-165" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;中文电子病历命名实体关系抽取问题描述&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="331" y="640" width="310" height="30" as="geometry" />
+        <mxCell id="W5Zj2uWblGP84R-hCOLV-165" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;为信息抽取提供支撑&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="415" y="573" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
