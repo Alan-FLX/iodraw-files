@@ -199,12 +199,6 @@
         <mxCell id="OJMTTI5P1sjgZxOQsx0U-101" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;忽略中文电子病历中汉字的结构特征&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="65" y="328" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OJMTTI5P1sjgZxOQsx0U-102" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.544;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.004;entryY=0.543;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=宋体;" parent="1" source="5" target="10" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="300" as="sourcePoint" />
-            <mxPoint x="220" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OJMTTI5P1sjgZxOQsx0U-103" value="&lt;b style=&quot;font-size: medium; text-align: start;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 融合数据增强与部首结构特征的中文电子病历命名实体识别&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="225" y="120" width="510" height="36" as="geometry" />
         </mxCell>
