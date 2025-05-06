@@ -205,11 +205,11 @@
         <mxCell id="OJMTTI5P1sjgZxOQsx0U-106" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="241" y="156" width="480" height="164" as="geometry" />
         </mxCell>
-        <mxCell id="OJMTTI5P1sjgZxOQsx0U-104" value="&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;数据增强模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="256" y="205" width="194" height="35" as="geometry" />
+        <mxCell id="OJMTTI5P1sjgZxOQsx0U-104" value="&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;数据增强模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#ffe6cc;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="254" y="215" width="194" height="35" as="geometry" />
         </mxCell>
         <mxCell id="OJMTTI5P1sjgZxOQsx0U-105" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; 融合部首特征的&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp;命名实体识别模块&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#ffe6cc;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="256" y="250" width="194" height="45" as="geometry" />
+          <mxGeometry x="254" y="260" width="194" height="45" as="geometry" />
         </mxCell>
         <mxCell id="OJMTTI5P1sjgZxOQsx0U-107" value="&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;融合数据增强与部首结构特征的中文电子病历命名实体识别模型DAFF-NER&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="260" y="168" width="450" height="22" as="geometry" />
@@ -378,7 +378,7 @@
         </mxCell>
         <UserObject label="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px; color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/font&gt;&lt;/div&gt;" tags="背景" id="W5Zj2uWblGP84R-hCOLV-99">
           <mxCell style="verticalAlign=top;align=center;overflow=width;vsdxID=54;fillColor=#ffe6cc;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontSize=16;fontFamily=Helvetica;strokeColor=default;" vertex="1" parent="1">
-            <mxGeometry x="260" y="187.75" width="480" height="17.25" as="geometry" />
+            <mxGeometry x="254" y="195.38" width="480" height="17.25" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
