@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="_MDsq1OuYhPzZTudfdgq">
-    <mxGraphModel dx="267" dy="1320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1348" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,6 +46,9 @@
             <mxPoint x="440" y="309" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9u2qTRKC0WGL4pcU5p7p-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="exXu3bsFI13jE3MQu_nV-30" target="exXu3bsFI13jE3MQu_nV-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="exXu3bsFI13jE3MQu_nV-30" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;实体关系&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;三元组&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="261.63" y="241" width="92.5" height="50" as="geometry" />
         </mxCell>
@@ -77,10 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9u2qTRKC0WGL4pcU5p7p-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;BIO&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;数据标注&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="260.76" y="180" width="92.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="9u2qTRKC0WGL4pcU5p7p-9" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;实体关系&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;三元组&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="261.63" y="240" width="92.5" height="50" as="geometry" />
+          <mxGeometry x="261.76" y="180" width="92.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
