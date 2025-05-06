@@ -211,6 +211,9 @@
         <mxCell id="OJMTTI5P1sjgZxOQsx0U-104" value="&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;数据增强模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#ffe6cc;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="260" y="275" width="194" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="OJMTTI5P1sjgZxOQsx0U-107" value="&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;融合数据增强与部首结构特征的中文电子病历命名实体识别模型DAFF-NER&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="260" y="168" width="450" height="22" as="geometry" />
+        </mxCell>
         <mxCell id="OJMTTI5P1sjgZxOQsx0U-108" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=宋体;" parent="1" source="OJMTTI5P1sjgZxOQsx0U-106" target="15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="310" as="sourcePoint" />
@@ -383,9 +386,6 @@
         </mxCell>
         <mxCell id="W5Zj2uWblGP84R-hCOLV-102" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp;融合部首特征的&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: medium; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;命名实体识别模块&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#ffe6cc;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="255" y="320" width="194" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="W5Zj2uWblGP84R-hCOLV-106" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;text-wrap-mode: wrap; font-family: 宋体; font-size: medium; text-align: start;&quot;&gt;融合数据增强与部首结构特征的&lt;/span&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: medium; text-align: start; text-wrap-mode: wrap;&quot;&gt;中文电子病历命名实体识别模型DAFF-NER&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445" y="218" width="310" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
