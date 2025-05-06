@@ -209,7 +209,7 @@
           <mxGeometry x="326" y="245" width="194" height="35" as="geometry" />
         </mxCell>
         <mxCell id="OJMTTI5P1sjgZxOQsx0U-105" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; 融合部首特征的&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp;命名实体识别模块&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#ffe6cc;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="254" y="280" width="194" height="41" as="geometry" />
+          <mxGeometry x="254" y="280" width="194" height="36" as="geometry" />
         </mxCell>
         <mxCell id="OJMTTI5P1sjgZxOQsx0U-108" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=宋体;" parent="1" source="OJMTTI5P1sjgZxOQsx0U-106" target="15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
