@@ -244,7 +244,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="OJMTTI5P1sjgZxOQsx0U-128" style="fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="291.5" y="778" as="geometry" />
+          <mxGeometry x="292.5" y="779" as="geometry" />
         </mxCell>
         <mxCell id="OJMTTI5P1sjgZxOQsx0U-130" value="&lt;span style=&quot;font-size: 16px; text-align: left;&quot;&gt;忽略实体抽取和关系抽取之间的相互影响&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="79" y="769" width="120" height="60" as="geometry" />
@@ -253,7 +253,7 @@
           <mxGeometry x="238" y="599" width="510" height="36" as="geometry" />
         </mxCell>
         <mxCell id="OJMTTI5P1sjgZxOQsx0U-134" value="&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;语义特征融合模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#dae8fc;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="261.5" y="727" width="194" height="36.5" as="geometry" />
+          <mxGeometry x="262.5" y="728" width="194" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="OJMTTI5P1sjgZxOQsx0U-142" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=宋体;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -351,7 +351,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W5Zj2uWblGP84R-hCOLV-126" value="&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;级联双解码器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#dae8fc;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="261.5" y="779" width="194" height="36.5" as="geometry" />
+          <mxGeometry x="262.5" y="780" width="194" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="W5Zj2uWblGP84R-hCOLV-128" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;融合语义特征的&lt;/font&gt;&lt;span style=&quot;font-size: 16px; font-family: 宋体; background-color: initial;&quot;&gt;中文电子病历&lt;/span&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;命名实体关系抽取&lt;/font&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;宋体&quot;&gt;模型&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;DAFF-NER&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="232" y="679" width="260" height="50" as="geometry" />
