@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="页-1" id="Page-1">
-    <mxGraphModel dx="888" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="432" dy="237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,8 +208,8 @@
         <mxCell id="OJMTTI5P1sjgZxOQsx0U-104" value="&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;数据增强模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#ffe6cc;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="254" y="225" width="194" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="OJMTTI5P1sjgZxOQsx0U-105" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp; 融合部首特征的&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp;命名实体识别模块&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#ffe6cc;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="448" y="220" width="194" height="40" as="geometry" />
+        <mxCell id="OJMTTI5P1sjgZxOQsx0U-105" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fillColor=#ffe6cc;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="450" y="220" width="192" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OJMTTI5P1sjgZxOQsx0U-107" value="&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;融合数据增强与部首结构特征的中文电子病历命名实体识别模型DAFF-NER&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="260" y="168" width="450" height="22" as="geometry" />
