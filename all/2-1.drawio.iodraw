@@ -79,7 +79,7 @@
             <mxPoint x="307.77" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9u2qTRKC0WGL4pcU5p7p-6" value="实体关系&lt;div&gt;三元组&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="9u2qTRKC0WGL4pcU5p7p-6" value="BIO&lt;div&gt;数据标注&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="321" y="200" width="92.5" height="50" as="geometry" />
         </mxCell>
       </root>
