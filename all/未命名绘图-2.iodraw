@@ -262,6 +262,9 @@
             <mxPoint y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="F224I49O9StqnJ1lHCeS-25" value="审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170.00000000000003" y="880.0000000000001" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
