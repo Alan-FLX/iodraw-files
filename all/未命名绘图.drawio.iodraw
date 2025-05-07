@@ -17,7 +17,7 @@
           <mxGeometry x="340.8" y="499" width="80" height="21" as="geometry" />
         </mxCell>
         <mxCell id="7jjQzPY3oSww5JK-p-U8-5" value="信息提取模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330.8" y="535.57" width="100" height="25.57" as="geometry" />
+          <mxGeometry x="330.8" y="534.57" width="100" height="25.57" as="geometry" />
         </mxCell>
         <mxCell id="7jjQzPY3oSww5JK-p-U8-6" value="审核模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="445" y="510" width="100" height="40" as="geometry" />
@@ -105,8 +105,8 @@
         </mxCell>
         <mxCell id="Q7SxopQlndodwjHd5_rt-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380.72" y="536.57" as="sourcePoint" />
-            <mxPoint x="380.72" y="522.57" as="targetPoint" />
+            <mxPoint x="380.72" y="534.57" as="sourcePoint" />
+            <mxPoint x="380.72" y="520.57" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q7SxopQlndodwjHd5_rt-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
