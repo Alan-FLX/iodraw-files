@@ -139,7 +139,7 @@
         <mxCell id="QyUckuqAP3ATsNXzLsmU-54" value="角色" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="937.58" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QyUckuqAP3ATsNXzLsmU-59" value="" style="endArrow=none;html=1;rounded=0;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+        <mxCell id="QyUckuqAP3ATsNXzLsmU-59" value="" style="endArrow=none;html=1;rounded=0;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" source="QyUckuqAP3ATsNXzLsmU-66">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="955.03" as="sourcePoint" />
             <mxPoint x="434" y="935" as="targetPoint" />
@@ -148,7 +148,7 @@
         <mxCell id="QyUckuqAP3ATsNXzLsmU-60" value="1" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="QyUckuqAP3ATsNXzLsmU-59" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QyUckuqAP3ATsNXzLsmU-61" value="" style="endArrow=none;html=1;rounded=0;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+        <mxCell id="QyUckuqAP3ATsNXzLsmU-61" value="" style="endArrow=none;html=1;rounded=0;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" source="QyUckuqAP3ATsNXzLsmU-66">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="955.03" as="sourcePoint" />
             <mxPoint x="434" y="990" as="targetPoint" />
@@ -175,7 +175,7 @@
           <mxGeometry x="434" y="910" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QyUckuqAP3ATsNXzLsmU-68" value="命名实体识别" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="434" y="965" width="90" height="50" as="geometry" />
+          <mxGeometry x="324" y="1030" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="F224I49O9StqnJ1lHCeS-1" value="上传" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="740.42" width="70" height="40" as="geometry" />
