@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="ApCt5rDgILXBIyC51qLC">
-    <mxGraphModel dx="1146" dy="648" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="546" dy="309" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="U_hG4gl-wixro2wje5js-53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="138" y="81" width="591" height="396" as="geometry" />
+          <mxGeometry x="138" y="81" width="591" height="432" as="geometry" />
         </mxCell>
         <mxCell id="U_hG4gl-wixro2wje5js-1" value="患病人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="54" y="101" width="30" height="60" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="378" y="383" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="U_hG4gl-wixro2wje5js-15" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="378" y="432" width="120" height="35" as="geometry" />
+          <mxGeometry x="378" y="423" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="U_hG4gl-wixro2wje5js-16" value="上传电子病历" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="221.5" width="120" height="45" as="geometry" />
@@ -251,6 +251,18 @@
         </mxCell>
         <mxCell id="VjU6YhjJvEUSLa_MwtOw-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;中文电子病历信息提取系统&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="330" y="50" width="216" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="h4lH2U5zdKFrUTfQmSIn-1" value="日志管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="378" y="467" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="h4lH2U5zdKFrUTfQmSIn-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="h4lH2U5zdKFrUTfQmSIn-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="309" y="405" as="sourcePoint" />
+            <mxPoint x="387" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h4lH2U5zdKFrUTfQmSIn-3" value="&amp;lt;&amp;lt;包含&amp;gt;&amp;gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="h4lH2U5zdKFrUTfQmSIn-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
