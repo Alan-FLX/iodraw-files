@@ -17,7 +17,7 @@
           <mxGeometry x="340.8" y="499" width="80" height="15.57" as="geometry" />
         </mxCell>
         <mxCell id="7jjQzPY3oSww5JK-p-U8-5" value="信息提取模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="327.75" y="525.57" width="100" height="40" as="geometry" />
+          <mxGeometry x="330.8" y="525.57" width="100" height="25.57" as="geometry" />
         </mxCell>
         <mxCell id="7jjQzPY3oSww5JK-p-U8-6" value="审核模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="510" width="100" height="40" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="229" y="536.52" width="50" height="77.48" as="geometry" />
         </mxCell>
         <mxCell id="7jjQzPY3oSww5JK-p-U8-25" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="352.75" y="536.52" width="50" height="77.48" as="geometry" />
+          <mxGeometry x="352.75" y="540" width="50" height="77.48" as="geometry" />
         </mxCell>
         <mxCell id="7jjQzPY3oSww5JK-p-U8-27" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="615" y="536.52" width="50" height="77.48" as="geometry" />
@@ -120,8 +120,8 @@
         </mxCell>
         <mxCell id="Q7SxopQlndodwjHd5_rt-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390.59000000000003" y="509" as="sourcePoint" />
-            <mxPoint x="390.59000000000003" y="495" as="targetPoint" />
+            <mxPoint x="380.72" y="528.57" as="sourcePoint" />
+            <mxPoint x="380.72" y="514.57" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
