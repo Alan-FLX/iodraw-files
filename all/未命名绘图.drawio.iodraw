@@ -14,7 +14,7 @@
           <mxGeometry x="69.7" y="510" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7jjQzPY3oSww5JK-p-U8-4" value="上传电子病历" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="510" width="100" height="40" as="geometry" />
+          <mxGeometry x="340.8" y="500" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7jjQzPY3oSww5JK-p-U8-5" value="信息提取模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="327.75" y="525.57" width="100" height="40" as="geometry" />
