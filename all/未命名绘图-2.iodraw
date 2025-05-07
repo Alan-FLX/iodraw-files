@@ -200,7 +200,7 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F224I49O9StqnJ1lHCeS-6" value="查看信息" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F224I49O9StqnJ1lHCeS-6" value="查看" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="725" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
