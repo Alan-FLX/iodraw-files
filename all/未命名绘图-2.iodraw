@@ -212,7 +212,7 @@
         <mxCell id="F224I49O9StqnJ1lHCeS-11" value="查看" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425.98" y="730" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F224I49O9StqnJ1lHCeS-13" value="信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F224I49O9StqnJ1lHCeS-13" value="提取信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="735" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F224I49O9StqnJ1lHCeS-14" value="" style="endArrow=none;html=1;rounded=0;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="F224I49O9StqnJ1lHCeS-11" target="F224I49O9StqnJ1lHCeS-13">
