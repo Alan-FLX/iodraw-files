@@ -47,7 +47,7 @@
           <mxGeometry x="620" y="69" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="Ec0NfRntek-hcCcQKZI_-67" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;BiGRU&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;verticalAlign=middle;textDirection=vertical-rl;horizontal=1;rotation=-90;fillColor=#dae8fc;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="107.5" y="59.5" width="28.5" height="99" as="geometry" />
+          <mxGeometry x="106.63" y="60.38" width="21.75" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="Ec0NfRntek-hcCcQKZI_-72" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Radical Attention&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;verticalAlign=middle;textDirection=vertical-rl;horizontal=1;rotation=-90;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="107.5" y="230" width="28.5" height="99" as="geometry" />
