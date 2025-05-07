@@ -113,7 +113,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QyUckuqAP3ATsNXzLsmU-43" value="实体" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="975" width="70" height="30" as="geometry" />
+          <mxGeometry x="280" y="1120" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QyUckuqAP3ATsNXzLsmU-44" value="关系" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="920" width="70" height="30" as="geometry" />
@@ -176,8 +176,8 @@
         <mxCell id="QyUckuqAP3ATsNXzLsmU-66" value="信息抽取" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="973" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QyUckuqAP3ATsNXzLsmU-67" value="实体关系抽取" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="369" y="1020" width="90" height="50" as="geometry" />
+        <mxCell id="QyUckuqAP3ATsNXzLsmU-67" value="实体关系&lt;div&gt;抽取&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="369" y="1020" width="81" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QyUckuqAP3ATsNXzLsmU-68" value="命名实体&lt;div&gt;识别&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="1020" width="80" height="50" as="geometry" />
