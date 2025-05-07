@@ -19,15 +19,6 @@
         <mxCell id="u_NVT7SIp9F0DpOV-776-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;dashed=1;dashPattern=8 8;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="36" y="96" width="178" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Mr6iX36EytRokA8NIayN-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="214.12000000000023" y="270" as="sourcePoint" />
-            <mxPoint x="279.8700098765554" y="269.13888888888886" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="250" y="270" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="u_NVT7SIp9F0DpOV-776-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;dashed=1;dashPattern=8 8;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="36" y="195.5" width="178" height="84.5" as="geometry" />
         </mxCell>
