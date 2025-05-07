@@ -20,7 +20,7 @@
           <mxGeometry x="330.8" y="534.57" width="100" height="25.57" as="geometry" />
         </mxCell>
         <mxCell id="7jjQzPY3oSww5JK-p-U8-6" value="审核模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="445" y="510" width="100" height="40" as="geometry" />
+          <mxGeometry x="455" y="510" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7jjQzPY3oSww5JK-p-U8-7" value="权限管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="590" y="510" width="100" height="40" as="geometry" />
