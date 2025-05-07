@@ -235,6 +235,22 @@
             <mxPoint x="390" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="F224I49O9StqnJ1lHCeS-20" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F224I49O9StqnJ1lHCeS-19">
+          <mxGeometry x="-0.1271" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F224I49O9StqnJ1lHCeS-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="365" y="920" as="sourcePoint" />
+            <mxPoint x="365" y="899" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F224I49O9StqnJ1lHCeS-22" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F224I49O9StqnJ1lHCeS-21">
+          <mxGeometry x="-0.1271" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
