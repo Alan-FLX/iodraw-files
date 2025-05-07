@@ -159,7 +159,7 @@
             <mxPoint x="370" y="-215" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F224I49O9StqnJ1lHCeS-23" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QyUckuqAP3ATsNXzLsmU-61">
+        <mxCell id="F224I49O9StqnJ1lHCeS-23" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QyUckuqAP3ATsNXzLsmU-61">
           <mxGeometry x="-0.1511" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -180,7 +180,7 @@
           <mxGeometry x="369" y="1020" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QyUckuqAP3ATsNXzLsmU-68" value="命名实体&lt;div&gt;识别&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="1020" width="80" height="50" as="geometry" />
+          <mxGeometry x="270" y="1020" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="F224I49O9StqnJ1lHCeS-1" value="上传" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="740.42" width="70" height="40" as="geometry" />
