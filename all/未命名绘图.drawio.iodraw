@@ -47,10 +47,10 @@
           <mxGeometry x="404.75" y="600" width="25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7jjQzPY3oSww5JK-p-U8-19" value="审&lt;div&gt;核&lt;/div&gt;&lt;div&gt;提&lt;/div&gt;&lt;div&gt;取&lt;/div&gt;&lt;div&gt;结&lt;/div&gt;&lt;div&gt;果&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="443" y="600" width="25" height="100" as="geometry" />
+          <mxGeometry x="450.01" y="600" width="25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7jjQzPY3oSww5JK-p-U8-20" value="修&lt;div&gt;改&lt;/div&gt;&lt;div&gt;提&lt;/div&gt;&lt;div&gt;取&lt;/div&gt;&lt;div&gt;结&lt;/div&gt;&lt;div&gt;果&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="518" y="600" width="25" height="100" as="geometry" />
+          <mxGeometry x="515" y="600" width="25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7jjQzPY3oSww5JK-p-U8-21" value="角&lt;div&gt;色&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="590" y="600" width="25" height="100" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="615" y="536.52" width="50" height="77.48" as="geometry" />
         </mxCell>
         <mxCell id="7jjQzPY3oSww5JK-p-U8-30" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="461.26" y="543.26" width="50" height="64" as="geometry" />
+          <mxGeometry x="470" y="543.26" width="50" height="64" as="geometry" />
         </mxCell>
         <mxCell id="7jjQzPY3oSww5JK-p-U8-36" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
