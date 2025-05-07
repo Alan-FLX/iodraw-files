@@ -275,7 +275,7 @@
           <mxGeometry x="-112" y="57" width="69" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u_NVT7SIp9F0DpOV-776-23" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;TextCNN&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;verticalAlign=middle;textDirection=vertical-rl;horizontal=1;rotation=-90;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="77.99" y="164" width="28.5" height="99" as="geometry" />
+          <mxGeometry x="78.99" y="162.99" width="26.49" height="99" as="geometry" />
         </mxCell>
         <mxCell id="u_NVT7SIp9F0DpOV-776-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Ec0NfRntek-hcCcQKZI_-67" target="Ec0NfRntek-hcCcQKZI_-73" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -687,6 +687,9 @@
         </mxCell>
         <mxCell id="Mr6iX36EytRokA8NIayN-76" value="条件随机场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="388.25" y="140.38" width="20" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="Mr6iX36EytRokA8NIayN-78" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;BiGRU&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;verticalAlign=middle;textDirection=vertical-rl;horizontal=1;rotation=-90;fillColor=#fff2cc;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="91.36999999999999" y="89.5" width="21.75" height="90.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
