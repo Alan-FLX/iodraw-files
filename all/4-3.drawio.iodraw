@@ -25,7 +25,7 @@
         <mxCell id="cCqt0ifex42qm9aeKH_G-1" value="$$\mathbf{X}_{token}$$" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="170" y="530" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cCqt0ifex42qm9aeKH_G-2" value="$$\mathbf{X}_{bundle}$$" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#009900;" parent="1" vertex="1">
+        <mxCell id="cCqt0ifex42qm9aeKH_G-2" value="$$\mathbf{X}_{bundle}$$" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#CC6600;" parent="1" vertex="1">
           <mxGeometry x="230" y="465" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cCqt0ifex42qm9aeKH_G-3" value="DAFF-NER" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#d5e8d4;" parent="1" vertex="1">
