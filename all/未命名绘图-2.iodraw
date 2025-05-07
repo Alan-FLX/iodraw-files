@@ -697,8 +697,8 @@
             <mxPoint x="-40" y="188" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mr6iX36EytRokA8NIayN-36" value="&lt;span style=&quot;text-align: start;&quot;&gt;RoBERTa-wwm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fillColor=#ffe6cc;strokeColor=#d79b00;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="-119" y="224.5" width="20" height="100" as="geometry" />
+        <mxCell id="Mr6iX36EytRokA8NIayN-36" value="&lt;span style=&quot;text-align: start;&quot;&gt;RoBERTa-wwm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fillColor=#d5e8d4;strokeColor=default;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-119" y="202.5" width="20" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
