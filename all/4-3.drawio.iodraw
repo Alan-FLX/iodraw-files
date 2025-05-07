@@ -23,7 +23,7 @@
           <mxGeometry x="120" y="389" width="160" height="171" as="geometry" />
         </mxCell>
         <mxCell id="cCqt0ifex42qm9aeKH_G-1" value="$$\mathbf{X}_{token}$$" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
-          <mxGeometry x="170" y="530" width="40" height="20" as="geometry" />
+          <mxGeometry x="230" y="520" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cCqt0ifex42qm9aeKH_G-2" value="$$\mathbf{X}_{bundle}$$" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#CC6600;" parent="1" vertex="1">
           <mxGeometry x="230" y="465" width="40" height="20" as="geometry" />
