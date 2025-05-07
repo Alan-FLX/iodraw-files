@@ -488,7 +488,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mr6iX36EytRokA8NIayN-106" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-260.0050000000001" y="300" width="365.0050000000001" height="221.125" as="geometry" />
+          <mxGeometry x="-189.99500000000012" y="300" width="365.0050000000001" height="221.125" as="geometry" />
         </mxCell>
         <mxCell id="Ec0NfRntek-hcCcQKZI_-114" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;dashPattern=8 8;direction=east;flipH=1;rotation=90;" parent="Mr6iX36EytRokA8NIayN-106" vertex="1">
           <mxGeometry x="-14.81499999999994" y="18.060000000000002" width="217.88" height="188.25" as="geometry" />
@@ -543,6 +543,9 @@
         </mxCell>
         <mxCell id="Ec0NfRntek-hcCcQKZI_-214" value="Embedding Layer" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;direction=east;flipH=1;rotation=90;" parent="Mr6iX36EytRokA8NIayN-106" vertex="1">
           <mxGeometry x="263.0050000000001" width="18.25" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Mr6iX36EytRokA8NIayN-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Mr6iX36EytRokA8NIayN-106" source="Ec0NfRntek-hcCcQKZI_-215" target="Ec0NfRntek-hcCcQKZI_-228">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ec0NfRntek-hcCcQKZI_-215" value="RoBERTa Encoder" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;direction=east;flipH=1;rotation=90;" parent="Mr6iX36EytRokA8NIayN-106" vertex="1">
           <mxGeometry x="263.0050000000001" y="35.5" width="18" height="110" as="geometry" />
