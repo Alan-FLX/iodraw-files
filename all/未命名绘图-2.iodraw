@@ -8,7 +8,7 @@
           <mxGeometry x="320" y="620" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QyUckuqAP3ATsNXzLsmU-2" value="医生" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="735" width="70" height="30" as="geometry" />
+          <mxGeometry x="120" y="735" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QyUckuqAP3ATsNXzLsmU-3" value="系统管理员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="825.42" width="70" height="30" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="320" y="670" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QyUckuqAP3ATsNXzLsmU-6" value="上传" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="730" width="70" height="40" as="geometry" />
+          <mxGeometry x="230" y="730" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QyUckuqAP3ATsNXzLsmU-7" value="审核" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160.00000000000003" y="870.0000000000001" width="70" height="40" as="geometry" />
