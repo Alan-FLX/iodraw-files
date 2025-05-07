@@ -130,11 +130,6 @@
             <mxGeometry x="887" y="241" width="100" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size: 16.93px; font-family: &amp;quot;Times New Roman&amp;quot;; color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1;&quot;&gt;&lt;p style=&quot;font-size: medium; text-align: start;&quot; class=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;/font&gt;&lt;/div&gt;" tags="背景" id="UQXKuTapcSL6DaCuvH_G-6">
-          <mxCell style="verticalAlign=top;align=center;overflow=width;vsdxID=15;fillColor=#FFFFFF;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-            <mxGeometry x="310" y="297" width="520" height="396" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size: 16.93px; font-family: &amp;quot;Times New Roman&amp;quot;; color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1;&quot;&gt;中文电子病历信息提取系统&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="背景" id="UQXKuTapcSL6DaCuvH_G-7">
           <mxCell style="verticalAlign=top;align=center;overflow=width;vsdxID=16;fillColor=#FFFFFF;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
             <mxGeometry x="855" y="291" width="164" height="832" as="geometry" />
@@ -307,10 +302,10 @@
         <mxCell id="UQXKuTapcSL6DaCuvH_G-42" parent="1" vertex="1">
           <mxGeometry x="570" y="572" as="geometry" />
         </mxCell>
-        <mxCell id="UQXKuTapcSL6DaCuvH_G-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.544;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.004;entryY=0.543;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="UQXKuTapcSL6DaCuvH_G-6" edge="1">
+        <mxCell id="UQXKuTapcSL6DaCuvH_G-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.544;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.004;entryY=0.543;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="278.96000000000004" y="512.424" as="sourcePoint" />
-            <mxPoint x="310" y="443" as="targetPoint" />
+            <mxPoint x="307.9200000000001" y="512.028" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UQXKuTapcSL6DaCuvH_G-45" value="&lt;b style=&quot;font-family: 黑体; font-size: medium; text-align: start;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 融合数据增强与部首结构特征的中文电子病历命名实体识别&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -319,14 +314,8 @@
         <mxCell id="UQXKuTapcSL6DaCuvH_G-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="331" y="339" width="480" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="UQXKuTapcSL6DaCuvH_G-47" value="&lt;span style=&quot;font-family: 黑体; font-size: medium; text-align: start;&quot;&gt;数据增强模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="346" y="388" width="194" height="58.5" as="geometry" />
-        </mxCell>
         <mxCell id="UQXKuTapcSL6DaCuvH_G-48" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font size=&quot;3&quot; face=&quot;黑体&quot;&gt;融合部首特征的命名实体识别模块&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="388" width="220" height="58.5" as="geometry" />
-        </mxCell>
-        <mxCell id="UQXKuTapcSL6DaCuvH_G-49" value="&lt;span style=&quot;font-family: 黑体; font-size: medium; text-align: start;&quot;&gt;融合数据增强与部首结构特征的中文电子病历命名实体识别模型DAFF-NER&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="350" y="351" width="450" height="22" as="geometry" />
         </mxCell>
         <mxCell id="UQXKuTapcSL6DaCuvH_G-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="UQXKuTapcSL6DaCuvH_G-46" target="UQXKuTapcSL6DaCuvH_G-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -362,16 +351,6 @@
             <mxPoint x="570" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="" tags="背景" id="UQXKuTapcSL6DaCuvH_G-56">
-          <mxCell style="vsdxID=8;fillColor=#FFFFFF;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-            <mxGeometry x="150" y="723" width="130" height="400" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size: 16.93px; font-family: &amp;quot;Times New Roman&amp;quot;; color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1;&quot;&gt;&lt;p style=&quot;font-size: medium; text-align: start;&quot; class=&quot;1&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;/font&gt;&lt;/div&gt;" tags="背景" id="UQXKuTapcSL6DaCuvH_G-57">
-          <mxCell style="verticalAlign=top;align=center;overflow=width;vsdxID=15;fillColor=#FFFFFF;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-            <mxGeometry x="310" y="723" width="520" height="400" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1; font-size: 16px;&quot;&gt;RCDDF实体关系抽取&lt;/font&gt;&lt;font style=&quot;font-size: 16.93px; font-family: &amp;quot;Times New Roman&amp;quot;; color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1;&quot;&gt;算法&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="背景" id="UQXKuTapcSL6DaCuvH_G-58">
           <mxCell style="verticalAlign=top;align=center;overflow=width;vsdxID=20;fillColor=#FFFFFF;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
             <mxGeometry x="331" y="917" width="480" height="20" as="geometry" />
@@ -421,13 +400,10 @@
         <mxCell id="UQXKuTapcSL6DaCuvH_G-68" parent="1" vertex="1">
           <mxGeometry x="570" y="998" as="geometry" />
         </mxCell>
-        <mxCell id="UQXKuTapcSL6DaCuvH_G-69" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px; text-align: left;&quot;&gt;忽略实体抽取和关系抽取之间的相互影响&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="155" y="937" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UQXKuTapcSL6DaCuvH_G-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.544;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.004;entryY=0.543;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="UQXKuTapcSL6DaCuvH_G-56" target="UQXKuTapcSL6DaCuvH_G-57" edge="1">
+        <mxCell id="UQXKuTapcSL6DaCuvH_G-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.544;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.004;entryY=0.543;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="909" as="sourcePoint" />
-            <mxPoint x="310" y="869" as="targetPoint" />
+            <mxPoint x="278.96000000000004" y="940.5999999999999" as="sourcePoint" />
+            <mxPoint x="307.9200000000001" y="940.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UQXKuTapcSL6DaCuvH_G-71" value="&lt;p style=&quot;font-size: medium; text-align: start;&quot; class=&quot;1&quot;&gt;&lt;span style=&quot;font-family: 黑体;&quot;&gt;&lt;b&gt;融合语义特征的中文电子病历实体关系抽取&lt;/b&gt;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -478,9 +454,6 @@
             <mxPoint x="570" y="937" as="sourcePoint" />
             <mxPoint x="570" y="966" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="UQXKuTapcSL6DaCuvH_G-82" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px; text-align: left;&quot;&gt;缺少对全局及内部的语义处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="155" y="814" width="120" height="60" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size: 14.11px; font-family: &amp;quot;Times New Roman&amp;quot;; color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1;&quot;&gt;用户权限管理&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" tags="背景" id="UQXKuTapcSL6DaCuvH_G-83">
           <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=81;fillColor=#FFFFFF;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
