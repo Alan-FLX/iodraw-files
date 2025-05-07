@@ -53,10 +53,10 @@
           <mxGeometry x="515" y="600" width="25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7jjQzPY3oSww5JK-p-U8-21" value="角&lt;div&gt;色&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="567" y="600" width="25" height="100" as="geometry" />
+          <mxGeometry x="571" y="600" width="25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7jjQzPY3oSww5JK-p-U8-22" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="642" y="601" width="25" height="100" as="geometry" />
+          <mxGeometry x="635" y="601" width="25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7jjQzPY3oSww5JK-p-U8-23" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="232.7" y="524.57" width="50" height="99.38" as="geometry" />
@@ -113,7 +113,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q7SxopQlndodwjHd5_rt-5" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="592" y="543.26" width="50" height="64" as="geometry" />
+          <mxGeometry x="590" y="543.26" width="50" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
