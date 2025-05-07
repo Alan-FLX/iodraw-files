@@ -688,7 +688,7 @@
         <mxCell id="Mr6iX36EytRokA8NIayN-31" value="编码器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-283" y="668.75" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mr6iX36EytRokA8NIayN-32" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;verticalAlign=middle;horizontal=1;rotation=-90;fillColor=#dae8fc;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="Mr6iX36EytRokA8NIayN-32" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;verticalAlign=middle;horizontal=1;rotation=-90;fillColor=#dae8fc;strokeColor=default;textDirection=ltr;" vertex="1" parent="1">
           <mxGeometry x="-10" y="87" width="28.5" height="99" as="geometry" />
         </mxCell>
       </root>
