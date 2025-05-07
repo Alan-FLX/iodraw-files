@@ -11,7 +11,7 @@
           <mxGeometry x="90" y="790" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QyUckuqAP3ATsNXzLsmU-3" value="系统管理员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="860" width="70" height="30" as="geometry" />
+          <mxGeometry x="320" y="885" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QyUckuqAP3ATsNXzLsmU-5" value="上传" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="730" width="70" height="40" as="geometry" />
@@ -189,7 +189,7 @@
         <mxCell id="F224I49O9StqnJ1lHCeS-3" value="n" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="F224I49O9StqnJ1lHCeS-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F224I49O9StqnJ1lHCeS-4" value="" style="endArrow=none;html=1;rounded=0;startFill=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="F224I49O9StqnJ1lHCeS-1">
+        <mxCell id="F224I49O9StqnJ1lHCeS-4" value="" style="endArrow=none;html=1;rounded=0;startFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QyUckuqAP3ATsNXzLsmU-3" target="F224I49O9StqnJ1lHCeS-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="808" as="sourcePoint" />
             <mxPoint x="210" y="810" as="targetPoint" />
