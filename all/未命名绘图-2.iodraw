@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="IkQzo7sOWd3TerhUupMD">
-    <mxGraphModel dx="1617" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1782" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -266,7 +266,7 @@
           <mxGeometry x="719" y="1082.5" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="u_NVT7SIp9F0DpOV-776-5" value="B-Disease&lt;div&gt;&lt;br&gt;&lt;div&gt;I-Disease&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I-Disease&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;O&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;O&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="464" y="131" width="120" height="130" as="geometry" />
+          <mxGeometry x="434" y="128.38" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="u_NVT7SIp9F0DpOV-776-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="-8.5" y="228" width="19" height="30" as="geometry" />
@@ -381,8 +381,8 @@
         </mxCell>
         <mxCell id="u_NVT7SIp9F0DpOV-776-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="u_NVT7SIp9F0DpOV-776-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="444" y="196" as="sourcePoint" />
-            <mxPoint x="244" y="241" as="targetPoint" />
+            <mxPoint x="414" y="193.38" as="sourcePoint" />
+            <mxPoint x="214" y="238.38" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u_NVT7SIp9F0DpOV-776-69" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;输出&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
