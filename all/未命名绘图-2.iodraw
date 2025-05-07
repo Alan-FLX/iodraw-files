@@ -224,6 +224,9 @@
         <mxCell id="F224I49O9StqnJ1lHCeS-15" value="n" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="F224I49O9StqnJ1lHCeS-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="F224I49O9StqnJ1lHCeS-16" value="支撑" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="790" width="70" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
