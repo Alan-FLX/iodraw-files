@@ -617,7 +617,7 @@
           <mxGeometry x="1238" y="685" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ec0NfRntek-hcCcQKZI_-255" value="部首嵌入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;direction=east;flipH=1;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="1119.06" y="628.75" width="30" height="70" as="geometry" />
+          <mxGeometry x="1119.06" y="637" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="u_NVT7SIp9F0DpOV-776-70" value="ConV1D Kernel Size=3" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;align=center;direction=east;flipH=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="1035" y="526" width="18" height="150" as="geometry" />
@@ -677,7 +677,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mr6iX36EytRokA8NIayN-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mr6iX36EytRokA8NIayN-92" target="Ec0NfRntek-hcCcQKZI_-250">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1160" y="679" />
+              <mxPoint x="1160" y="654" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
