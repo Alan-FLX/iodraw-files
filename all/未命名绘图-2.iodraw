@@ -203,37 +203,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u_NVT7SIp9F0DpOV-776-77" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="127" y="306.12" width="15" height="15" as="geometry" />
+          <mxGeometry x="208.25" y="316.25" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="u_NVT7SIp9F0DpOV-776-78" value="&lt;span style=&quot;text-align: start;&quot;&gt;RoBERTa-wwm文本嵌入&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="140" y="299.87" width="147" height="27.5" as="geometry" />
+          <mxGeometry x="221.25" y="310" width="147" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="u_NVT7SIp9F0DpOV-776-79" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="127" y="326.37" width="15" height="15" as="geometry" />
+          <mxGeometry x="208.25" y="336.5" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="u_NVT7SIp9F0DpOV-776-80" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Multi-Scale CNN部首嵌入&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="147" y="321.12" width="160" height="30" as="geometry" />
+          <mxGeometry x="228.25" y="331.25" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u_NVT7SIp9F0DpOV-776-82" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;$$\mathbf{h}_{n}^{g}$$&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="129" y="378.12" width="15" height="15" as="geometry" />
+          <mxGeometry x="210.25" y="388.25" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="u_NVT7SIp9F0DpOV-776-83" value="全局特征" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="139" y="369.12" width="70" height="30" as="geometry" />
+          <mxGeometry x="220.25" y="379.25" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u_NVT7SIp9F0DpOV-776-84" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;$$\tilde{\mathbf{h}}_n^{local}$$&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="130" y="401.62" width="15" height="15" as="geometry" />
+          <mxGeometry x="211.25" y="411.75" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="u_NVT7SIp9F0DpOV-776-86" value="局部特征" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="140" y="393.12" width="70" height="30" as="geometry" />
+          <mxGeometry x="221.25" y="403.25" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u_NVT7SIp9F0DpOV-776-87" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="130" y="349.12" width="10" height="10" as="geometry" />
+          <mxGeometry x="211.25" y="359.25" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="u_NVT7SIp9F0DpOV-776-88" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="130" y="359.12" width="10" height="10" as="geometry" />
+          <mxGeometry x="211.25" y="369.25" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="u_NVT7SIp9F0DpOV-776-89" value="文本部首融合表示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="135.25" y="342.62" width="120" height="30" as="geometry" />
+          <mxGeometry x="216.5" y="352.75" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mr6iX36EytRokA8NIayN-1" value="患者自述于2016年2月因发热、腹痛就诊于我院急诊外科，完善相关检查显示乙状结肠占位、乙状结肠穿孔。" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-533" y="692.5" width="200" height="50" as="geometry" />
@@ -488,7 +488,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mr6iX36EytRokA8NIayN-106" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="945.9949999999999" y="471.25" width="365.0050000000001" height="221.125" as="geometry" />
+          <mxGeometry x="-260.0050000000001" y="300" width="365.0050000000001" height="221.125" as="geometry" />
         </mxCell>
         <mxCell id="Ec0NfRntek-hcCcQKZI_-114" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;dashPattern=8 8;direction=east;flipH=1;rotation=90;" parent="Mr6iX36EytRokA8NIayN-106" vertex="1">
           <mxGeometry x="-14.81499999999994" y="18.060000000000002" width="217.88" height="188.25" as="geometry" />
