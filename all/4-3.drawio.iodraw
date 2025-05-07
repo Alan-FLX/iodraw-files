@@ -29,7 +29,7 @@
           <mxGeometry x="230" y="465" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cCqt0ifex42qm9aeKH_G-3" value="DAFF-NER" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="80" y="400" width="80" height="20" as="geometry" />
+          <mxGeometry x="117" y="400" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cCqt0ifex42qm9aeKH_G-7" value="&lt;span style=&quot;text-align: start;&quot; lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;RoBERTa-wwm&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="450" width="20" height="90" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="591" y="395" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="tYZlgu5D2pXoXKh8fCAc-1" value="$$\mathbf{X}_{entity}$$" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="170" y="400" width="40" height="20" as="geometry" />
+          <mxGeometry x="230" y="400" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tYZlgu5D2pXoXKh8fCAc-2" value="电子病历文本" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="21" y="507" width="80" height="20" as="geometry" />
@@ -55,7 +55,7 @@
             <mxPoint x="440" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tYZlgu5D2pXoXKh8fCAc-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="cCqt0ifex42qm9aeKH_G-3" target="cCqt0ifex42qm9aeKH_G-7" edge="1">
+        <mxCell id="tYZlgu5D2pXoXKh8fCAc-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cCqt0ifex42qm9aeKH_G-3" target="cCqt0ifex42qm9aeKH_G-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="410" as="sourcePoint" />
             <mxPoint x="130" y="460" as="targetPoint" />
