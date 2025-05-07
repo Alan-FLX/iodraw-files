@@ -209,7 +209,7 @@
         <mxCell id="F224I49O9StqnJ1lHCeS-10" value="1" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="F224I49O9StqnJ1lHCeS-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F224I49O9StqnJ1lHCeS-11" value="上传" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F224I49O9StqnJ1lHCeS-11" value="查看" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425.98" y="730" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F224I49O9StqnJ1lHCeS-13" value="信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
