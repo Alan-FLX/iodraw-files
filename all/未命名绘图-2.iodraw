@@ -680,10 +680,10 @@
           <mxGeometry x="-123" y="192" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Mr6iX36EytRokA8NIayN-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-53" y="293" width="40" height="24" as="geometry" />
+          <mxGeometry x="-53" y="300" width="33" height="17" as="geometry" />
         </mxCell>
         <mxCell id="Mr6iX36EytRokA8NIayN-42" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="298" width="15" height="15" as="geometry" />
+          <mxGeometry x="-50" y="300" width="13" height="13" as="geometry" />
         </mxCell>
         <mxCell id="Mr6iX36EytRokA8NIayN-43" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-32" y="300" width="13" height="13" as="geometry" />
