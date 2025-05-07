@@ -8,10 +8,10 @@
           <mxGeometry x="90" y="735" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QyUckuqAP3ATsNXzLsmU-2" value="医生" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="810" width="70" height="30" as="geometry" />
+          <mxGeometry x="90" y="790" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QyUckuqAP3ATsNXzLsmU-3" value="系统管理员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="920" width="70" height="30" as="geometry" />
+          <mxGeometry x="320" y="860" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QyUckuqAP3ATsNXzLsmU-5" value="上传" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="730" width="70" height="40" as="geometry" />
@@ -176,6 +176,9 @@
         </mxCell>
         <mxCell id="QyUckuqAP3ATsNXzLsmU-68" value="命名实体识别" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="524" y="565" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F224I49O9StqnJ1lHCeS-1" value="上传" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="790" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
