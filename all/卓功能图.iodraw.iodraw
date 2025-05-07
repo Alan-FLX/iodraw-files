@@ -115,7 +115,7 @@
         <mxCell id="Q7SxopQlndodwjHd5_rt-5" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="590" y="543.26" width="50" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="6Ju4ki17jQv7R8dDybc9-1" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="6Ju4ki17jQv7R8dDybc9-1" value="日志管理" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="640" y="600" width="25" height="100" as="geometry" />
         </mxCell>
       </root>
