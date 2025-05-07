@@ -685,8 +685,8 @@
         <mxCell id="Mr6iX36EytRokA8NIayN-36" value="&lt;span style=&quot;text-align: start;&quot;&gt;RoBERTa-wwm&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;fillColor=#d5e8d4;strokeColor=default;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-119" y="202.5" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Mr6iX36EytRokA8NIayN-37" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="170" width="120" height="60" as="geometry" />
+        <mxCell id="Mr6iX36EytRokA8NIayN-37" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="322" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
