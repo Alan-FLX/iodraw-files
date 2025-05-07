@@ -8,7 +8,7 @@
           <mxGeometry x="304.01" y="430" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7jjQzPY3oSww5JK-p-U8-2" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="424.01" y="291.81" width="50" height="386.4" as="geometry" />
+          <mxGeometry x="414.91" y="300.9" width="50" height="368.21" as="geometry" />
         </mxCell>
         <mxCell id="7jjQzPY3oSww5JK-p-U8-3" value="用户管理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="207.7" y="509" width="100" height="40" as="geometry" />
@@ -72,8 +72,8 @@
         </mxCell>
         <mxCell id="7jjQzPY3oSww5JK-p-U8-36" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="508" y="510" as="sourcePoint" />
-            <mxPoint x="508" y="485" as="targetPoint" />
+            <mxPoint x="495" y="510" as="sourcePoint" />
+            <mxPoint x="495" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7jjQzPY3oSww5JK-p-U8-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0.485;entryY=0.497;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
