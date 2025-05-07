@@ -37,6 +37,9 @@
         <mxCell id="Ec0NfRntek-hcCcQKZI_-1" value="糖尿病患者" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="-160" y="109.5" width="70" height="30.5" as="geometry" />
         </mxCell>
+        <mxCell id="Mr6iX36EytRokA8NIayN-35" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ec0NfRntek-hcCcQKZI_-2" target="Mr6iX36EytRokA8NIayN-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ec0NfRntek-hcCcQKZI_-2" value="米唐 尸水 疒丙 串心 者" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="-160" y="149" width="70" height="30.5" as="geometry" />
         </mxCell>
@@ -691,7 +694,7 @@
         <mxCell id="Mr6iX36EytRokA8NIayN-33" value="数据增强" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-53" y="128" width="70" height="30.5" as="geometry" />
         </mxCell>
-        <mxCell id="Mr6iX36EytRokA8NIayN-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Mr6iX36EytRokA8NIayN-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ec0NfRntek-hcCcQKZI_-1" target="Mr6iX36EytRokA8NIayN-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-70" y="169.5" as="sourcePoint" />
             <mxPoint x="-40" y="188" as="targetPoint" />
