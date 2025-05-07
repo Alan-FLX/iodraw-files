@@ -466,7 +466,7 @@
         <mxCell id="Mr6iX36EytRokA8NIayN-76" value="条件随机场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="388.25" y="140.38" width="20" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="Mr6iX36EytRokA8NIayN-78" value="&lt;div style=&quot;text-align: start;&quot;&gt;TextCNN&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;verticalAlign=middle;textDirection=vertical-rl;horizontal=1;rotation=-90;fillColor=#e1d5e7;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="Mr6iX36EytRokA8NIayN-78" value="&lt;div style=&quot;text-align: start;&quot;&gt;TextCNN&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;verticalAlign=middle;textDirection=vertical-rl;horizontal=1;rotation=-90;fillColor=#e1d5e7;strokeColor=default;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="81.37999999999998" y="164.88" width="21.75" height="90.5" as="geometry" />
         </mxCell>
         <mxCell id="Mr6iX36EytRokA8NIayN-79" value="&lt;div style=&quot;text-align: start;&quot;&gt;Radical Attention&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;verticalAlign=middle;textDirection=vertical-rl;horizontal=1;rotation=-90;fillColor=#e1d5e7;strokeColor=default;" vertex="1" parent="1">
