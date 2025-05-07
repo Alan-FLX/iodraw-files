@@ -331,15 +331,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u_NVT7SIp9F0DpOV-776-43" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="u_NVT7SIp9F0DpOV-776-28" target="u_NVT7SIp9F0DpOV-776-41" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="194" y="240" as="sourcePoint" />
-            <mxPoint x="244" y="190" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="224" y="257" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="u_NVT7SIp9F0DpOV-776-54" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;特征融合&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="296" y="40" width="82" height="30" as="geometry" />
         </mxCell>
@@ -694,7 +685,7 @@
         <mxCell id="Mr6iX36EytRokA8NIayN-80" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="170" y="113" width="31" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="Mr6iX36EytRokA8NIayN-83" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Mr6iX36EytRokA8NIayN-83" value="融合" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="215" y="208" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
