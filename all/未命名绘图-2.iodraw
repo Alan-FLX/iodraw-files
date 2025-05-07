@@ -688,6 +688,9 @@
         <mxCell id="Mr6iX36EytRokA8NIayN-79" value="&lt;div style=&quot;text-align: start;&quot;&gt;Radical Attention&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;verticalAlign=middle;textDirection=vertical-rl;horizontal=1;rotation=-90;fillColor=#e1d5e7;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="81.36999999999999" y="201.5" width="21.75" height="98.37" as="geometry" />
         </mxCell>
+        <mxCell id="Mr6iX36EytRokA8NIayN-80" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="179" y="213" width="31" height="71" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
