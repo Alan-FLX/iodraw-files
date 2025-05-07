@@ -614,7 +614,7 @@
           <mxGeometry x="1135" y="638.75" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ec0NfRntek-hcCcQKZI_-254" value="文本嵌入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;direction=east;flipH=1;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="1238" y="685" width="30" height="70" as="geometry" />
+          <mxGeometry x="1163" y="585.5" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ec0NfRntek-hcCcQKZI_-255" value="部首嵌入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;direction=east;flipH=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="1094" y="637" width="30" height="70" as="geometry" />
@@ -697,7 +697,7 @@
         <mxCell id="Mr6iX36EytRokA8NIayN-104" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1165" y="653.49" as="sourcePoint" />
-            <mxPoint x="1195" y="653.49" as="targetPoint" />
+            <mxPoint x="1190" y="653" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
