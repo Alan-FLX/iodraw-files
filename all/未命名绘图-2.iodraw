@@ -8,13 +8,13 @@
           <mxGeometry x="120" y="615" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QyUckuqAP3ATsNXzLsmU-2" value="医生" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="790" width="70" height="30" as="geometry" />
+          <mxGeometry x="90" y="720" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QyUckuqAP3ATsNXzLsmU-3" value="系统管理员" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="885" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QyUckuqAP3ATsNXzLsmU-5" value="上传" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="730" width="70" height="40" as="geometry" />
+          <mxGeometry x="220" y="640" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QyUckuqAP3ATsNXzLsmU-6" value="上传" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="780" width="70" height="40" as="geometry" />
