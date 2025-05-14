@@ -493,8 +493,8 @@
             <mxPoint x="-315.17894696387384" y="790.4087967349483" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c9z6n5aXbns-N2uetD-i-257" value="采样动作&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-326.1911606456573" y="733.0295756322148" width="70" height="30" as="geometry" />
+        <mxCell id="c9z6n5aXbns-N2uetD-i-257" value="&lt;font face=&quot;宋体&quot;&gt;采样动作&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-331.1911606456573" y="733.0295756322148" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c9z6n5aXbns-N2uetD-i-258" value="" style="endArrow=classic;html=1;curved=1;dashed=1;entryX=0.423;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="c9z6n5aXbns-N2uetD-i-257" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
