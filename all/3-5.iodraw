@@ -712,7 +712,7 @@
         <mxCell id="SLMKYXg3oIMYnzqgAszj-122" value="概念策略奖励" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-83" y="783.8599999999997" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SLMKYXg3oIMYnzqgAszj-123" value="&lt;font face=&quot;宋体&quot;&gt;奖励&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;oaaPViWtCnY14Yaxlluy&quot;&gt;函数&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+        <mxCell id="SLMKYXg3oIMYnzqgAszj-123" value="&lt;font face=&quot;宋体&quot;&gt;奖励&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;函数&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-251.19000000000005" y="639.6799999999998" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SLMKYXg3oIMYnzqgAszj-124" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
