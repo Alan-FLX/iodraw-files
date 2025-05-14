@@ -14,7 +14,7 @@
           <mxGeometry x="259.91" y="70.09" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7KMlhh5GlBIv9E5pLz70-4" value="RiskFactor&lt;div&gt;（&lt;font face=&quot;宋体&quot;&gt;风险因素&lt;/font&gt;）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#80FF00;strokeColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="130" y="-5" width="70" height="70" as="geometry" />
+          <mxGeometry x="120" y="-15" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7KMlhh5GlBIv9E5pLz70-6" value="Symptom&lt;div&gt;（&lt;font face=&quot;宋体&quot;&gt;症状&lt;/font&gt;）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF6666;strokeColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="70" y="70" width="70" height="70" as="geometry" />
@@ -127,7 +127,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7KMlhh5GlBIv9E5pLz70-40" value="present&lt;div&gt;（表现）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontFamily=Times New Roman;" parent="7KMlhh5GlBIv9E5pLz70-39" vertex="1" connectable="0">
+        <mxCell id="7KMlhh5GlBIv9E5pLz70-40" value="present&lt;div&gt;（&lt;font face=&quot;宋体&quot;&gt;表现&lt;/font&gt;）&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontFamily=Times New Roman;" parent="7KMlhh5GlBIv9E5pLz70-39" vertex="1" connectable="0">
           <mxGeometry x="-0.2462" relative="1" as="geometry">
             <mxPoint x="-10" y="-15" as="offset" />
           </mxGeometry>
