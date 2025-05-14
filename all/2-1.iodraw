@@ -160,7 +160,7 @@
             <mxPoint x="90" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HdfEfC1cjjDE-7r_UQV_-3" value="transport&lt;div&gt;（转运）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="HdfEfC1cjjDE-7r_UQV_-3" value="transport&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;（转运）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="113" y="274" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bLJZ7rB9fqGTO_5oTvOO-1" value="SNP&lt;div&gt;（&lt;font face=&quot;宋体&quot;&gt;单核酸&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;多态性&lt;/font&gt;）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
