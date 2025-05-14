@@ -7,10 +7,10 @@
         <mxCell id="7KMlhh5GlBIv9E5pLz70-1" value="Chemical&lt;div&gt;（化学药品）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=#ffffff;strokeColor=none;fillColor=#5DA91B;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="190" y="220" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7KMlhh5GlBIv9E5pLz70-2" value="Gene&lt;div&gt;（基因）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#FFE599;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="7KMlhh5GlBIv9E5pLz70-2" value="Gene&lt;div&gt;（&lt;font face=&quot;宋体&quot;&gt;基因&lt;/font&gt;）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#FFE599;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="360" y="220" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7KMlhh5GlBIv9E5pLz70-3" value="Disease&lt;div&gt;（疾病）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=none;rotation=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="7KMlhh5GlBIv9E5pLz70-3" value="Disease&lt;div&gt;（&lt;font face=&quot;宋体&quot;&gt;疾病&lt;/font&gt;）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=none;rotation=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="259.91" y="70.09" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7KMlhh5GlBIv9E5pLz70-4" value="RiskFactor&lt;div&gt;（风险因素）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#80FF00;strokeColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
