@@ -436,11 +436,11 @@
         <mxCell id="c9z6n5aXbns-N2uetD-i-225" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="-371.4494926979247" y="588.2626320588954" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="c9z6n5aXbns-N2uetD-i-226" value="隐藏状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-385.7295311299001" y="569.997067236049" width="60" height="20" as="geometry" />
+        <mxCell id="c9z6n5aXbns-N2uetD-i-226" value="&lt;font face=&quot;宋体&quot;&gt;隐藏状态&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-390.7295311299001" y="564.997067236049" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c9z6n5aXbns-N2uetD-i-233" value="观察" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-316.5500614911607" y="569.9972689664376" width="40" height="20" as="geometry" />
+        <mxCell id="c9z6n5aXbns-N2uetD-i-233" value="&lt;font face=&quot;宋体&quot;&gt;观察&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-321.5500614911607" y="564.9972689664376" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c9z6n5aXbns-N2uetD-i-238" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;direction=south;gradientColor=none;gradientDirection=north;fillColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="-381.2299999999999" y="639.3699999999999" width="20" height="66.95" as="geometry" />
@@ -712,7 +712,7 @@
         <mxCell id="SLMKYXg3oIMYnzqgAszj-122" value="概念策略奖励" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-83" y="783.8599999999997" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SLMKYXg3oIMYnzqgAszj-123" value="奖励&lt;div&gt;函数&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+        <mxCell id="SLMKYXg3oIMYnzqgAszj-123" value="&lt;font face=&quot;宋体&quot;&gt;奖励&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;oaaPViWtCnY14Yaxlluy&quot;&gt;函数&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-251.19000000000005" y="639.6799999999998" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SLMKYXg3oIMYnzqgAszj-124" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
@@ -721,8 +721,8 @@
             <mxPoint x="37" y="688.69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SLMKYXg3oIMYnzqgAszj-125" value="优化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-244.00000000000009" y="588.26" width="40" height="20" as="geometry" />
+        <mxCell id="SLMKYXg3oIMYnzqgAszj-125" value="&lt;font face=&quot;宋体&quot;&gt;优化&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-249.00000000000009" y="583.26" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SLMKYXg3oIMYnzqgAszj-126" value="&lt;i&gt;e&lt;sub&gt;s&lt;/sub&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-251" y="754.52" width="40" height="30" as="geometry" />
