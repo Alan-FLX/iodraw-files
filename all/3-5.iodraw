@@ -511,8 +511,8 @@
         <mxCell id="c9z6n5aXbns-N2uetD-i-260" value="&lt;font face=&quot;宋体&quot;&gt;动作分布&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-383.2500000000001" y="785.4099999999999" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="c9z6n5aXbns-N2uetD-i-261" value="状&lt;br&gt;态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="-387.4799999999999" y="656.1500000000001" width="30" height="30" as="geometry" />
+        <mxCell id="c9z6n5aXbns-N2uetD-i-261" value="&lt;font face=&quot;宋体&quot;&gt;状&lt;br&gt;态&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="-392.4799999999999" y="651.1500000000001" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c9z6n5aXbns-N2uetD-i-262" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
