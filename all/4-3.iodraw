@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram id="WX9ynRUTzUsAgAuKTITZ" name="第 1 页">
-    <mxGraphModel dx="2681" dy="110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="3349" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
         <mxCell id="GzXtokihir9xdNntoqyG-102" value="输入三元组" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="-2083.52" y="1025.84" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GzXtokihir9xdNntoqyG-104" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;rounded=1;strokeWidth=1;fillColor=#FFFF99;strokeColor=none;direction=north;flipV=1;" parent="1" vertex="1">
+        <mxCell id="GzXtokihir9xdNntoqyG-104" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;rounded=1;strokeWidth=1;fillColor=#FFFF99;strokeColor=default;direction=north;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="-2117.06" y="1025.8400000000001" width="39.63" height="42.07" as="geometry" />
         </mxCell>
         <mxCell id="GzXtokihir9xdNntoqyG-105" value="提示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;flipV=1;" parent="1" vertex="1">
