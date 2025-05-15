@@ -283,17 +283,17 @@
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-17" value="B&lt;div&gt;I&lt;/div&gt;&lt;div&gt;O标注&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2293.24" y="774.9499999999999" width="20" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-23" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#d6b656;fillColor=#ffbf00;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-23" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#ffbf00;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2249.88" y="800.3499999999999" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vBB606Umf4SSrBK1PSkk-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#d6b656;fillColor=#ffbf00;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="vBB606Umf4SSrBK1PSkk-34" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#ffbf00;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2253.88" y="800.3499999999999" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#d6b656;fillColor=#ffbf00;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#ffbf00;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2257.59" y="800.6199999999999" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-27" value="&lt;i&gt;e&lt;sub&gt;s&lt;/sub&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2256.13" y="720.6699999999998" width="40" height="30" as="geometry" />
+          <mxGeometry x="-2267.59" y="794.9499999999998" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ncdbk5bG-Yh8BQlxkp6i-34" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
