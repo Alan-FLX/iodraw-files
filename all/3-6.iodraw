@@ -49,7 +49,7 @@
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-27" value="Hypertension&lt;br&gt;（高血压）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="350" y="188" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8z-_Q77Zaob8vuUEi-bL-28" value="Amlodipine&lt;br&gt;（氨氯地平）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;Amlodipine&lt;/font&gt;&lt;br&gt;（氨氯地平）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="490" y="188" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8z-_Q77Zaob8vuUEi-bL-30" value="efficacy&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=宋体;" parent="1" vertex="1">
@@ -70,7 +70,7 @@
         <mxCell id="HizeB-CA8JM8lpvJj1j9-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;Myocardial&lt;br&gt;Infarction&lt;/font&gt;&lt;br&gt;（心肌梗塞）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="65" y="125" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HizeB-CA8JM8lpvJj1j9-3" value="efficacy&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=13;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="HizeB-CA8JM8lpvJj1j9-3" value="&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;efficacy&lt;/span&gt;&lt;/div&gt;&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=13;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="320" y="110.25" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a6VFIPP_vpCV5Fp7lsQw-1" value="" style="endArrow=classic;html=1;fontFamily=宋体;" parent="1" edge="1">
