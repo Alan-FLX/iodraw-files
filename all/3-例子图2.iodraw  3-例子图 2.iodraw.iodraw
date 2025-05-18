@@ -1,0 +1,109 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
+  <diagram id="qbdfn2SmB3JVSrPCFXH9" name="第 1 页">
+    <mxGraphModel dx="790" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-14" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="405" y="105.25" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-1" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="70" y="130" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-2" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="220" y="80" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-5" value="ACS&lt;br&gt;Management&lt;br&gt;（ACS指南）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="220" y="75" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;efficacy&lt;/font&gt;&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=320;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="145" y="97" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;efficacy&lt;/font&gt;&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=339;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="310" y="57" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;Ticagrelor&lt;/font&gt;&lt;br&gt;（替格瑞洛）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="395" y="105.25" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-16" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.008;exitY=0.479;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=宋体;" parent="1" source="HizeB-CA8JM8lpvJj1j9-2" target="8z-_Q77Zaob8vuUEi-bL-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="150" as="sourcePoint" />
+            <mxPoint x="220" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-18" value="associate&lt;div&gt;（关联）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=41;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="145" y="173" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-20" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="220" y="180" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-22" value="Coronary Artery&lt;br&gt;Diease&lt;br&gt;（冠状动脉疾病）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="205" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-23" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="360" y="188" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-25" value="risk&lt;div&gt;（风险）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="297" y="171" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-27" value="Hypertension&lt;br&gt;（高血压）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="350" y="188" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-28" value="&lt;font face=&quot;Times New Roman&quot;&gt;Amlodipine&lt;/font&gt;&lt;br&gt;（氨氯地平）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="490" y="188" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-30" value="efficacy&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="430" y="173" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-32" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=宋体;" parent="1" source="8z-_Q77Zaob8vuUEi-bL-1" target="8z-_Q77Zaob8vuUEi-bL-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="160" as="sourcePoint" />
+            <mxPoint x="250" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8z-_Q77Zaob8vuUEi-bL-38" value="" style="endArrow=classic;html=1;fontFamily=宋体;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="207.52" as="sourcePoint" />
+            <mxPoint x="360" y="207.52" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HizeB-CA8JM8lpvJj1j9-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;Myocardial&lt;br&gt;Infarction&lt;/font&gt;&lt;br&gt;（心肌梗塞）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="65" y="125" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HizeB-CA8JM8lpvJj1j9-3" value="&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;efficacy&lt;/span&gt;&lt;/div&gt;&lt;div&gt;（治疗）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=13;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="320" y="110.25" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a6VFIPP_vpCV5Fp7lsQw-1" value="" style="endArrow=classic;html=1;fontFamily=宋体;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="207.66" as="sourcePoint" />
+            <mxPoint x="490" y="207.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a6VFIPP_vpCV5Fp7lsQw-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="405" y="50" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a6VFIPP_vpCV5Fp7lsQw-2" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Aspiri&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;（阿司匹林）&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="408" y="47" width="70" height="34.75" as="geometry" />
+        </mxCell>
+        <mxCell id="a6VFIPP_vpCV5Fp7lsQw-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;冗余路径：&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="80" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a6VFIPP_vpCV5Fp7lsQw-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;理想路径：&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" parent="1" vertex="1">
+          <mxGeometry x="80" y="75.25" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a6VFIPP_vpCV5Fp7lsQw-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=宋体;" parent="1" source="8z-_Q77Zaob8vuUEi-bL-2" target="a6VFIPP_vpCV5Fp7lsQw-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="170" as="sourcePoint" />
+            <mxPoint x="390" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a6VFIPP_vpCV5Fp7lsQw-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=宋体;" parent="1" source="8z-_Q77Zaob8vuUEi-bL-2" target="8z-_Q77Zaob8vuUEi-bL-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="115" as="sourcePoint" />
+            <mxPoint x="415" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
