@@ -40,7 +40,7 @@
             <mxPoint x="303" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vNWdnQuPva7KBdb1rCxe-16" value="dominant&lt;div&gt;（主要致病因素）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=宋体;" parent="1" vertex="1">
+        <mxCell id="vNWdnQuPva7KBdb1rCxe-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;dominant&lt;/font&gt;&lt;div&gt;（主要致病因素）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=宋体;" parent="1" vertex="1">
           <mxGeometry x="92" y="243" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vNWdnQuPva7KBdb1rCxe-17" value="recessive&lt;div&gt;（潜在致病因素）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=338;fontFamily=宋体;" parent="1" vertex="1">
