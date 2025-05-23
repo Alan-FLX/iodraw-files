@@ -195,7 +195,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R_RCxpYTdKZZBo5pT_LP-57" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;心梗知识图谱推理系统&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=宋体;" parent="1" vertex="1">
-          <mxGeometry x="360" y="65" width="190" height="30" as="geometry" />
+          <mxGeometry x="360" y="75" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R_RCxpYTdKZZBo5pT_LP-58" value="" style="endArrow=block;html=1;endFill=0;fontFamily=宋体;" parent="1" target="R_RCxpYTdKZZBo5pT_LP-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
