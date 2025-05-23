@@ -340,7 +340,7 @@
             <mxPoint x="670" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cd3_Ofve9O7X6k9AmjxP-17" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;" parent="Cd3_Ofve9O7X6k9AmjxP-16" vertex="1" connectable="0">
+        <mxCell id="Cd3_Ofve9O7X6k9AmjxP-17" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;" parent="Cd3_Ofve9O7X6k9AmjxP-16" vertex="1" connectable="0">
           <mxGeometry x="0.1333" y="1" relative="1" as="geometry">
             <mxPoint x="-5.740000000000013" y="-0.4000000000000048" as="offset" />
           </mxGeometry>
